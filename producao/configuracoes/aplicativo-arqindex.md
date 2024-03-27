@@ -1,6 +1,6 @@
 # 🔹 Aplicativo ArqIndex
 
-O aplicativo ArqIndex é necessário para o trabalho de digitalização e indexação dos documentos, seja na unidade ou no cliente. Este aplicativo deve ser instalado em todas as máquinas que farão a digitalização e indexação de documentos.
+O aplicativo ArqIndex é necessário para o trabalho de digitalização e indexação dos documentos, seja na unidade ou no cliente. Este aplicativo deve ser instalado na máquina que será utilizada como servidor, na qual ocorrerão os processos.
 
 ## Instalação do aplicativo ArqIndex <a href="#instalacao-do-aplicativo-arqindex" id="instalacao-do-aplicativo-arqindex"></a>
 
@@ -25,17 +25,17 @@ A instalação do ArqIndex no cliente ou em uma das unidades franqueadas deve se
 
 ### Requisitos mínimos <a href="#requisitos-minimos" id="requisitos-minimos"></a>
 
-A máquina onde o aplicativo ArqIndex será instalado deve ter, no mínimo:
+Alguns processos executados pela aplicação ArqIndex podem demandar um alto processamento de máquina, como memória, processador, espaço em disco, tráfego de rede e internet. É importante que seja avaliado cada detalhe do projeto, pois esta máquina é um grande diferencial, levando em consideração a quantidade de documentos digitalizados bem como a qualidade e tamanho dos arquivos. Seguem os requisitos mínimos da máquina que irá receber a instalação do aplicativo ArqIndex:
 
 * Processador de quatro núcleos;
 * 8 GB de memória RAM;
-* Espaço de armazenamento em disco de acordo com a demanda de processamento, sendo o mínimo de 250 GB. Caso a unidade ou cliente demande um espaço maior de armazenamento, é recomendável utilizar uma máquina de 500 GB ou 1 TB.
+* Espaço de armazenamento em disco de acordo com a demanda de processamento, sendo o mínimo de 250 GB. Caso a unidade ou cliente demande um espaço maior de armazenamento, é recomendável utilizar uma máquina de 500 GB ou mais de armazenamento interno.
 
 ***
 
 ### Instalação <a href="#instalacao" id="instalacao"></a>
 
-Depois de realizar o download do do aplicativo instalador, clique duas vezes sobre o arquivo. Selecione o idioma desejado e clique em “OK”. Nas próximas telas, clique em “Próximo”.
+Após de realizar o download do executável de instalação, execute a instalação, selecione o idioma desejado e clique em “OK”. Nas próximas telas, apenas clique em “Próximo” para instalação padrão.
 
 <figure><img src="../../.gitbook/assets/app01.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
@@ -61,22 +61,32 @@ Depois de instalar o aplicativo do ArqIndex, realize o login utilizando o mesmo 
 
 ## Configurar Parâmetros <a href="#configurar-parametros" id="configurar-parametros"></a>
 
-Nesta tela são definidos os locais de trabalho para armazenamento das imagens digitalizadas.
+Após o login é exibida a tela de configuração dos parâmetros para o funcionamento da aplicação.
 
-Em “Local de Trabalho” selecione a unidade ou cliente.
+**Local de Trabalho:** Neste campo são exibidos os Parâmetros Gerais ou o chamado Local de Trabalho, criados no menu [Produção > Configurações > Parâmetros Gerais](parametros-gerais.md).
 
-Para definir os locais de arquivos de entrada, em processo e em exportação é preciso primeiro criar essas pastas na máquina. Para isso, acesse o local onde o aplicativo foi instalado (por padrão a pasta C:\Program Files (x86)\Arquivar\ArqIndex) e crie três pastas nesse local: “Entrada”, “Exportação” e “Processo”.
+**Local dos Arquivos de Entrada:** Neste campo é informada a pasta onde serão armazenados os arquivos XML e imagens digitalizadas no scanner. É importante que esta pasta esteja compartilhada na rede, pois será utilizada tanto pelo ArqIndex para indexação quanto pelo scanner para digitalização.
+
+**Local dos Arquivos em Processo:** Neste campo é informada a pasta onde serão armazenados os arquivos processados e validados corretamente pelo ArqIndex para indexação. É importante que essa pasta esteja compartilhada na rede, pois será utilizada pelo ArqIndex para indexação dos documentos.
+
+**Local dos Arquivos em Exportação:** Neste campo é informado a pasta onde serão armazenados os arquivos processados, validados e indexados corretamente pelo ArqIndex. É importante que esSa pasta esteja compartilhada na rede, pois será utilizada pelo ArqIndex para exportação dos documentos indexados para o ArqGED.
+
+**HOST/IP:** Este campo é preenchido automaticamente com o endereço da rede onde foi instalada a aplicação ArqIndex.
+
+{% hint style="warning" %}
+<mark style="color:orange;">**Após clicar no botão "Salvar" não será mais possível alterar o Local de Trabalho informado, portanto, tenha total certeza de que o endereço informado é o correto.**</mark>
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/app05.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-{% hint style="warning" %}
-<mark style="color:orange;">**As pastas criadas devem ser compartilhadas em rede com outras máquinas que também precisarão acessar o conteúdo para realizar a indexação dos documentos.**</mark>
-{% endhint %}
-
-Depois de criar as pastas, copie o endereço de acesso a elas nos campos correspondentes a cada uma. Para isso clique sobre a pasta com o botão direito do mouse e selecione Propriedades > Compartilhamento. Copie o “Caminho de Rede” no campo correspondente.
+Após criadas as pastas para a configuração dos parâmetros, clique sobre cada pasta criada com o botão direito do mouse, selecione Propriedades > Compartilhamento e copie o “Caminho de Rede” conforme o exemplo abaixo. Após copiado, basta colar o caminho no campo correspondente na aplicação ArqIndex. O ideal é que sejam atribuídos às pastas nomes de fácil identificação.
 
 {% hint style="info" %}
-<mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Copie o caminho de rede da pasta “Entrada” no campo “Local dos Arquivos de Entrada”. Faça isso também com as demais pastas.</mark>
+<mark style="color:blue;">**EXEMPLO:**</mark>&#x20;
+
+* <mark style="color:blue;">Local dos Arquivos de Entrada: Entrada</mark>
+* <mark style="color:blue;">Local dos Arquivos em Processo: Processo</mark>
+* <mark style="color:blue;">Local dos Arquivos em Exportação: Exportação</mark>
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/app06.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
@@ -91,9 +101,19 @@ O campo “HOST/IP” é preenchido automaticamente com o endereço de rede onde
 
 ## Processos <a href="#processos" id="processos"></a>
 
-Nesta tela são iniciadas as etapas do fluxo de indexação do cliente. As etapas mostradas aqui foram definidas anteriormente na tela [Produção > Configurações > Fluxo de Trabalho](fluxo-de-trabalho.md) para o cliente.
+Após salvar as configurações, na aba Processos são exibidos as etapas de execução da aplicação, que serão executadas conforme definidas no menu [Produção > Configurações > Fluxo de Trabalho](fluxo-de-trabalho.md).
 
-A primeira etapa a ser executada é o “Host das Imagens”, que deverá criar os certificados de segurança da máquina onde o robô está instalado e das máquinas indexadoras. Clique no ícone “Play”.
+Inicialmente, sugerimos que seja iniciado o processo de Host das Imagens, clicando-se no ícone “Play”. Quando iniciado, serão criados um certificado para utilização da aplicação ArqIndex na máquina onde foi instalado e outro para ser instalado nas maquinas indexadoras, ou seja, as máquinas onde os usuários irão realizar a indexação dos documentos. Esses certificados são importantes para a comunicação entre a máquina servidor e as máquinas indexadoras.
+
+Os certificados serão criados na pasta onde o aplicativo está instalado (por padrão, na pasta C:\Program Files (x86)\Arquivar\ArqIndex\Certificados).
+
+{% hint style="warning" %}
+<mark style="color:orange;">**A máquina de instalação da aplicação ArqIndex precisa ter permissão de Administrador, pois serão criados os certificados automaticamente. Além disso, é necessário:**</mark>
+
+* <mark style="color:orange;">**Liberar a porta 8087 para uso do ArqIndex;**</mark>
+* <mark style="color:orange;">**Verificar o firewall, para que não bloqueie o acesso;**</mark>
+* <mark style="color:orange;">**Verificar bloqueios de antivírus à aplicação.**</mark>
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/app10.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
