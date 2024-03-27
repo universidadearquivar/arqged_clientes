@@ -1,6 +1,14 @@
 # 🔹 Parâmetros Gerais
 
-No menu Parâmetros Gerais são configurados os locais de trabalho do servidor para o cliente, ou seja, os locais de armazenamento dos arquivos do cliente no servidor.
+No menu Parâmetros Gerais são configurados os locais de trabalho que serão posteriormente associados à aplicação ArqIndex. Cada Unidade ou cliente pode ter um ou mais locais de trabalho configurados, mas a aplicação ArqIndex pode ter relacionado apenas um local de trabalho.
+
+{% hint style="info" %}
+<mark style="color:blue;">**Local de trabalho**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">é o termo utilizado para configuração criada com os parâmetros de execução da aplicação ArqIndex. Por exemplo, a Unidade Arquivar Qualidade possui um local de trabalho chamado "Documentos de Funcionários".</mark>
+{% endhint %}
+
+O nome do local de trabalho pode ser aquele que o usuário desejar. Posteriormente esse local criado será relacionado a um fluxo de trabalho e associado à aplicação ArqIndex.
+
+***
 
 ## Parâmetros Gerais – Tela inicial <a href="#parametros-gerais-tela-inicial" id="parametros-gerais-tela-inicial"></a>
 
@@ -14,9 +22,9 @@ No menu Parâmetros Gerais são configurados os locais de trabalho do servidor p
 
 **Ícone Excluir:** Utilizado para excluir o local de trabalho selecionado.
 
-**Coluna Empresa:** Mostra o cliente ou unidade Arquivar selecionado.
+**Coluna Empresa:** Exibe o cliente ou unidade Arquivar selecionado.
 
-**Coluna Local de Trabalho:** Mostra o nome dado ao local de trabalho.
+**Coluna Local de Trabalho:** Exibe o nome dado ao local de trabalho.
 
 <figure><img src="../../.gitbook/assets/conf01.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
@@ -36,24 +44,22 @@ Na tela “Adicionar Registro”, informe um nome para o local de trabalho que e
 
 Ao longo do processo de indexação um arquivo de documento fica hospedado em diferentes locais do servidor, chamados de “Diretório para Armazenamento”.
 
-**Local dos arquivos de Entrada:** Quando um documento é digitalizado ele gera dois arquivos: um XML e um PDF (imagem), que ficam hospedados nesse local. Quando o robô do ArqIndex inicia o processo de leitura dos arquivos XML e verifica se todas as informações estão corretas.
+**Local dos arquivos de Entrada:** Quando um documento é digitalizado ele gera dois arquivos: um XML e um PDF ou TIFF (imagem), que ficam hospedados nesse local (pasta).
 
-**Local dos arquivos em Processo:** Local para onde os arquivos são enviados após a leitura inicial do XML pelo robô. Os arquivos dessa pasta ficam em uma fila de trabalho aguardando que sejam indexados.
+**Local dos arquivos em Processo:** Quando é realizada a leitura do XML e os documentos gerados são validados e processados corretamente, seus arquivos são enviados para este local (pasta). Neste momento os documentos podem ser consultados para indexação.
 
-**Local dos arquivos em Exportação:** Local em que os arquivos ficam hospedados quando já foram indexados e estão prontos para serem exportados para o ArqGED. Quando a exportação é executada, os documentos são gravados na base de dados do sistema e podem ser consultados por meio da Localização Simples, Localização Avançada ou tela Explorar.
+**Local dos arquivos em Exportação:** Quando é realizada a indexação dos documentos e são processados corretamente, seus arquivos ficam hospedados neste local (pasta) prontos para serem exportados para o sistema ArqGED. Quando a exportação é executada, os documentos com seus respectivos arquivos são gravados na base de dados do sistema e podem ser consultados por meio da [Localização Simples](../../documento/localizacao-simples.md), [Localização Avançada](../../documento/localizacao-avancada.md) ou tela [Explorar](../../documento/explorar/).
 
-**Host/IP:** Endereço da máquina onde o robô do ArqIndex está instalado.
+**Host/IP:** Endereço da máquina de instalação da aplicação ArqIndex.
 
-Esses campos ficam desabilitados nessa tela porque a sua configuração deve ser feita quando o aplicativo (robô) for instalado. As configurações feitas durante a[ instalação do aplicativo ArqIndex](aplicativo-arqindex.md#instalacao-do-aplicativo-arqindex) são espelhadas nessa tela.
+Os campos informados acima são exibidos desabilitados nessa tela, já que são apenas espelho da [configuração realizada na aplicação ArqIndex](aplicativo-arqindex.md#configurar-parametros), ou seja, somente após associado o Local de Trabalho com o ArqIndex será possível configurá-los.
 
 <figure><img src="../../.gitbook/assets/conf03.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-Em “Programação do processamento do Robô” é definida a periodicidade da leitura dos arquivos XML, da indexação automática, da conversão e da exportação dos arquivos do cliente, que são as rotinas do processo de indexação de um documento executadas pelo próprio sistema.
-
-Esses campos definem a periodicidade em que cada um dos processos deve ocorrer, que pode ser durante 24 horas ou durante um horário pré-definido. Os campos “Intervalo” devem ser preenchidos com os minutos de intervalo de execução de cada processo, que por padrão é de 5 minutos.
+Em “Programação do processamento do Robô” é definida a periodicidade de execução dos processos da aplicação ArqIndex, ou seja, a execução de cada um dos processos pode durante 24 horas ou durante um horário pré-definido, com intervalo de tempo para execução em minutos. Inicialmente todos os processos são executados por 24 horas a cada cinco minutos, mas o usuário pode alterar essa definição se desejar.
 
 {% hint style="info" %}
-<mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">É possível que o usuário queira definir que os processos do robô sejam executados em um horário em que não há concorrência no uso da máquina. Neste caso, pode ser definido, por exemplo, o horário pré-definido 17:00 às 08:00.</mark>
+<mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">A etapa de Leitura do XML pode ocorrer em horário comercial, de 8h às 18h, e as etapas de Conversão e Exportação podem ocorrer de 18h às 8h. Essa configuração pode ser utilizada em casos de demanda de processamento de rede ou de acordo com a necessidade de cada cliente/unidade.</mark>
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/conf04.png" alt=""><figcaption></figcaption></figure>
