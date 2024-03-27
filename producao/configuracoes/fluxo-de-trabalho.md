@@ -1,8 +1,6 @@
 # 🔹 Fluxo de Trabalho
 
-Neste menu é configurado o processo de trabalho de indexação de cada cliente, ou seja, o passo a passo que o robô do ArqIndex deve seguir para realizar a indexação de documentos daquele cliente.
-
-## Fluxo de Trabalho – Tela inicial <a href="#fluxo-de-trabalho-tela-inicial" id="fluxo-de-trabalho-tela-inicial"></a>
+Nesta tela são parametrizadas as etapas para indexação dos documentos para a aplicação ArqIndex.
 
 **Campo Empresa:** Utilizado para selecionar o cliente. O fluxo de trabalho sempre será associado ao cliente, nunca à unidade.
 
@@ -16,9 +14,9 @@ Neste menu é configurado o processo de trabalho de indexação de cada cliente,
 
 **Coluna Empresa:** Mostra o cliente selecionado.
 
-**Coluna Local de Trabalho:** Mostra o nome dado ao local de trabalho.
+**Coluna Local de Trabalho:** Exibe o nome dado ao local de trabalho.
 
-**Coluna Nome do Fluxo:** Mostra o nome dado ao fluxo de trabalho criado.
+**Coluna Nome do Fluxo:** Exibe o nome dado ao fluxo de trabalho criado.
 
 <figure><img src="../../.gitbook/assets/conf07.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
@@ -64,31 +62,29 @@ Por padrão as etapas de “Leitura do XML” e “Indexação Manual” já vê
 
 <figure><img src="../../.gitbook/assets/conf13.png" alt=""><figcaption></figcaption></figure>
 
-**Leitura de XML:** Etapa de leitura dos documentos inseridos no scanner. O robô faz a leitura dos documentos transformando-os em arquivos XML e de imagem na ferramenta.
+**Leitura de XML:** Etapa de processamento e validação dos documentos digitalizados.
 
-**Indexação Automática:** Etapa que ocorre quando é possível realizar a indexação automática dos arquivos, porque eles já foram digitalizados em formato PDF pesquisável. Neste caso é utilizado a ferramenta OCR para identificar e preencher os campos indexadores do documento.
+**Indexação Automática:** Etapa utilizada para indexação automática dos documentos. Neste caso é utilizada a ferramenta OCR para identificar e preencher automaticamente os campos indexadores de um arquivo padrão.
 
-**Indexação Manual:** Etapa em que o usuário abre o arquivo no computador, faz a leitura e realiza a indexação dos campos do documento, preenchendo os campos customizados e de lista conforme a imagem apresentada. Caso o arquivo seja um PDF é possível definir quantas páginas serão exibidas para o usuário na indexação manual, preenchendo o campo “Páginas (PDF)”. Essa funcionalidade é útil, por exemplo, quando o arquivo possui muitas páginas, mas só apresenta campos indexadores em algumas delas.
+**Indexação Manual:** Etapa de realização da indexação dos documentos gerados via tela Cadastrar. Caso o arquivo seja um PDF é possível definir quantas páginas serão exibidas para o usuário na tela para indexação, preenchendo o campo “Páginas (PDF)” com a quantidade de páginas a serem exibidas. Essa funcionalidade é útil, por exemplo, quando o arquivo possui muitas páginas, mas só é preciso visualizar as dez primeiras, por exemplo.
 
-**Conversão e Gravação - PDF MultiPage:** Etapa que deve ser realizada quando o arquivo for digitalizado em formato TIFF e precisar ser convertido para o formato PDF. Neste caso deve ser informada a resolução que se deseja para o arquivo e se o os arquivos deverão ser convertidos para preto e branco (binarizar).
+**Conversão e Gravação - PDF MultiPage:** Etapa utilizada para digitalização de arquivos em formato TIFF e precisa ser convertido para o formato PDF. Neste caso deve ser informada a resolução (qualidade) que se deseja para o arquivo e se o os arquivos deverão ser convertidos para preto e branco (binarizar).
 
-**Conversão e Gravação - PDF MultiPage Pesquisável:** Etapa que deve ser realizada quando o arquivo for digitalizado PDF mas não for pesquisável (imagem). O robô fará a leitura do arquivo e utilizará a ferramenta OCR para identificar o texto que estiver contido naquele PDF, tornando-o pesquisável dentro do ArqGED. Neste caso deve ser informada a resolução que se deseja para o arquivo e se o os arquivos deverão ser convertidos para preto e branco (binarizar).
-
-{% hint style="warning" %}
-<mark style="color:orange;">**Para aplicar o OCR nos arquivos e torná-los pesquisáveis, o cliente precisa ter contratado e ativo o serviço ArqSEARCH.**</mark>
-{% endhint %}
-
-**Conversão e Gravação - TIFF MultiPage:** Etapa que deve ser realizada quando o arquivo for digitalizado em formato TIFF e for necessário agrupar os arquivos em uma página. Neste caso deve ser informada a resolução que se deseja para o arquivo e se o os arquivos deverão ser convertidos para preto e branco (binarizar).
-
-**Conversão e Gravação - Gravação:** Esta etapa é feita quando não é necessária nenhuma manipulação do arquivo. O robô fará apenas a transferência do arquivo da pasta de processo para a pasta de exportação para o ArqGED. Essa etapa é muito utilizada quando o formato do arquivo digitalizado já é PDF pesquisável.
+**Conversão e Gravação - PDF MultiPage Pesquisável:** Etapa utilizada quando o arquivo for digitalizado como PDF mas não for pesquisável. A aplicação ArqIndex realizará a conversão do arquivo identificando e extraindo o texto, tornando-o pesquisável dentro do ArqGED. Neste caso deve ser informada a resolução (qualidade) que se deseja para o arquivo e se o os arquivos deverão ser convertidos para preto e branco (binarizar).
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Para aplicar o OCR nos arquivos e torná-los pesquisáveis, o cliente precisa ter contratado e ativo o serviço ArqSEARCH.**</mark>
+<mark style="color:orange;">**Essa conversão demanda muito processamento do servidor. O ideal é que, se possível, o arquivo já seja gerado como pesquisável pelo scanner.**</mark>
 {% endhint %}
 
-**Exportação:** Etapa de exportação do arquivo já indexado para o ArqGED, onde poderá ser consultado via [Localização Simples](../../documento/localizacao-simples.md), [Localização Avançada](../../documento/localizacao-avancada.md) e tela [Explorar](../../documento/explorar/).
+**Conversão e Gravação - TIFF MultiPage:** Etapa utilizada quando o arquivo for digitalizado em formato TIFF e for necessário agrupar os arquivos em um arquivo único. Neste caso deve ser informada a resolução (qualidade) que se deseja para o arquivo e se o os arquivos deverão ser convertidos para preto e branco (binarizar).
 
-Se marcada a opção “Pular Indexação Manual” essa etapa poderá deixar de ser executada quando todos os campos obrigatórios estiverem preenchidos após a indexação automática ou quando todos os campos, sendo obrigatórios ou não, estiverem preenchidos após a indexação automática. Neste caso o fluxo de trabalho vai da etapa “Leitura do XML” direto para a etapa “Conversão e Gravação”.
+**Conversão e Gravação - Gravação:** Esta etapa não é realizada nenhuma manipulação do arquivo. A aplicação ArqIndex apenas transfere o arquivo da pasta "Processo" para a pasta "Exportação". Essa etapa é muito utilizada quando o formato do arquivo digitalizado já é PDF pesquisável.
+
+**Exportação:** Nesta etapa os documentos já foram validados e indexados e estão prontos para serem enviados ao ArqGED. Após a exportação os documentos poderão ser consultados via [Localização Simples](../../documento/localizacao-simples.md), [Localização Avançada](../../documento/localizacao-avancada.md) e tela [Explorar.](../../documento/explorar/)
+
+**Se marcada a opção “Pular Indexação Manual” - "Quando todos os campos obrigatórios estiverem preenchidos":** Após a Leitura do XML a aplicação ArqIndex irá validar se os documentos possuem campos obrigatórios e se estes campos estão todos preenchidos corretamente. Caso sim, os documentos não terão interação do usuário na indexação manual e irão direto para a conversão e exportação. Caso não, os documentos serão enviados para indexação manual para que um usuário realize a indexação.
+
+**Se marcada a opção “Pular Indexação Manual” - "Quando todos os campos obrigatórios ou não estiverem preenchidos":** Após a Leitura do XML a aplicação ArqIndex não irá validar nenhuma informação dos campos relacionados aos documentos e simplesmente irá enviá-los para a conversão e exportação.
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Para que seja possível pular a etapa de indexação manual é preciso que os campos dos documentos que estão sendo digitalizados tenham sido preenchidos de forma correta. Caso haja erros no preenchimento de qualquer um dos campos, o processo não irá pular a etapa, devendo ser feita a indexação manual pelo usuário.**</mark>
@@ -96,10 +92,10 @@ Se marcada a opção “Pular Indexação Manual” essa etapa poderá deixar de
 
 <figure><img src="../../.gitbook/assets/conf15.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-Se marcada a opção “Deletar os “Arquivos em Processo” após a etapa de conversão”, será feita a exclusão dos arquivos convertidos com sucesso para a etapa de exportação. Isso significa que os arquivos convertidos ficarão disponíveis apenas na pasta de exportação e, após a exportação para o ArqGED ser concluída, serão excluídos definitivamente, ficando disponíveis para consulta apenas no ArqGED.
+**Se marcada a opção “Deletar os “Arquivos em Processo” após a etapa de conversão”:** Após a etapa de conversão todos os documentos convertidos com sucesso serão enviados para a etapa de exportação e seus arquivos serão excluídos automaticamente da pasta de "Arquivos em Processo". Esta opção é utilizada para liberar espaço em disco, evitando arquivos desnecessários na máquina.
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Se essa opção não for habilitada, o arquivo será mantido na pasta de processo mesmo após ser convertido e exportado para o ArqGED, o que pode comprometer a disponibilidade de espaço em disco.**</mark>
+<mark style="color:orange;">**Todos os "Arquivos de Entrada" e "Arquivos em Exportação" são deletados automaticamente pelo robô após a execução de seus respectivos processos (Leitura de XML e Exportação). Para executar o mesmo com os "Arquivos em Processo" é preciso manter essa opção habilitada.**</mark>
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/conf16.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
