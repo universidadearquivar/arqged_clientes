@@ -13,5 +13,5 @@ description: >-
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="info" %}
-**A indicação do chefe imediato de um usuário deve ser feita na tela** [**Administração > Usuários > Aba Permissões II.**](https://arquivar.gitbook.io/manual-arqged-or-colaboradores-e-franqueados/administracao/usuarios)
+**A indicação do chefe imediato de um usuário deve ser feita na tela **<mark style="color:blue;">**Administração > Usuários > Aba Permissões II.**</mark>
 {% endhint %}
