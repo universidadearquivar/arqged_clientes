@@ -1,7 +1,7 @@
 ---
 description: >-
   No menu Grupos são criados grupos de usuários com permissão de acesso a
-  algumas funcionalidades do sistema, que são:
+  algumas funcionalidades do sistema.
 ---
 
 # 🟩 Grupos
