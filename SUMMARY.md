@@ -28,6 +28,8 @@
   * [🟩 Excluir](caixa-ou-pasta/excluir.md)
 * [📪 Endereço](endereco/README.md)
   * [🟩 Endereço do Cliente](endereco/endereco-do-cliente.md)
+* [⚙️ Administração](administracao/README.md)
+  * [🟩 Usuários](administracao/usuarios.md)
 * [🔄 Workflow](workflow/README.md)
   * [🟩 Atividades](workflow/atividades/README.md)
     * [🔹 Aba Minhas Atividades](workflow/atividades/aba-minhas-atividades/README.md)
