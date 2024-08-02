@@ -6,4 +6,4 @@ description: >-
 
 # 🟩 Usuários
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (120).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
