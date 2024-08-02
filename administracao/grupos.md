@@ -18,7 +18,7 @@ description: >-
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-Selecione o usuário que deseja incluir no grupo e clique no ícone "+" adicionar
+Selecione o usuário que deseja incluir no grupo e clique no ícone "**+**" adicionar
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
