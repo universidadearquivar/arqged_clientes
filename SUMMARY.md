@@ -29,6 +29,8 @@
 * [📪 Endereço](endereco/README.md)
   * [🟩 Endereço do Cliente](endereco/endereco-do-cliente.md)
 * [⚙️ Administração](administracao/README.md)
+  * [🟩 Grupos](administracao/grupos.md)
+  * [🟩 API](administracao/api.md)
   * [🟩 Usuários](administracao/usuarios.md)
 * [🔄 Workflow](workflow/README.md)
   * [🟩 Atividades](workflow/atividades/README.md)
