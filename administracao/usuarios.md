@@ -32,4 +32,10 @@ description: >-
 
 **Tipo de Acesso:** No caso de usuário de cliente, a única opção disponível é "Cliente".
 
-**Status:** Indica a situação do usuário no sistema. Ao adicionar um novo usuário, será mantido como "Inativo" até que sejam aplicadas todas as permissões/configurações do usuário.
+**Status:** Indica a situação do usuário no sistema. Ao adicionar um novo usuário, será mantido como "**Inativo" até que sejam aplicadas todas as permissões/configurações do usuário.**
+
+**Telefone Fixo e Telefone Celular:** Não são campos de preenchimento obrigatório, porém, estão disponíveis para uso.
+
+**E-mail:** Informe o e-mail mais acessado pelo usuário, este endereço será utilizado para todo o processo de comunicação com o usuário dentro do ArqGED.
+
+**Senha e Confirmar Senha:** Crie uma senha temporária para o usuário considerando os critérios apresentados pelo sistema: _"A senha deve conter no mínimo 8 caracteres, contendo letra maiúscula, minúscula, número e caractere especial."_
