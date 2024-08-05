@@ -74,8 +74,6 @@ Clicando no botão de atribuição, será apresentada uma nova tela para indicar
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-
-
 {% hint style="warning" %}
-<mark style="color:orange;">Se o usuário não for do tipo Master, é possível aplicar permissões diferentes em diferentes nós da Árvore. Se o usuário for do tipo Master, ele terá acesso a toda a Árvore documental, aplicando o perfil de acesso definido.</mark>
+<mark style="color:orange;">Se o usuário não for do tipo Master, é possível aplicar permissões diferentes em diferentes nós da Árvore. Se o usuário for do tipo Master, ele terá acesso a toda a Árvore documental, de acordo com o perfil de acesso definido para toda a Árvore.</mark>
 {% endhint %}
