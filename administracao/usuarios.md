@@ -44,4 +44,10 @@ description: >-
 
 **Alterar senha no próximo login:** Marcando o _checkbox_**,** assim que o usuário acessar o sistema pela primeira vez com a senha temporária criada para primeiro acesso, ele deverá criar uma senha pessoal considerando os critérios exigidos pelo sistema.
 
-**Trocar senha a cada \_\_\_ mês:**&#x20;
+**Trocar senha a cada \_\_\_ mês:** Marcando o _chackbox_, o sistema deverá de forma automática solicitar o cadastro de uma nova senha, sempre que atingido o prazo estipulado.
+
+**Notificação TTD:** Marcando o _chackbox_, o usuário será notificado quanto ao vencimento dos documentos da sua empresa, caso contratado o serviço.
+
+{% hint style="info" %}
+<mark style="color:blue;">É indicada a utilização do</mark> <mark style="color:blue;"></mark>_<mark style="color:blue;">chackbox</mark>_ <mark style="color:blue;"></mark><mark style="color:blue;">"Notificação TTD" apenas para os usuários com permissão de acesso completo a Árvore Documental do cliente, visto que para esta notificação, o sistema não valida o acesso do nível da Árvore Documental sendo o relatório de documentos vencidos enviado na íntegra ao usuário.</mark>
+{% endhint %}
