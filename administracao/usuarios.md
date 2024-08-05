@@ -16,7 +16,7 @@ description: >-
 
 **Aba Usuário**
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Nome:** Informe o nome completo do usuário.
 
@@ -25,7 +25,7 @@ description: >-
 {% hint style="info" %}
 <mark style="color:blue;">Crie um padrão de usuário para sua empresa, como por exemplo: "nome" + "." + "sobrenome" (maria.santos), ou utilize o e-mail corporativo, assim será muito difícil criar um usuário já existente. Quando isso acontece, é apresentada a seguinte mensagem:</mark>
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 <mark style="color:blue;">Outro ponto importante é que a validação de duplicidade de usuário ocorre em todo o banco de dados do ArqGED e não somente na base utilizada pelo cliente logado no momento.</mark>
 {% endhint %}
@@ -53,3 +53,9 @@ description: >-
 {% endhint %}
 
 **Aba Permissões I**
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+**Master:** Informe se o usuário é do tipo Master, ou seja se ele deve acessar a Árvore Documental completa, sendo necessário neste caso definir somente o perfil de acesso.
+
+Quando é necessária a restrição do usuário por departamento ou tipo documental, ele não poderá ser considerado um usuário Master.
