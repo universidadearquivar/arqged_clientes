@@ -8,7 +8,7 @@ description: >-
 
 ### Criando um novo usuário
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Empresa:** É apresentado o nome do cliente.
 
@@ -16,7 +16,7 @@ description: >-
 
 **Aba Usuário**
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Nome:** Informe o nome completo do usuário.
 
@@ -25,7 +25,7 @@ description: >-
 {% hint style="info" %}
 <mark style="color:blue;">Crie um padrão de usuário para sua empresa, como por exemplo: "nome" + "." + "sobrenome" (maria.santos), ou utilize o e-mail corporativo, assim será muito difícil criar um usuário já existente. Quando isso acontece, é apresentada a seguinte mensagem:</mark>
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1).png>)
 
 <mark style="color:blue;">Outro ponto importante é que a validação de duplicidade de usuário ocorre em todo o banco de dados do ArqGED e não somente na base utilizada pelo cliente logado no momento.</mark>
 {% endhint %}
@@ -54,7 +54,7 @@ description: >-
 
 **Aba Permissões I**
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Master:** Informe se o usuário é do tipo Master, ou seja, se ele deve acessar a Árvore Documental completa, sendo necessário neste caso definir somente o perfil de acesso.
 
@@ -70,3 +70,12 @@ Selecione o perfil que deseja atribuir clicando e arrastando para o nó de Árvo
 
 <figure><img src="../.gitbook/assets/image (122).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
+Clicando no botão de atribuição, será apresentada uma nova tela para indicar em qual nível da Árvore o perfil deve ser aplicado, selecione o desejado e clique "Salvar".
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+
+
+{% hint style="warning" %}
+<mark style="color:orange;">Se o usuário não for do tipo Master, é possível aplicar permissões diferentes em diferentes nós da Árvore. Se o usuário for do tipo Master, ele terá acesso a toda a Árvore documental, aplicando o perfil de acesso definido.</mark>
+{% endhint %}
