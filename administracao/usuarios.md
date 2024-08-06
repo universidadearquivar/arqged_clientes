@@ -8,7 +8,7 @@ description: >-
 
 ## Criando um novo usuário
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Empresa:** É apresentado o nome do cliente.
 
@@ -16,7 +16,7 @@ description: >-
 
 ### **Aba Usuário**
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Nome:** Informe o nome completo do usuário.
 
@@ -25,7 +25,7 @@ description: >-
 {% hint style="info" %}
 <mark style="color:blue;">Crie um padrão de usuário para sua empresa, como por exemplo: "nome" + "." + "sobrenome" (maria.santos), ou utilize o e-mail corporativo, assim será muito difícil criar um usuário já existente. Quando isso acontece, é apresentada a seguinte mensagem:</mark>
 
-![](<../.gitbook/assets/image (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1) (1).png>)
 
 <mark style="color:blue;">Outro ponto importante é que a validação de duplicidade de usuário ocorre em todo o banco de dados do ArqGED e não somente na base utilizada pelo cliente logado no momento.</mark>
 {% endhint %}
@@ -54,7 +54,7 @@ description: >-
 
 ### **Aba Permissões I**
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Master:** Informe se o usuário é do tipo Master, ou seja, se ele deve acessar a Árvore Documental completa, sendo necessário neste caso definir somente o perfil de acesso.
 
@@ -72,7 +72,7 @@ Selecione o perfil que deseja atribuir clicando e arrastando para o nó de Árvo
 
 Clicando no botão de atribuição, será apresentada uma nova tela para indicar em qual nível da Árvore o perfil deve ser aplicado, selecione o desejado e clique "Salvar".
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="warning" %}
 <mark style="color:orange;">Se o usuário não for do tipo Master, é possível aplicar permissões diferentes para diferentes nós da Árvore. Se o usuário for do tipo Master, ele terá acesso a toda a Árvore Documental, de acordo com o perfil de acesso definido, por exemplo, se ele tiver perfil de "Edição", ele poderá editar em todos os nós da árvore.</mark>
@@ -109,3 +109,19 @@ Para atribuir uma licença de assinatura digital ao usuário, clique no ícone. 
 Para desativar a licença, clique novamente no ícone.
 
 <figure><img src="../.gitbook/assets/image (126).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+### **Aba Permissões II**
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+**Endereço Raiz de Armazenamento de Caixas:** Trata-se da lista de endereços utilizada pelo cliente quando realizada a gestão de arquivo interno. Selecione no _checkbox_ somente aqueles que o usuário poderá acessar. Quando não é realizada essa configuração, o usuário não terá a localização física da caixa no busca de documentos e não visualizará o Menu > Caixa ou Pasta > Endereço do Cliente.
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+**Chefe Imediato:** Selecione na lista apresentada o superior do usuário, em caso de utilização do ArqFlow, o chefe imediato poderá visualizar ou executar atividades de seus subordinados, além de ser notificado quanto ao processo.&#x20;
+
+Dentro do arquivo interno, o chefe imediato também poderá cancelar reservas realizadas por seus subordinados.
+
+**Horário de Trabalho:** Selecione na lista o horário de trabalho praticado pelo usuário, quando cadastrado pelo cliente. Este campo é utilizado no ArqFlow para contabilizar o prazo de execução das atividades. Caso o cliente não utilize é só manter o campo sem preenchimento.&#x20;
+
+**Calendário:** Selecione na lista o horário de trabalho praticado pelo usuário, quando cadastrado pelo cliente. Este campo é utilizado no ArqFlow para contabilizar o prazo de execução das atividades. Caso o cliente não utilize é só manter o campo sem preenchimento.

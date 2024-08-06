@@ -6,7 +6,7 @@ description: >-
 
 # 🟩 API
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Unidade - Cliente:** Apresenta o nome da unidade e o nome do cliente.&#x20;
 
@@ -22,7 +22,7 @@ description: >-
 
 Ao clicar em Gerar: Par de Chaves, é exibida uma mensagem informativa na tela.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="danger" %}
 <mark style="color:red;">Se após regerar as chaves, o usuário não atualizá-las nos parâmetros de pesquisa da integração já existente, as chamadas na API do ArqGED deixarão de funcionar!</mark>
@@ -30,8 +30,8 @@ Ao clicar em Gerar: Par de Chaves, é exibida uma mensagem informativa na tela.
 
 Clique no ícone "Visualizar" para mostrar ou ocultar as chaves.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Para **regerar o par de chaves**, utilize o botão **"Gerar: Par de Chaves".** Para **regerar apenas uma das chaves, utilize o** ícone de **"Regerar Chave"** considerando a chave 1 ou a 2.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
