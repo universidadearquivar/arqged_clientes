@@ -132,4 +132,14 @@ Dentro do arquivo interno, o chefe imediato também poderá cancelar reservas re
 
 Nesta aba temos configurações voltadas para o layout do sistema que será apresentado ao usuário.
 
-**Registros por página:** Informe quantos registros o usuário poderá visualizar por página, a sugestão é que sejam apresentados no máximo 20.
+**Registros por página:** Informe quantos registros o usuário poderá visualizar por página, a sugestão é que sejam definidos no máximo 20.
+
+**Idioma:** Selecione o idioma que será utilizado, podendo ser Português ou Espanhol.
+
+**Foto de Perfil:** Utilize para fazer o upload da foto do usuário.
+
+**Opções de layout:** Selecione na lista qual como deseja que o usuário veja a tela do sistema.
+
+**Cores Padrão:** Deve ser utilizado para definir qual será a cor aplicada na visão do usuário, porém, o usuário só poderá alterar se no cadastro do cliente tiver sido permitida a mudança com a seleção da possibilidade de "Permitir que o usuário altere o layout padrão".
+
+**Alterar Senha:** Utilize para alterar a senha do usuário criado, quando necessário. Preencha com a nova senha e confirme.&#x20;
