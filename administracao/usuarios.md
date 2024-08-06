@@ -92,4 +92,8 @@ Considerando o exemplo abaixo, ao selecionar o "pai" - Gestão de Documentos par
 
 Caso a restrição precise ser em um nível "filho", é necessário selecionar somente este perfil no momento de arrastar para a árvore, desta forma não serão aplicadas permissões dos níveis superiores ou do nível "pai".
 
-<figure><img src="../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (123).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+{% hint style="danger" %}
+<mark style="color:red;">Importante ressaltar que a análise das permissões de cada usuário na árvore é de extrema importância para que os perfis sejam aplicados conforme necessidade e não comprometa a saúdo do sistema. Se por ventura esta análise não for feita e o perfil de acesso for aplicado em toda a árvore para todos os usuários, podem ocorrer casos de lentidão desde o momento do login, onde o sistema já inicia a verificação das permissões de acesso, até o momento da consulta de documentos, onde o sistema verifica no momento da solicitação quais dados podem ser apresentados ao usuário logado.</mark>
+{% endhint %}
