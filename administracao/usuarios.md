@@ -96,4 +96,6 @@ Caso a restrição precise ser em um nível "filho", é necessário selecionar s
 
 {% hint style="danger" %}
 <mark style="color:red;">Importante ressaltar que a análise das permissões de cada usuário na árvore é de extrema importância para que os perfis sejam aplicados conforme necessidade e não comprometa a saúdo do sistema. Se por ventura esta análise não for feita e o perfil de acesso for aplicado em toda a árvore para todos os usuários, podem ocorrer casos de lentidão desde o momento do login, onde o sistema já inicia a verificação das permissões de acesso, até o momento da consulta de documentos, onde o sistema verifica no momento da solicitação quais dados podem ser apresentados ao usuário logado.</mark>
+
+<mark style="color:red;">Caso identificada a necessidade de acesso a toda a Árvore Documental, a orientação é que o usuário seja criado do tipo "Master".</mark>
 {% endhint %}
