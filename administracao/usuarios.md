@@ -6,7 +6,7 @@ description: >-
 
 # 🟩 Usuários
 
-## Criando um novo usuário
+## Criar novo usuário
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -147,4 +147,6 @@ Nesta aba temos configurações voltadas para o layout do sistema que será apre
 {% hint style="warning" %}
 <mark style="color:orange;">Concluídas todas as configurações para o novo usuário, salve o cadastro, retorne para a "</mark><mark style="color:orange;">**Aba Usuário"**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">e altere o status para "</mark><mark style="color:orange;">**ativo**</mark><mark style="color:orange;">", caso contrário, o usuário não conseguirá logar no sistema.</mark>
 {% endhint %}
+
+## Excluir / Inativar / Bloquear Usuário
 
