@@ -150,3 +150,25 @@ Nesta aba temos configurações voltadas para o layout do sistema que será apre
 
 ## Excluir / Inativar / Bloquear Usuário
 
+Por padrão, o sistema não permite a exclusão de um usuário da base, isso ocorre devido aos _logs_ e históricos criados nos processos executados. É importante mantermos essa memória de todas as ocorrências.
+
+A orientação é utilizar as opções:
+
+1. **Inativar:** Utilizado quando ocorre o desligamento e o usuário não será ativado novamente.
+2. **Bloquear:** Utilizado quando o acesso precisar ser interrompido por um período curto ou por situações pontuais, por exemplo, quando o usuário estiver de férias e não puder acessar o sistema, mantenha bloqueado.
+
+Para tal alteração acesse a lista de usuários, selecione o que deseja alterar e clique no ícone de edição.&#x20;
+
+<figure><img src="../.gitbook/assets/image (128).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Selecione o status desejado e clique salvar.
+
+<figure><img src="../.gitbook/assets/image (129).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Também é possível "Inativar" o usuário selecionando na tela e clicando no ícone.
+
+<figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Será apresentada uma mensagem para validar a ação.
+
+<figure><img src="../.gitbook/assets/image (131).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
