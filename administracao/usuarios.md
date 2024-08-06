@@ -14,7 +14,7 @@ description: >-
 
 **Adicionar:** Clique para criar um novo usuário.
 
-**Aba Usuário**
+### **Aba Usuário**
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -52,7 +52,7 @@ description: >-
 <mark style="color:blue;">É indicada a utilização do</mark> <mark style="color:blue;"></mark>_<mark style="color:blue;">chackbox</mark>_ <mark style="color:blue;"></mark><mark style="color:blue;">"Notificação TTD" apenas para os usuários com permissão de acesso completo a Árvore Documental do cliente, visto que para esta notificação, o sistema não valida o acesso do nível da Árvore Documental sendo o relatório de documentos vencidos enviado na íntegra ao usuário.</mark>
 {% endhint %}
 
-**Aba Permissões I**
+### **Aba Permissões I**
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -75,5 +75,21 @@ Clicando no botão de atribuição, será apresentada uma nova tela para indicar
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="warning" %}
-<mark style="color:orange;">Se o usuário não for do tipo Master, é possível aplicar permissões diferentes em diferentes nós da Árvore. Se o usuário for do tipo Master, ele terá acesso a toda a Árvore documental, de acordo com o perfil de acesso definido para toda a Árvore.</mark>
+<mark style="color:orange;">Se o usuário não for do tipo Master, é possível aplicar permissões diferentes para diferentes nós da Árvore. Se o usuário for do tipo Master, ele terá acesso a toda a Árvore Documental, de acordo com o perfil de acesso definido, por exemplo, se ele tiver perfil de "Edição", ele poderá editar em todos os nós da árvore.</mark>
 {% endhint %}
+
+Os perfis são aplicados considerando as atribuições do nível mais alto, então se for arrastado o perfil "pai", todas as permissões "filhas" serão aplicadas ao nó da árvore.
+
+Considerando o exemplo abaixo, ao selecionar o "pai" - Gestão de Documentos para um nó da árvore, automaticamente terá habilitada as permissões filhas:
+
+\- Gestão de Documentos Eletrônicos
+
+&#x20;  \- Eletrônico - Cadastrar, Alterar e Visualizar
+
+&#x20;   \- Eletrônico - Visualizar
+
+&#x20;     \- Eletrônico - Visualizar (não altera)
+
+Caso a restrição precise ser em um nível "filho", é necessário selecionar somente este perfil no momento de arrastar para a árvore, desta forma não serão aplicadas permissões dos níveis superiores ou do nível "pai".
+
+<figure><img src="../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
