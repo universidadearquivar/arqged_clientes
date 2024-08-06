@@ -6,7 +6,7 @@ description: >-
 
 # 🟩 Usuários
 
-### Criando um novo usuário
+## Criando um novo usuário
 
 <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
