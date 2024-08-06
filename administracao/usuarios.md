@@ -100,4 +100,4 @@ Caso a restrição precise ser em um nível "filho", é necessário selecionar s
 <mark style="color:red;">Caso identificada a necessidade de acesso a toda a Árvore Documental, a orientação é que o usuário seja criado do tipo "Master".</mark>
 {% endhint %}
 
-Como regra, o sistema permite ao perfil que cria novos usuários, definir acessos somente iguais ao seu ou inferiores.
+Como regra, o sistema permite ao perfil que cria novos usuários, definir acessos iguais ao seu ou inferiores, ele também só consegue criar acessos para os mesmos níveis de árvore que ele visualiza.
