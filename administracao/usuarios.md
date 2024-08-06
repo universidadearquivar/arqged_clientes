@@ -125,3 +125,11 @@ Dentro do arquivo interno, o chefe imediato também poderá cancelar reservas re
 **Horário de Trabalho:** Selecione na lista o horário de trabalho praticado pelo usuário, quando cadastrado pelo cliente. Este campo é utilizado no ArqFlow para contabilizar o prazo de execução das atividades. Caso o cliente não utilize é só manter o campo sem preenchimento.&#x20;
 
 **Calendário:** Selecione na lista o horário de trabalho praticado pelo usuário, quando cadastrado pelo cliente. Este campo é utilizado no ArqFlow para contabilizar o prazo de execução das atividades. Caso o cliente não utilize é só manter o campo sem preenchimento.
+
+### Aba Perfil
+
+<figure><img src="../.gitbook/assets/image (127).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Nesta aba temos configurações voltadas para o layout do sistema que será apresentado ao usuário.
+
+**Registros por página:** Informe quantos registros o usuário poderá visualizar por página, a sugestão é que sejam apresentados no máximo 20.
