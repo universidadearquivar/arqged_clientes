@@ -32,7 +32,7 @@ description: >-
 
 **Tipo de Acesso:** No caso de usuário de cliente, a única opção disponível é "Cliente".
 
-**Status:** Indica a situação do usuário no sistema. Ao adicionar um novo usuário, será mantido como "**Inativo" até que sejam aplicadas todas as permissões/configurações do usuário.**
+**Status:** Indica a situação do usuário no sistema. Ao adicionar um novo usuário, será mantido como "**Inativo" até que sejam aplicadas todas as permissões/configurações do usuário.** Ao finalizar todas as configurações, retorne na aba de usuário e altere o status para "ativo", caso contrário, o usuário não conseguirá logar no sistema.
 
 **Telefone Fixo e Telefone Celular:** Não são campos de preenchimento obrigatório, porém, estão disponíveis para uso.
 
@@ -143,3 +143,8 @@ Nesta aba temos configurações voltadas para o layout do sistema que será apre
 **Cores Padrão:** Deve ser utilizado para definir qual será a cor aplicada na visão do usuário, porém, o usuário só poderá alterar se no cadastro do cliente tiver sido permitida a mudança com a seleção da possibilidade de "Permitir que o usuário altere o layout padrão".
 
 **Alterar Senha:** Utilize para alterar a senha do usuário criado, quando necessário. Preencha com a nova senha e confirme.&#x20;
+
+{% hint style="warning" %}
+<mark style="color:orange;">Concluídas todas as configurações para o novo usuário, salve o cadastro, retorne para a "</mark><mark style="color:orange;">**Aba Usuário"**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">e altere o status para "</mark><mark style="color:orange;">**ativo**</mark><mark style="color:orange;">", caso contrário, o usuário não conseguirá logar no sistema.</mark>
+{% endhint %}
+
