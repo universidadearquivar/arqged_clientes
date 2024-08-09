@@ -23,7 +23,7 @@ Para o funcionamento correto do ArqClient são exigidos os requisitos mínimos a
 
 1\. Para realizar o download e instalação do aplicativo “ArqClient” na máquina onde será utilizada a assinatura digital, acesse o site [http://downloads.arquivar.com.br/​](http://downloads.arquivar.com.br/%E2%80%8B).&#x20;
 
-<figure><img src="../../.gitbook/assets/image (85).png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 2\. Em “Instaladores”, clique no link para o arquivo de instalação para utilização no ambiente de Produção.&#x20;
 
