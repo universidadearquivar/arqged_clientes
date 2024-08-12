@@ -60,6 +60,10 @@ description: >-
 
 Quando é necessária a restrição do usuário por departamento ou tipo documental, ele não poderá ser considerado um usuário Master.
 
+{% hint style="info" %}
+<mark style="color:blue;">Só é permitido definir se o usuário é Master ou não neste momento. Uma vez realizada a definição, não é permitido alterar,  neste caso, um novo usuário deverá ser criado.</mark>
+{% endhint %}
+
 **Clientes que o usuário terá acesso:** Aqui devem ser selecionados todos os clientes que o usuário terá acesso dentro do ArqGED, ou seja, o sistema permite o acesso a vários clientes considerando um login único, ao selecionar o cliente, clique em adicionar "+". Repita o processo até que todos os clientes estejam listados na tela. Caso o cliente que está criando o usuário só tenha uma base no ArqGED, ele só poderá clicar no adicionar "+" uma vez.
 
 Selecione o cliente que deseja definir as permissões para que a Árvore Documental seja habilitada na tela:
