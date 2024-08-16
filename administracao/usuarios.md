@@ -118,6 +118,24 @@ Para desativar a licença, clique novamente no ícone.
 
 <figure><img src="../.gitbook/assets/image (126).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
+Existe também a opção de **"Copiar as Permissões para outro usuário do cliente"**, esta funcionalidade permite que as configurações de perfil seja realizada para um usuário e replicada de forma automática aos demais.
+
+<figure><img src="../.gitbook/assets/image (133).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Crie o(s) novo(s) usuário(s) preenchendo os dados da [aba usuário](usuarios.md#aba-usuario), depois acesse o usuário que deve ser utilizado como "espelho" e em "Permissões I" clique na opção  **"Copiar as Permissões para outro usuário do cliente".**
+
+Selecione na lista todos os usuários que devem herdar as permissões do usuário em questão. Selecione o nome do usuário e clique em "+" adicionar. Repita o processo até que todos os usuários sejam adicionados na tela. Após clique "Enviar".
+
+<figure><img src="../.gitbook/assets/image (134).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Será apresentada na tela uma mensagem de previsão de conclusão da cópia das permissões.&#x20;
+
+<figure><img src="../.gitbook/assets/image (135).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+{% hint style="info" %}
+<mark style="color:blue;">A função de</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**"Copiar as Permissões para outro usuário do cliente"**</mark><mark style="color:blue;">, funciona apenas para clientes que</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Não**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">são do tipo Master.</mark>
+{% endhint %}
+
 ### **Aba Permissões II**
 
 <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
