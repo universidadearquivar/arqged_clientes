@@ -106,7 +106,11 @@ Como regra, o sistema permite ao perfil que cria novos usuários, definir acesso
 <mark style="color:red;">Caso identificada a necessidade de acesso a toda a Árvore Documental, a orientação é que o usuário seja criado do tipo "Master".</mark>
 {% endhint %}
 
-Para atribuir uma licença de assinatura digital ao usuário, clique no ícone. Na frente do ícone o sistema apresenta a quantidade de licenças utilizadas x a quantidade de licenças contratadas.
+Para atribuir uma licença de assinatura digital ao usuário, é necessário concluir todas as configurações e posterior ativação do usuário para que então a opção de atribuir a licença seja habilitada.
+
+<figure><img src="../.gitbook/assets/image (132).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Ativado o usuário, prossiga com a atribuição da licença de assinatura digital do usuário, clique no ícone. Na frente do ícone o sistema apresenta a quantidade de licenças utilizadas x a quantidade de licenças contratadas.
 
 <figure><img src="../.gitbook/assets/image (125).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
