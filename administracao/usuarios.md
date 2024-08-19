@@ -141,7 +141,7 @@ Será apresentada na tela uma mensagem de previsão de conclusão da cópia das 
 
 ![](<../.gitbook/assets/image (137).png>)
 
-<mark style="color:red;">Retorne ao usuário e finalize as configurações necessárias.</mark>
+<mark style="color:red;">Retorne ao usuário e realize as configurações necessárias.</mark>
 {% endhint %}
 
 ### **Aba Permissões II**
