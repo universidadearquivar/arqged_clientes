@@ -1,10 +1,10 @@
----
-description: >-
-  No menu API o cliente tem acesso a uma chave que será utilizada para
-  gerenciamento e controle das requisições realizadas via API.
----
-
 # 🟩 API
+
+No menu API o cliente tem acesso a chave de acesso da API, que será utilizada para gerenciamento e controle das requisições realizadas via API, também chamada Subscriptionkey. Uma vez que a chave é gerada, ela deve ser incluída no HEADER das requisições para que estas sejam autorizadas.
+
+{% hint style="success" %}
+<mark style="color:green;">Nesta tela serão listados os clientes que possuem o serviço ArqAPI vigente no contrato. Se o nome da sua empresa não aparece para gerar a chave entre em contato com:</mark> <mark style="color:green;"></mark><mark style="color:green;">**comercial@arquivar.com**</mark>
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -24,6 +24,8 @@ Ao clicar em Gerar: Par de Chaves, é exibida uma mensagem informativa na tela.
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
+Ao confirmar, se não houver chaves existentes, serão gerados dois Id's para os campos Chave 1 e Chave 2.
+
 {% hint style="danger" %}
 <mark style="color:red;">Se após regerar as chaves, o usuário não atualizá-las nos parâmetros de pesquisa da integração já existente, as chamadas na API do ArqGED deixarão de funcionar!</mark>
 {% endhint %}
@@ -35,3 +37,11 @@ Clique no ícone "Visualizar" para mostrar ou ocultar as chaves.
 Para **regerar o par de chaves**, utilize o botão **"Gerar: Par de Chaves".** Para **regerar apenas uma das chaves, utilize o** ícone de **"Regerar Chave"** considerando a chave 1 ou a 2.
 
 <figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Será apresentada na tela a seguinte mensagem:&#x20;
+
+<figure><img src="../.gitbook/assets/image (138).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+{% hint style="danger" %}
+<mark style="color:red;">Sempre que a chave for regerada, a anterior é inativada automaticamente, sendo necessário reconfigurar os paramentos da API em que a chave anterior foi incluída.</mark>
+{% endhint %}
