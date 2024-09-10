@@ -16,7 +16,7 @@ O ArqGED conta com sua própria API de Integração. Isso quer dizer que cliente
 
 A documentação da API de integração está dividida em:
 
-1. API
+1. [API](../administracao/api.md)
 2. Requisitos para Uso da API
 3. Limites de Requisições da API
 4. Métodos disponíveis da API&#x20;
