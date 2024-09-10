@@ -1,5 +1,7 @@
 # 🟩 API
 
+## SubscriptionKey (Chave de Acesso ou Chave de API)
+
 No menu API o cliente tem acesso a chave de acesso da API, que será utilizada para gerenciamento e controle das requisições realizadas via API, também chamada Subscriptionkey. Uma vez que a chave é gerada, ela deve ser incluída no HEADER das requisições para que estas sejam autorizadas.
 
 {% hint style="success" %}
