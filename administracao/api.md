@@ -8,7 +8,7 @@ No menu API o cliente tem acesso a chave de acesso da API, que será utilizada p
 <mark style="color:green;">Nesta tela serão listados os clientes que possuem o serviço ArqAPI vigente no contrato. Se o nome da sua empresa não aparece para gerar a chave entre em contato pelo e-mail:</mark> <mark style="color:green;"></mark><mark style="color:green;">**comercial@arquivar.com**</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Unidade - Cliente:** Apresenta o nome da unidade e o nome do cliente.&#x20;
 
@@ -24,7 +24,7 @@ No menu API o cliente tem acesso a chave de acesso da API, que será utilizada p
 
 Ao clicar em Gerar: Par de Chaves, é exibida uma mensagem informativa na tela.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Ao confirmar, se não houver chaves existentes, serão gerados dois Id's para os campos Chave 1 e Chave 2.
 
@@ -52,4 +52,4 @@ Será apresentada na tela a seguinte mensagem:&#x20;
 
 Ao chamar a API na nova rota, será necessário enviar no “Headers” a “SubscriptionKey” conforme figura abaixo:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
