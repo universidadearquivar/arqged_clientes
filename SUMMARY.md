@@ -33,6 +33,7 @@
   * [🟩 API](administracao/api.md)
   * [🟩 Usuários](administracao/usuarios.md)
 * [🧩 Integrações](integracoes/README.md)
+  * [🟩 URL da API ArqGED](integracoes/url-da-api-arqged.md)
   * [🟩 Requisitos para uso da API](integracoes/requisitos-para-uso-da-api.md)
   * [🟩 Limites de Requisições da API](integracoes/limites-de-requisicoes-da-api.md)
   * [🟩 Métodos disponíveis na API](integracoes/metodos-disponiveis-na-api.md)
