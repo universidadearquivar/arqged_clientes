@@ -38,6 +38,7 @@
   * [🟩 Limites de Requisições da API](integracoes/limites-de-requisicoes-da-api.md)
   * [🟩 Métodos disponíveis na API](integracoes/metodos-disponiveis-na-api/README.md)
     * [◼️ 1. Autenticacao](integracoes/metodos-disponiveis-na-api/1.-autenticacao.md)
+    * [◼️ 2. Arquivo](integracoes/metodos-disponiveis-na-api/2.-arquivo.md)
   * [🟩 Histórico de alterações da API](integracoes/historico-de-alteracoes-da-api.md)
 * [🔄 Workflow](workflow/README.md)
   * [🟩 Atividades](workflow/atividades/README.md)
