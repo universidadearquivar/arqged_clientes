@@ -14,7 +14,7 @@
 
 É necessário que o usuário escolha qual versão do método deseja utilizar. Alguns métodos já possuem mais de uma versão disponível para trabalho.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:blue;">Antes de acessar os serviços da URL informada, leia as informações deste manual de integração, para garantir a completa compreensão dos requisitos.</mark>
@@ -24,10 +24,32 @@
 
 Para visualizar a documentação online de API do ArqGED, acesse: [https://developers.arquivar.com/](https://developers.arquivar.com)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Ao acessar a URL da documentação, é exibida a lista de API's disponíveis, ao clicar em uma das opções, os dados são listados na tela.
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 No canto esquerdo da tela é exibida a lista dos métodos disponíveis para a API selecionada.
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Clicando no método, é exibido do lado direito da tela o seu detalhamento.
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+**Search operations:** Utilize para buscar um método da API selecionada na tela.
+
+**Group by tag:** Utilize para agrupar os métodos da API selecionada.
+
+**Try it:** Utilize para testar o método.
+
+Clicando na opção "Try it", é aberto no canto direito da tela os campos de parâmentros e headers para preenchimento e teste.
+
+Para usar os métodos, primeiramente será necessário gerar um token de autenticação em [https://api-rest.arquivar.com/v1/api/Autenticacao/Login](https://api-rest.arquivar.com/v1/api/Autenticacao/Login). No método autenticação são informados a “SubscriptionKey” no “Headers” e os dados do Usuário no “Body”, conforme imagem abaixo:
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Com o token retornado pelo método anterior, será possível usar os outros métodos. Então neste caso, na área do “Headers” precisam ser enviados a “SubscriptionKey” e token de autenticação no formato “Baerer Token” no campo “Authorization”:
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
