@@ -37,6 +37,7 @@
   * [🟩 Requisitos para uso da API](integracoes/requisitos-para-uso-da-api.md)
   * [🟩 Limites de Requisições da API](integracoes/limites-de-requisicoes-da-api.md)
   * [🟩 Métodos disponíveis na API](integracoes/metodos-disponiveis-na-api.md)
+  * [🟩 Histórico de alterações da API](integracoes/historico-de-alteracoes-da-api.md)
 * [🔄 Workflow](workflow/README.md)
   * [🟩 Atividades](workflow/atividades/README.md)
     * [🔹 Aba Minhas Atividades](workflow/atividades/aba-minhas-atividades/README.md)
