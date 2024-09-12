@@ -39,6 +39,7 @@
   * [🟩 Métodos disponíveis na API](integracoes/metodos-disponiveis-na-api/README.md)
     * [◼️ 1. Autenticacao](integracoes/metodos-disponiveis-na-api/1.-autenticacao.md)
     * [◼️ 2. Arquivo](integracoes/metodos-disponiveis-na-api/2.-arquivo.md)
+    * [◼️ 3. Billing](integracoes/metodos-disponiveis-na-api/3.-billing.md)
   * [🟩 Histórico de alterações da API](integracoes/historico-de-alteracoes-da-api.md)
 * [🔄 Workflow](workflow/README.md)
   * [🟩 Atividades](workflow/atividades/README.md)
