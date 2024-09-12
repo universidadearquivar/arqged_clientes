@@ -1,0 +1,47 @@
+# ◼️ Nota Fiscal
+
+## 7.1 POST/api/NotaFiscal/ImportaNotaFiscal
+
+### Entrada
+
+• idUnidade
+
+• idCliente
+
+• idArvoreOrganizacional
+
+• JSON com os dados da nota fiscal
+
+#### Request body
+
+```json
+{
+    "idArvore": "guid", //id da arvore organizacional
+    "cnpj": "string",//cnpj da unidade prestadora de serviço do cliente
+    "arquivoXML": "bytes",//byte do arquivo xml
+    "arquivoPDF": "bytes",// byte do arquivo pdf
+    "CamposCustomizados": {//campos customizados, conforme a configuração do idArvore informado.
+        "CNPJ - Filial": "string",
+        "CNPJ - Fornecedor": "string",
+        "Data de Emissão Inicial": "string",
+        "Data de Emissão Final": "string",
+        "Data de Vencimento": "string",
+        "Fornecedor": "string",
+        "Natureza da Operação": "string",
+        "NRO Nota": "string ",
+        "Status": "string ",
+        "Valor Total": "string"
+    }
+}
+```
+
+### Saída/Retorno
+
+O sistema retorna o status 200 OK.
+
+#### Response
+
+```json
+OK
+```
+
