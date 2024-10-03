@@ -60,8 +60,8 @@ O acesso ao módulo ArqScan deve ser feito na tela [Documento > Explorar](./), c
 
 <mark style="color:red;">Clique nos links abaixo para baixar os instaladores para estes pacotes. É importante utilizar sempre a versão mais atual para instalação.</mark>
 
-1. [<mark style="color:red;">**https://learn.microsoft.com/pt-br/cpp/windows/latest-supported-vc-redist?view=msvc-170#latest-microsoft-visual-c-redistributable-version**</mark>](https://learn.microsoft.com/pt-br/cpp/windows/latest-supported-vc-redist?view=msvc-170#latest-microsoft-visual-c-redistributable-version)
-2. [<mark style="color:red;">**https://dotnet.microsoft.com/pt-br/download/dotnet/3.1**</mark>](https://dotnet.microsoft.com/pt-br/download/dotnet/3.1)
+1. [<mark style="color:red;">**VC Redist.**</mark>](https://learn.microsoft.com/pt-br/cpp/windows/latest-supported-vc-redist?view=msvc-170#latest-microsoft-visual-c-redistributable-version)
+2. [<mark style="color:red;">**.Net**</mark>](https://dotnet.microsoft.com/pt-br/download/dotnet/3.1)
 
 &#x20;<mark style="color:red;">Em caso de dúvidas, entre em contato com nosso suporte pelo ArqAtende.</mark>
 {% endhint %}
