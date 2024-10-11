@@ -23,7 +23,7 @@ Para o funcionamento correto do ArqClient são exigidos os requisitos mínimos a
 
 1\. Para realizar o download e instalação do aplicativo “ArqClient” na máquina onde será utilizada a assinatura digital, acesse o site [**https://downloads.arquivar.com/**](https://downloads.arquivar.com/).&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 2\. Em “Instaladores”, clique no link para o arquivo de instalação para utilização no ambiente de Produção.&#x20;
 
@@ -56,7 +56,7 @@ O acesso ao módulo ArqScan deve ser feito na tela [Documento > Explorar](./), c
 
 <mark style="color:red;">Veja abaixo um exemplo de erro deste tipo:</mark>
 
-<img src="../../.gitbook/assets/image.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (5).png" alt="" data-size="original">
 
 <mark style="color:red;">Clique nos links abaixo para baixar os instaladores para estes pacotes. É importante utilizar sempre a versão mais atual para instalação.</mark>
 
