@@ -24,11 +24,11 @@
 
 Para visualizar a documentação online de API do ArqGED, acesse: [https://developers.arquivar.com/](https://developers.arquivar.com)
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (140).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Ao acessar a URL da documentação, é exibida a lista de API's disponíveis, ao clicar em uma das opções, os dados são listados na tela.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
 
 No canto esquerdo da tela é exibida a lista dos métodos disponíveis para a API selecionada.
 
