@@ -81,3 +81,17 @@ Para cada documento reservado, é apresentada uma linha com as principais inform
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Utilize o campo para adicionar informações relevantes para a correta busca do documento no arquivo.
+
+<figure><img src="../.gitbook/assets/image (151).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Após validar todas as reservas, mantenha a seleção dos registros que deseja solicitar e clique "Avançar" para seguir com a criação do Pedido de Documentos.
+
+<figure><img src="../.gitbook/assets/image (152).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Nesta tela temos os registros selecionados para solicitação, separados por local de "Armazenamento", ou seja, temos os documentos que estão alocados em Guarda Interna, e os documentos que estão alocados em Guarda Terceirizada.
+
+<figure><img src="../.gitbook/assets/image (153).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+{% hint style="info" %}
+<mark style="color:blue;">Importante ressaltar que esta situação ocorrerá somente em casos em que o cliente contar com mais de um local de acondicionamento do acervo, quando ele tiver caixas em guarta terceirizada, ou seja, na Unidade Arquivar e quando ele tiver guarda interna, ou seja, possuir um local da sua empresa onde ele mesmo realize a gestão das consultas e devoluções de documentos.</mark>
+{% endhint %}
