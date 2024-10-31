@@ -76,3 +76,8 @@ Para cada documento reservado, é apresentada uma linha com as principais inform
 
 **Marcado por:** Informa o usuário responsável por realizar a solicitação do documento após a reserva.
 
+**Anotações:** Ícone apresentado para cada um dos registros reservados no canto direito da tela.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Utilize o campo para adicionar informações relevantes para a correta busca do documento no arquivo.
