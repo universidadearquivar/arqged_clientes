@@ -39,3 +39,28 @@ Após reservar todos os documentos desejados para verificação física, acesse 
 Abra o bloco "Minhas reservas de documentos" para visualizar todos os documentos reservados. Nesta tela são apresentados todos os documentos reservados, tanto os documentos em guarda na Unidade Arquivar, quanto os documentos em guarda Interna nas dependências do cliente.
 
 <figure><img src="../.gitbook/assets/image (147).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Neste momento, caso identifique alguma reserva desnecessária ou desista de solicitar um dos documentos listados, clique no ícone do carrinho para cancelar a reserva.
+
+<figure><img src="../.gitbook/assets/image (148).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Confirme a ação na mensagem apresentada para seguir com o cancelamento da reserva e a retirada do registro da lista de documentos disponíveis para abrir pedido.&#x20;
+
+<figure><img src="../.gitbook/assets/image (149).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Em caso da desistência de todas as reservas, clique no ícone carrinho do lado direito da tela para "Cancelar todas as reservas de documentos".
+
+<figure><img src="../.gitbook/assets/image (150).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Para cada documento reservado, é apresentada uma linha com as principais informações.
+
+**Unidade:** Traz o nome da Unidade Arquivar
+
+Código: Informa o código do registro no sistema.
+
+Status: Informa o status do documento.
+
+Árvore Organizacional:&#x20;
+
+Caixa: Traz o número da caixa tanto do arquivo interno quanto do container.
+
