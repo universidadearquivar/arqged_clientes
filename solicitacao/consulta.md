@@ -128,3 +128,5 @@ Endereço de Entrega: O campo é habilitado após a seleção do formato de entr
 ## <img src="../.gitbook/assets/image (161).png" alt="" data-size="original">
 {% endhint %}
 
+Ao clicar em "Enviar", os pedidos são realizados e enviados para atendimento, sendo o atendimento de documento em Guarda Terceirizada  enviado para a Unidade Arquivar e o atendimento de documento em Guarda Interna enviado para o CEDOC da empresa.
+
