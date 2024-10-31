@@ -1,12 +1,12 @@
 # 🟩 Consulta
 
-Neste menu são realizadas as solicitações para consultar documentos e/ou caixas alocados na Unidade Arquivar.&#x20;
+Neste menu são realizadas as solicitações para consultar documentos e/ou caixas alocados na Unidade Arquivar ou no Arquivo Interno.&#x20;
 
 Na página inicial são exibidas todas as reservar feitas. Uma reserva pode ser de um documento, uma caixa ou uma subcaixa e deve ser feita por meio da busca do documento via menu [Documento](../documento/) (Localização Simples, Localização Avançada ou Explorar).
 
 <figure><img src="../.gitbook/assets/image (145).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-**Cliente:** Traz o nome do cliente preenchido.
+**Cliente:** Traz o nome do cliente já preenchido.
 
 **Marcar todos os documentos/Desmarcar todos os documentos:** Utilizado para selecionar ou tirar a seleção de forma automática de todos os documentos reservados.&#x20;
 
