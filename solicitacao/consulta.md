@@ -18,9 +18,7 @@ Na página inicial são exibidas todas as reservar feitas. Uma reserva pode ser 
 
 <figure><img src="../.gitbook/assets/image (146).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-A área de trabalho é alterada conforme seleção das opções disponíveis de seleção no cabeçalho da página.
-
-Temos então:
+A área de trabalho é alterada conforme seleção das opções disponíveis de seleção no cabeçalho da página, por padrão, o sistema carrega sempre considerando os dados do usuário logado "Minhas Reservas..."
 
 **Minhas reservas ou Todas as reservas de documentos:** Neste bloco, são listados todos os documentos com reserva criada, sendo apresentada apenas as reservas do usuário logado ou todas.
 
