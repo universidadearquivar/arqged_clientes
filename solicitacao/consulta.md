@@ -93,5 +93,38 @@ Nesta tela temos os registros selecionados para solicitação, separados por loc
 <figure><img src="../.gitbook/assets/image (153).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="info" %}
-<mark style="color:blue;">Importante ressaltar que esta situação ocorrerá somente em casos em que o cliente contar com mais de um local de acondicionamento do acervo, quando ele tiver caixas em guarta terceirizada, ou seja, na Unidade Arquivar e quando ele tiver guarda interna, ou seja, possuir um local da sua empresa onde ele mesmo realize a gestão das consultas e devoluções de documentos.</mark>
+<mark style="color:blue;">Importante ressaltar que esta situação ocorre somente em casos em que o cliente contar com mais de um local de acondicionamento do acervo, quando ele tiver caixas em guarta terceirizada, ou seja, na Unidade Arquivar e quando ele tiver guarda interna, ou seja, possuir um local da sua empresa onde ele mesmo realize a gestão das consultas e devoluções de documentos.</mark>
 {% endhint %}
+
+O próximo passo é o mesmo para ambas as modalidades de guarda de documentos. Siga com o preenchimento dos campos conforme dados solicitados na tela:
+
+<figure><img src="../.gitbook/assets/image (156).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Excluir: Ao clicar no ícone da lixeira no canto esquerdo da tela, o registro será removido do pedido.
+
+Documento Código: Informa o código do registro no sistema.
+
+Un.: Informa a quantidades de registros reservados, considerando o tipo de guarda.
+
+Prioridade: Traz uma lista com as opções de atendimento de consulta previstas em contrato, as opções mais comuns são Normal e Prioritário.
+
+<figure><img src="../.gitbook/assets/image (157).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+{% hint style="info" %}
+<mark style="color:blue;">Lembrando que o tempo de atendimento da consulta (SLA) está previsto em contrato e será considerado pelos sistema para contabilizar o tempo de atendimento e possíveis atrasos.</mark>
+{% endhint %}
+
+Forma de Entrega: Traz uma lista das opções disponíveis para o cliente, considerando as particularidades previstas em contrato.
+
+<figure><img src="../.gitbook/assets/image (158).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Endereço de Entrega: O campo é habilitado após a seleção do formato de entrega. É apresentada uma lista com os endereços cadastrados para o cliente, selecione onde o documento deve ser entregue.
+
+<figure><img src="../.gitbook/assets/image (159).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+{% hint style="danger" %}
+<mark style="color:red;">Quando o cliente tiver documentos de Guarda Interna e de Guarda Terceirizada para solicitar, é necessário realizar as definições de atendimento para os dois casos antes de seguir para a próxima tela.</mark>
+
+## <img src="../.gitbook/assets/image (161).png" alt="" data-size="original">
+{% endhint %}
+
