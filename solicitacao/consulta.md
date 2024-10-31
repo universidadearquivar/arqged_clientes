@@ -78,7 +78,7 @@ Para cada documento reservado, é apresentada uma linha com as principais inform
 
 **Anotações:** Ícone apresentado para cada um dos registros reservados no canto direito da tela.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Utilize o campo para adicionar informações relevantes para a correta busca do documento no arquivo.
 
@@ -100,25 +100,27 @@ O próximo passo é o mesmo para ambas as modalidades de guarda de documentos. S
 
 <figure><img src="../.gitbook/assets/image (156).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-Excluir: Ao clicar no ícone da lixeira no canto esquerdo da tela, o registro será removido do pedido.
+**Excluir:** Ao clicar no ícone da lixeira no canto esquerdo da tela, o registro será removido do pedido.
 
-Documento Código: Informa o código do registro no sistema.
+**Documento Código:** Informa o código do registro no sistema.
 
-Un.: Informa a quantidades de registros reservados, considerando o tipo de guarda.
+**Un.:** Informa a quantidades de registros reservados, considerando o tipo de guarda.
 
-Prioridade: Traz uma lista com as opções de atendimento de consulta previstas em contrato, as opções mais comuns são Normal e Prioritário.
+**Prioridade:** Traz uma lista com as opções de atendimento de consulta previstas em contrato, as opções mais comuns são Normal e Prioritário.
 
 <figure><img src="../.gitbook/assets/image (157).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:blue;">Lembrando que o tempo de atendimento da consulta (SLA) está previsto em contrato e será considerado pelos sistema para contabilizar o tempo de atendimento e possíveis atrasos.</mark>
+
+<mark style="color:blue;">As prioridades apresentadas na lista também variam conforme cliente, pois consideram os cenários particulares de cada contrato.</mark>
 {% endhint %}
 
-Forma de Entrega: Traz uma lista das opções disponíveis para o cliente, considerando as particularidades previstas em contrato.
+**Forma de Entrega:** Traz uma lista das opções disponíveis para o cliente, considerando as particularidades previstas em contrato.
 
 <figure><img src="../.gitbook/assets/image (158).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-Endereço de Entrega: O campo é habilitado após a seleção do formato de entrega. É apresentada uma lista com os endereços cadastrados para o cliente, selecione onde o documento deve ser entregue.
+**Endereço de Entrega:** O campo é habilitado após a seleção do formato de entrega. É apresentada uma lista com os endereços cadastrados para o cliente, selecione onde o documento deve ser entregue.
 
 <figure><img src="../.gitbook/assets/image (159).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -129,4 +131,6 @@ Endereço de Entrega: O campo é habilitado após a seleção do formato de entr
 {% endhint %}
 
 Ao clicar em "Enviar", os pedidos são realizados e enviados para atendimento, sendo o atendimento de documento em Guarda Terceirizada  enviado para a Unidade Arquivar e o atendimento de documento em Guarda Interna enviado para o CEDOC da empresa.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
