@@ -29,3 +29,13 @@ A área de trabalho é alterada conforme seleção das opções disponíveis de 
 {% hint style="info" %}
 <mark style="color:blue;">**Só podem ser reservados para consulta documentos que sejam do tipo Guarda Terceirizada ou Guarda Interna. Documentos de Guarda Eletrônica não precisam de solicitação de consulta para serem acessados pelo cliente. Para isso, basta visualizar o arquivo anexo ao registro.**</mark>
 {% endhint %}
+
+***
+
+## Pedido de Documento
+
+Após reservar todos os documentos desejados para verificação física, acesse o Menu Solicitação > Consulta.
+
+Abra o bloco "Minhas reservas de documentos" para visualizar todos os documentos reservados. Nesta tela são apresentados todos os documentos reservados, tanto os documentos em guarda na Unidade Arquivar, quanto os documentos em guarda Interna nas dependências do cliente.
+
+<figure><img src="../.gitbook/assets/image (147).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
