@@ -56,11 +56,23 @@ Para cada documento reservado, é apresentada uma linha com as principais inform
 
 **Unidade:** Traz o nome da Unidade Arquivar
 
-Código: Informa o código do registro no sistema.
+**Código:** Informa o código do registro no sistema.
 
-Status: Informa o status do documento.
+**Status:** Informa o status do documento: Armazenado / Eletrônico / Em indexação / Emprestado / Emprestado Parcial / Excluído.
 
-Árvore Organizacional:&#x20;
+**Caixa:** Informa o número da caixa física onde o documento fica acondicionado seja ela caixa de guarda terceirizada ou guarda de arquivo interno.
 
-Caixa: Traz o número da caixa tanto do arquivo interno quanto do container.
+**Cód. Prov. (Código Provisório):**
+
+**Subcaixa:** Informa o número da subcaixa, quando utilizado.
+
+**Cód. Prov. Subcaixa (Código Provisório da Subcaixa):**
+
+**Árvore Organizacional:** Mostra a todos os níveis de árvore utilizados no cadastro do documento.
+
+**Campo customizado:** Traz os campos utilizados no cadastro do documento, considerando a Árvore documental utilizada, portanto estas informações podem variar de registro para registro.
+
+**Reservado por:** Informa o usuário que realizou a reserva do registro no menu Documento.
+
+**Marcado por:** Informa o usuário responsável por realizar a solicitação do documento após a reserva.
 
