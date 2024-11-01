@@ -2,7 +2,7 @@
 
 Neste menu são realizadas as solicitações para consultar documentos e/ou caixas alocados na Unidade Arquivar ou no Arquivo Interno.&#x20;
 
-Na página inicial são exibidas todas as reservar feitas. Uma reserva pode ser de um documento, uma caixa ou uma subcaixa e deve ser feita por meio da busca do documento via menu [Documento](../documento/) (Localização Simples, Localização Avançada ou Explorar).
+Na página inicial são exibidas todas as reservar feitas. Uma reserva pode ser de um documento, uma caixa ou de uma subcaixa e deve ser feita por meio da busca do documento via menu [Documento](../documento/) (Localização Simples, Localização Avançada ou Explorar).
 
 <figure><img src="../.gitbook/assets/image (145).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -32,11 +32,13 @@ A área de trabalho é alterada conforme seleção das opções disponíveis de 
 
 ***
 
-## Pedido de Documento
+## Solicitação de Documento
+
+### Como cancelar uma reserva de documento&#x20;
 
 Após reservar todos os documentos desejados para verificação física, acesse o Menu Solicitação > Consulta.
 
-Abra o bloco "Minhas reservas de documentos" para visualizar todos os documentos reservados. Nesta tela são apresentados todos os documentos reservados, tanto os documentos em guarda na Unidade Arquivar, quanto os documentos em guarda Interna nas dependências do cliente.
+Abra o bloco "Minhas reservas de documentos" para visualizar os documentos reservados pelo usuário logado. Nesta tela são apresentados todos os documentos reservados, tanto os documentos em guarda na Unidade Arquivar, quanto os documentos em guarda Interna nas dependências do cliente.
 
 <figure><img src="../.gitbook/assets/image (147).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -50,9 +52,11 @@ Confirme a ação na mensagem apresentada para seguir com o cancelamento da rese
 
 Em caso da desistência de todas as reservas, clique no ícone carrinho do lado direito da tela para "Cancelar todas as reservas de documentos".
 
-<figure><img src="../.gitbook/assets/image (150).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+### Como criar um Pedido de Documento
 
-Para cada documento reservado, é apresentada uma linha com as principais informações.
+Em "Minhas Reservas de Documentos", para cada documento reservado é apresentada uma linha com as principais informações do registro.
+
+<figure><img src="../.gitbook/assets/image (150).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Unidade:** Traz o nome da Unidade Arquivar
 
@@ -119,6 +123,10 @@ O próximo passo é o mesmo para ambas as modalidades de guarda de documentos. S
 **Forma de Entrega:** Traz uma lista das opções disponíveis para o cliente, considerando as particularidades previstas em contrato.
 
 <figure><img src="../.gitbook/assets/image (158).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+{% hint style="info" %}
+Alguns contratos contam com&#x20;
+{% endhint %}
 
 **Endereço de Entrega:** O campo é habilitado após a seleção do formato de entrega. É apresentada uma lista com os endereços cadastrados para o cliente, selecione onde o documento deve ser entregue.
 
