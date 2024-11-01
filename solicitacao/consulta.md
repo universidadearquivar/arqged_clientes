@@ -136,7 +136,7 @@ O próximo passo é o mesmo para ambas as modalidades de guarda de documentos. S
 <figure><img src="../.gitbook/assets/image (159).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="danger" %}
-<mark style="color:red;">Quando o cliente tiver documentos de Guarda Interna e de Guarda Terceirizada para solicitar, é necessário realizar as definições de atendimento para os dois casos antes de seguir para a próxima tela.</mark>
+<mark style="color:red;">Quando o cliente tiver documentos de Guarda Interna e de Guarda Terceirizada para solicitar e ambos tiverem sido selecionados para criação do pedido, é necessário realizar as definições de atendimento para os dois casos antes de seguir para a próxima tela.</mark>
 
 ## <img src="../.gitbook/assets/image (161).png" alt="" data-size="original">
 {% endhint %}
