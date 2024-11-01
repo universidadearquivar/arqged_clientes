@@ -6,7 +6,7 @@ Na página inicial são exibidas todas as reservar feitas. Uma reserva pode ser 
 
 <figure><img src="../.gitbook/assets/image (145).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-**Cliente:** Traz o nome do cliente já preenchido.
+**Cliente:** Exibe o nome do cliente já preenchido.
 
 **Marcar todos os documentos/Desmarcar todos os documentos:** Utilizado para selecionar ou tirar a seleção de forma automática de todos os documentos reservados.&#x20;
 
@@ -125,7 +125,10 @@ O próximo passo é o mesmo para ambas as modalidades de guarda de documentos. S
 <figure><img src="../.gitbook/assets/image (158).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="info" %}
-Alguns contratos contam com&#x20;
+<mark style="color:blue;">Alguns contratos contam com a Forma de Entrega "</mark><mark style="color:blue;">**Inloco**</mark><mark style="color:blue;">", neste caso, a documentação ou as caixas devem ser disponibilizadas em uma sala de consulta previamente agendada pelo cliente para que ele mesmo possa verificar a documentação. Este formato de atendimento requer algumas observações:</mark>
+
+* <mark style="color:blue;">O cliente é o responsável pelo retorno da documentação à sua caixa de origem</mark>
+* <mark style="color:blue;">O cliente deve descrever os documentos retirados no processo de consulta</mark>
 {% endhint %}
 
 **Endereço de Entrega:** O campo é habilitado após a seleção do formato de entrega. É apresentada uma lista com os endereços cadastrados para o cliente, selecione onde o documento deve ser entregue.
@@ -138,7 +141,7 @@ Alguns contratos contam com&#x20;
 ## <img src="../.gitbook/assets/image (161).png" alt="" data-size="original">
 {% endhint %}
 
-Ao clicar em "Enviar", os pedidos são realizados e enviados para atendimento, sendo o atendimento de documento em Guarda Terceirizada  enviado para a Unidade Arquivar e o atendimento de documento em Guarda Interna enviado para o CEDOC da empresa.
+Ao clicar em "Enviar", os pedidos são realizados e enviados para atendimento, sendo o atendimento de documento em Guarda Terceirizada  enviado para a Unidade Arquivar e o atendimento de documento em Guarda Interna enviado para o CEDOC da empresa. Em ambos os casos os responsáveis são notificados por e-mail quanto as demandas criadas.
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
