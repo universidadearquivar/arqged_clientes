@@ -124,11 +124,16 @@ O próximo passo é o mesmo para ambas as modalidades de guarda de documentos. S
 
 <figure><img src="../.gitbook/assets/image (158).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-{% hint style="info" %}
-<mark style="color:blue;">Alguns contratos contam com a Forma de Entrega "</mark><mark style="color:blue;">**Inloco**</mark><mark style="color:blue;">", neste caso, a documentação ou as caixas devem ser disponibilizadas em uma sala de consulta previamente agendada pelo cliente para que ele mesmo possa verificar a documentação. Este formato de atendimento requer algumas observações:</mark>
+Alguns clientes contam com a Forma de Entrega "**Inloco**", neste caso, a documentação ou as caixas devem ser disponibilizadas em uma sala de consulta agendada pelo cliente na definição da entrega, para que ele mesmo possa verificar a documentação. É necessário informar a data em que ele estará presente no local da consulta e o período que ele utilizará o espaço.&#x20;
 
-* <mark style="color:blue;">O cliente é o responsável pelo retorno da documentação à sua caixa de origem</mark>
-* <mark style="color:blue;">O cliente deve descrever os documentos retirados no processo de consulta</mark>
+<figure><img src="../.gitbook/assets/image (162).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+{% hint style="info" %}
+<mark style="color:blue;">Este formato de consulta requer algumas observações:</mark>
+
+* <mark style="color:blue;">O cliente é o responsável pelo retorno da documentação à sua caixa de origem, sem perder o vínculo dos dados de indexação (código de caixa x registros existentes no ArqGED), essenciais para posterior identificação e localização dos documentos.</mark>
+* <mark style="color:blue;">O cliente deve criar o protocolo dos documentos retirados no processo de consulta, caso seja necessário retirar o original das caixas.</mark>
+* <mark style="color:blue;">Dependendo do tipo de contrato, a Arquivar ou o CEDOC, não devem realizar qualquer validação nas caixas consultadas. Importante analisar o cenário antes de efetivar uma consulta InLoco.</mark>
 {% endhint %}
 
 **Endereço de Entrega:** O campo é habilitado após a seleção do formato de entrega. É apresentada uma lista com os endereços cadastrados para o cliente, selecione onde o documento deve ser entregue.
