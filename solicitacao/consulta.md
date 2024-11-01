@@ -58,9 +58,9 @@ Em "Minhas Reservas de Documentos", para cada documento reservado é apresentada
 
 <figure><img src="../.gitbook/assets/image (150).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-**Unidade:** Traz o nome da Unidade Arquivar
+**Unidade:** Exibe o nome da Unidade Arquivar
 
-**Código:** Informa o código do registro no sistema.
+**Código:** Exibe o código do registro no sistema.
 
 **Status:** Informa o status do documento: Armazenado / Eletrônico / Em indexação / Emprestado / Emprestado Parcial / Excluído.
 
@@ -110,7 +110,7 @@ O próximo passo é o mesmo para ambas as modalidades de guarda de documentos. S
 
 **Un.:** Informa a quantidades de registros reservados, considerando o tipo de guarda.
 
-**Prioridade:** Traz uma lista com as opções de atendimento de consulta previstas em contrato, as opções mais comuns são Normal e Prioritário.
+**Prioridade:** Exibe uma lista com as opções de atendimento de consulta previstas em contrato, as opções mais comuns são Normal e Prioritário.
 
 <figure><img src="../.gitbook/assets/image (157).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -120,7 +120,7 @@ O próximo passo é o mesmo para ambas as modalidades de guarda de documentos. S
 <mark style="color:blue;">As prioridades apresentadas na lista também variam conforme cliente, pois consideram os cenários particulares de cada contrato.</mark>
 {% endhint %}
 
-**Forma de Entrega:** Traz uma lista das opções disponíveis para o cliente, considerando as particularidades previstas em contrato.
+**Forma de Entrega:** Exibe uma lista das opções disponíveis para o cliente, considerando as particularidades previstas em contrato.
 
 <figure><img src="../.gitbook/assets/image (158).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -143,5 +143,5 @@ O próximo passo é o mesmo para ambas as modalidades de guarda de documentos. S
 
 Ao clicar em "Enviar", os pedidos são realizados e enviados para atendimento, sendo o atendimento de documento em Guarda Terceirizada  enviado para a Unidade Arquivar e o atendimento de documento em Guarda Interna enviado para o CEDOC da empresa. Em ambos os casos os responsáveis são notificados por e-mail quanto as demandas criadas.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
