@@ -97,7 +97,7 @@ Nesta tela temos os registros selecionados para solicitação, separados por loc
 <figure><img src="../.gitbook/assets/image (153).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="info" %}
-<mark style="color:blue;">Importante ressaltar que esta situação ocorre somente em casos em que o cliente contar com mais de um local de acondicionamento do acervo, quando ele tiver caixas em guarta terceirizada, ou seja, na Unidade Arquivar e quando ele tiver guarda interna, ou seja, possuir um local da sua empresa onde ele mesmo realize a gestão das consultas e devoluções de documentos.</mark>
+<mark style="color:blue;">Importante ressaltar que esta situação ocorre somente em casos em que o cliente contar com mais de um local de acondicionamento do acervo, quando ele tiver caixas em guarda terceirizada, ou seja, na Unidade Arquivar e quando ele tiver guarda interna, ou seja, possuir um local da sua empresa onde ele mesmo realize a gestão das consultas e devoluções de documentos.</mark>
 {% endhint %}
 
 O próximo passo é o mesmo para ambas as modalidades de guarda de documentos. Siga com o preenchimento dos campos conforme dados solicitados na tela:
@@ -115,7 +115,7 @@ O próximo passo é o mesmo para ambas as modalidades de guarda de documentos. S
 <figure><img src="../.gitbook/assets/image (157).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="info" %}
-<mark style="color:blue;">Lembrando que o tempo de atendimento da consulta (SLA) está previsto em contrato e será considerado pelos sistema para contabilizar o tempo de atendimento e possíveis atrasos.</mark>
+<mark style="color:blue;">Lembrando que o tempo de atendimento da consulta (SLA) está previsto em contrato e será considerado pelo sistema para contabilizar o tempo de atendimento e possíveis atrasos.</mark>
 
 <mark style="color:blue;">As prioridades apresentadas na lista também variam conforme cliente, pois consideram os cenários particulares de cada contrato.</mark>
 {% endhint %}
