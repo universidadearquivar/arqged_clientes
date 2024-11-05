@@ -1,6 +1,6 @@
 # 🟩 Consulta
 
-Neste menu são realizadas as solicitações para consultar documentos e/ou caixas alocados na Unidade Arquivar ou no Arquivo Interno.&#x20;
+Neste menu são realizadas as solicitações para consultar documentos e/ou caixas alocados na Unidade Arquivar ou no Arquivo Interno (CEDOC).&#x20;
 
 Na página inicial são exibidas todas as reservar feitas. Uma reserva pode ser de um documento, uma caixa ou de uma subcaixa e deve ser feita por meio da busca do documento via menu [Documento](../documento/) (Localização Simples, Localização Avançada ou Explorar).
 
@@ -66,11 +66,11 @@ Em "Minhas Reservas de Documentos", para cada documento reservado é apresentada
 
 **Caixa:** Informa o número da caixa física onde o documento fica acondicionado seja ela caixa de guarda terceirizada ou guarda de arquivo interno.
 
-**Cód. Prov. (Código Provisório):**
+**Cód. Prov. (Código Provisório):** Utilizado para informar o número da caixa, caso o cliente possua algum controle do acervo por número.&#x20;
 
 **Subcaixa:** Informa o número da subcaixa, quando utilizado.
 
-**Cód. Prov. Subcaixa (Código Provisório da Subcaixa):**
+**Cód. Prov. Subcaixa (Código Provisório da Subcaixa):** Utilizado para informar o número do box, caso o cliente possua algum controle do acervo por número.&#x20;
 
 **Árvore Organizacional:** Mostra a todos os níveis de árvore utilizados no cadastro do documento.
 
