@@ -174,50 +174,38 @@ Preenchidos todos os campos, clique salvar para prosseguir. Após salvar, os bot
 
 #### Guia de Busca de Documentos
 
-<figure><img src="../../.gitbook/assets/image (163).png" alt=""><figcaption><p>Clique na imagem para amoliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (163).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-No cabeçalho é exibido:
+No cabeçalho da Guia é exibido:
 
-·         Pedido: Exibe o número do pedido de caixa criado no ArqGED.
+* **Pedido:** Exibe o número do pedido de caixa criado no ArqGED.
+* **Dados do solicitante:**
+  * Nome do cliente
+  * Data/Hora de abertura do pedido
+  * Nome do solicitante no ArqGED
+  * Telefone do solicitante
 
-Dados do solicitante:
-
-·         Nome do cliente
-
-·         Data/Hora de abertura do pedido
-
-·         Nome do solicitante no ArqGED
-
-·         Telefone do solicitante
-
-<figure><img src="../../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (164).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Abaixo é exibida:
 
-·         Listagem dos documentos solicitados no pedido com a associação da caixa de guarda onde estão alocados
+* Listagem dos documentos solicitados no pedido com a associação da caixa de guarda onde estão alocados
+* Endereço das caixas
+* Forma de entrega definida pelo solicitante&#x20;
+* Destino, ou seja, para onde o documento deve ser encaminhado para andamento do atendimento
+* Local para o auxiliar de arquivo sinalizar se a caixa foi localizada no arquivo
 
-·         Endereço das caixas
-
-·         Exibe a forma de entrega definida pelo solicitante
-
-·         Exibe o destino, ou seja, para onde os documentos devem ser encaminhados para andamento do atendimento
-
-·         Local para o auxiliar de arquivo sinalizar se a caixa foi localizada no arquivo
-
-<figure><img src="../../.gitbook/assets/image (165).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (165).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Por fim, são exibidos campos que identificam os atores atuantes no atendimento:
 
-·         Atendente Responsável
-
-·         Auxiliar de Arquivo responsável pela consulta
-
-·         Auxiliar de Arquivo responsável pela Devolução
-
-·         Data/Hora da Impressão da guia
+* Atendente Responsável
+* Auxiliar de Arquivo responsável pela consulta
+* Auxiliar de Arquivo responsável pela Devolução
+* Data/Hora da Impressão da guia
 
 <figure><img src="../../.gitbook/assets/image (166).png" alt=""><figcaption></figcaption></figure>
 
 Concluído o processo de busca no arquivo, o atendente precisa informar para o sistema que a etapa foi realizada para prosseguir com o atendimento.
 
-Clique “Processar”.
+Para seguir com o atendimento, clique “Processar”.
