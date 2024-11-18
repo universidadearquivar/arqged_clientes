@@ -209,3 +209,63 @@ Por fim, são exibidos campos que identificam os atores atuantes no atendimento:
 Concluído o processo de busca no arquivo, o atendente precisa informar para o sistema que a etapa foi realizada para prosseguir com o atendimento.
 
 Para seguir com o atendimento, clique “Processar”.
+
+<figure><img src="../../.gitbook/assets/image (167).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Ao processar o atendimento, um novo status é definido e uma nova ação é listada na tela.
+
+<figure><img src="../../.gitbook/assets/image (168).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+***
+
+### Aba Detalhes
+
+Nesta aba, são listados todos os documentos do pedido. É nesta tela que são adicionadas as informações específicas do atendimento.
+
+#### Detalhes de um Pedido de Documentos
+
+<figure><img src="../../.gitbook/assets/image (169).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+**Coluna Seleção:** Exibe um local para seleção do atendimento.
+
+**Coluna Doc:** Ao clicar no ícone o registro é apresentado na tela e é possível navegar entre as abas do registro existente no ArqGED.
+
+<figure><img src="../../.gitbook/assets/image (170).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+**Coluna Atend:** Clicando no ícone é possível acessar as particularidades do atendimento, onde de fato são adicionadas as informações para seguir com o processo.
+
+**Coluna Info:** Clicando no ícone, é exibida a mensagem inserida na tela de reservas, quando houver.&#x20;
+
+**Coluna Documento:** Exibe um resumo dos dados metadados do documento/registro solicitado.
+
+**Colunas Buscas:** Exibe a quantidade de buscas realizadas no arquivo para localização do documento solicitado. Essa informação deve ser preenchida pelo atendente no momento de fechamento do pedido no ArqGED.
+
+**Coluna Cópias:**  Exibe a quantidade de cópias geradas para o documento solicitado. Essa informação deve ser preenchida pelo atendente no momento de fechamento do pedido no ArqGED.
+
+**Coluna Img.:** Exibe a quantidade de imagens geradas para o documento solicitado. Essa informação deve ser preenchida pelo atendente no momento de fechamento do pedido no ArqGED.
+
+**Coluna Localizado:**  Exibe se o documento foi encontrado no seu local de guarda pelo auxiliar de arquivo. Essa informação deve ser preenchida pelo atendente no momento de fechamento do pedido no ArqGED.
+
+**Colunas Carregado / Entregue / Auxiliar:** São exibidas sem informação, pois não são utilizadas atualmente.
+
+Para o preenchimento destes dados, é necessário acessar o ícone de "Atendimento" para cada um dos documentos solicitados. Clique no ícone para prosseguir:
+
+<figure><img src="../../.gitbook/assets/image (171).png" alt=""><figcaption><p>Clique na imagem para prosseguir.</p></figcaption></figure>
+
+Uma nova tela será exibida na tela para preenchimento:
+
+<figure><img src="../../.gitbook/assets/image (172).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+**Considerar / Desconsiderar:** Quando selecionado “Considerar”, o sistema permite o andamento do atendimento com a inclusão dos dados e fechamento do pedido. Quando selecionado “Desconsiderar”, o pedido fica “Pendente” aguardando até que o preenchimento dos dados do atendimento seja realizado, isso impedirá que outro atendente finalize o pedido de forma indevida.
+
+**Descrição do Item:** Este campo possibilita a inclusão de informações relevantes ao documento, por exemplo: Dossiê de Admissão funcionário X. Não se trata de um campo de preenchimento obrigatório, portanto pode ser mantido em branco.
+
+**Localizado / Não Localizado:** Exibe a informação de sucesso na localização do documento no arquivo. Selecione conforme realidade do seu pedido.
+
+**Original / Não Original:** Exibe a forma como o documento está sendo disponibilizado ao cliente.
+
+**Total / Parcial:** Quando selecionado “Total”, indica que o registro ficará totalmente em consulta e indisponível para novas solicitações até que seja feita a devolução do registro que no caso é o documento. Quando selecionado "Parcial", indica que o registro representa um lote de documento, como por exemplo: NF de 1 a 1.000. Então o cliente solicita somente NF número 10, então o atendente enviará somente a nota 10 e o registro ficará disponível para novas consultas. Neste caso, o registro fica com status em consulta parcial (que significa que uma parte do lote está disponível, e por isso o cliente consegue fazer solicitações selecionando o mesmo registro antes da devolução da NF 10.)
+
+**Simples / Complexa:** Exibe a classificação do pedido, se deve ser tratado como uma consulta simples ou complexa (definição realizada no contrato de prestação de serviços).
+
+**Código:** Neste campo o atendente precisa informar o código **da guia** utilizada para controlar os pedidos realizados x atendidos no ArqGED.
