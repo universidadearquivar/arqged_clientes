@@ -2,7 +2,7 @@
 
 Nesta tela são exibidas as solicitações do cliente feitas pelo menu Solicitações > Consulta. Toda a reserva transformada em **Pedido**, fica disponível para atendimento neste local, seja para atendimento realizado pela Unidade Arquivar (Guarda Terceirizada) ou pelo CEDOC do cliente (Guarda Interna).
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:blue;">O painel de atendimento é único e exibe todos os tipos de pedidos realizados no ArqGED:</mark>
@@ -16,7 +16,7 @@ Nesta tela são exibidas as solicitações do cliente feitas pelo menu Solicita�
 
 Os campos exibidos no cabeçalho da página são campos disponíveis para “pesquisa” de pedidos.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Prioridade:** Exibe para seleção as opções de atendimento disponíveis, geralmente são utilizadas as opções de consulta "normal e urgente".
 
@@ -34,7 +34,7 @@ Os campos exibidos no cabeçalho da página são campos disponíveis para “pes
 
 **Pesquisar:** Ao clicar neste botão, é realizada a busca dos pedidos conforme dados informados para busca.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Editar:** Permite a edição do pedido, selecione o pedido e clique em editar.
 
@@ -84,6 +84,22 @@ Por padrão, os pedidos são ordenados com a seguinte regra:&#x20;
 2. Ordenados pelo “Status”&#x20;
 3. Ordenados pelo “SLA” (o mais antigo primeiro)&#x20;
 
-&#x20;
+**Coluna Data SLA:** Exibe a data/hora ou período limite para conclusão do atendimento da solicitação.
+
+**Coluna Data Previsão:** Exibe a data prevista para fechamento do atendimento no sistema.
+
+**Coluna Data Fechado:** Exibe a data de fechamento (conclusão do atendimento) do pedido no sistema.
+
+**Coluna Status:** Exibe em qual fase do fluxo de consulta o pedido está no momento.
+
+**Coluna Destino:** Exibe o destino do item solicitado após busca no local de acondicionamento.
+
+{% hint style="info" %}
+<mark style="color:blue;">O usuário</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**solicitante**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">poderá acessar o painel de atendimento para</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**visualizar**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">o andamento da sua solicitação, consultar seu pedido ou exportar dados do pedido em .CSV, porém, não é permitido ao solicitante nenhuma interação com o atendimento da demanda. Apenas o atendente da Unidade Arquivar ou do CEDOC do cliente, poderá prosseguir com o atendimento do pedido no sistema.</mark>
+{% endhint %}
+
+&#x20;Além dos filtros disponíveis no cabeçalho da tela, existe a possibilidade de aplicação de filtro nas colunas.
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 &#x20;
