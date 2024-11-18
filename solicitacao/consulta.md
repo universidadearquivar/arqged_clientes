@@ -82,7 +82,7 @@ Em "Minhas Reservas de Documentos", para cada documento reservado é apresentada
 
 **Anotações:** Ícone apresentado para cada um dos registros reservados no canto direito da tela.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Utilize o campo para adicionar informações relevantes para a correta busca do documento no arquivo.
 
@@ -165,7 +165,7 @@ Acesse o Menu Solicitação > Consulta.
 
 Nesta tela os blocos separam as caixas e das subcaixas.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Abra o bloco "Minhas reservas de **subcaixas**" para visualizar as subcaixas reservadas pelo usuário logado, abra o bloco “Minhas reservas de **caixas**” para visualizar as caixas reservadas pelo usuário logado.
 
@@ -175,11 +175,11 @@ Abra o bloco "Minhas reservas de **subcaixas**" para visualizar as subcaixas res
 
 Neste momento, caso identifique alguma reserva desnecessária ou desista de solicitar alguma das caixas ou subcaixas listadas, clique no ícone do carrinho para cancelar a reserva.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Confirme a ação na mensagem apresentada para seguir com o cancelamento da reserva e a retirada do registro da lista de documentos disponíveis para abrir pedido.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Em caso da desistência de todas as reservas, clique no ícone carrinho do lado direito da tela para "**Cancelar todas as reservas de caixas ou subcaixas**".
 
@@ -187,7 +187,7 @@ Em caso da desistência de todas as reservas, clique no ícone carrinho do lado 
 
 Em "Minhas Reservas de subcaixas” e “Minhas Reservas de Caixas”, para cada item reservado são apresentadas as informações:
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Caixa:** Informa o número da caixa física seja ela caixa de guarda terceirizada ou guarda de arquivo interno.
 
@@ -197,19 +197,19 @@ Em "Minhas Reservas de subcaixas” e “Minhas Reservas de Caixas”, para cada
 
 **Marcado por:** Informa o usuário responsável por realizar o pedido após a reserva.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Após validar todas as reservas, mantenha a seleção dos volumes que deseja solicitar e clique "**Avançar**" para seguir com a criação do Pedido de Caixa e Subcaixa.
 
 Nesta tela temos os volumes selecionados para solicitação, separados por local de "Armazenamento", ou seja, temos os volumes que estão alocados em Guarda Interna, e os que estão alocados em Guarda Terceirizada.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Importante ressaltar que esta situação ocorre somente em casos em que o cliente contar com mais de um local de acondicionamento do acervo físico, quando ele tiver caixas em guarda terceirizada, ou seja, na Unidade Arquivar e quando ele tiver guarda interna, ou seja, possuir um local da sua empresa onde ele mesmo realize a gestão das consultas e devoluções de volumes.
 
 O próximo passo é o mesmo para ambas as modalidades de guarda. Siga com o preenchimento dos campos conforme dados solicitados na tela:
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Excluir:** Ao clicar no ícone da lixeira no canto esquerdo da tela, o registro será removido do pedido.
 
@@ -219,7 +219,7 @@ O próximo passo é o mesmo para ambas as modalidades de guarda. Siga com o pree
 
 **Prioridade:** Exibe uma lista com as opções de atendimento de consulta previstas em contrato, as opções mais comuns são Normal e Prioritário.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Lembrando que o tempo de atendimento da consulta (SLA) está previsto em contrato e será considerado pelo sistema para contabilizar o tempo de atendimento e possíveis atrasos.
 
@@ -227,7 +227,7 @@ As prioridades apresentadas na lista também variam conforme cliente, pois consi
 
 **Forma de Entrega:** Exibe uma lista das opções disponíveis para o cliente, considerando as particularidades previstas em contrato.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Alguns clientes contam com a Forma de Entrega "Inloco", neste caso, as caixas devem ser disponibilizadas em uma sala de consulta agendada pelo cliente na definição da entrega, para que ele mesmo possa verificar a documentação. É necessário informar a data em que ele estará presente no local da consulta e o período que ele utilizará o espaço.
 
