@@ -1,6 +1,6 @@
 # 🟩 Atendimento
 
-No menu Atendimento são exibidas todas as solicitações de consulta de documento feitas pelo cliente no menu Solicitação.
+No menu Atendimento são exibidas todas as solicitações de consulta de documento feitas pelo cliente no menu Solicitação, aqui é realizado o gerenciamento do Paiel de Controle das Solicitações de Consultas e devoluções de documentos, caixas e subcaixas.
 
 O menu Atendimento é composto pelos seguintes submenus:
 
