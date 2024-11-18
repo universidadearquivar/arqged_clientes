@@ -268,4 +268,59 @@ Uma nova tela será exibida na tela para preenchimento:
 
 **Simples / Complexa:** Exibe a classificação do pedido, se deve ser tratado como uma consulta simples ou complexa (definição realizada no contrato de prestação de serviços).
 
-**Código:** Neste campo o atendente precisa informar o código **da guia** utilizada para controlar os pedidos realizados x atendidos no ArqGED.
+**Código:** Este campo deve ser mantido em branco, ao clicar em **"Incluir"** o ArqGED deverá gerar um código de forma automática, preenchendo assim o campo código. Caberá ao atendente anotar no verso do documento o código gerado pelo sistema para posterior devolução do documento.
+
+**Buscas:** Registre neste campo a quantidade de buscas realizadas para localização do documento em questão.
+
+**Cópias:** Registre neste campo a quantidade de cópias geradas para o documento solicitado, quando for o caso.
+
+**Digital:** Registre neste campo a quantidade de imagens geradas com a digitalização do documento para atendimento do pedido.
+
+**Observação:** Utilize este campo para registrar informações relevantes ao atendimento do pedido.
+
+**Arraste os arquivos para esta área...:** Quando o atendimento for realizado através da digitalização do documento, adicione o arquivo neste local.
+
+O documento uma vez solicitado em formato digital e adicionado no atendimento do pedido, terá a imagem armazenada no ArqGed como “anexo do documento”. Em uma próxima necessidade de consultar/visualizar o documento, o solicitante não precisa abrir novo pedido, basta localizar o arquivo no ArqGED e visualizar novamente a imagem.
+
+<figure><img src="../../.gitbook/assets/image (173).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Finalizado o preenchimento das informações de atendimento do pedido, clique “Incluir” para prosseguir.
+
+<figure><img src="../../.gitbook/assets/image (175).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Neste momento os dados do atendimento são inseridos em “Itens Salvos”.
+
+<figure><img src="../../.gitbook/assets/image (176).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Retornando para a tela inicial, são apresentados os dados preenchidos no atendimento.
+
+Selecione o próximo documento e repita o processo até que todos os documentos do pedido tenham o lançamento dos dados de atendimento realizados.
+
+<figure><img src="../../.gitbook/assets/image (177).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Após o lançamento dos dados de atendimento, é possível emitir o “Protocolo de Consulta de Documentos” para envio ao cliente, caso o pedido seja de envio do acervo.
+
+<figure><img src="../../.gitbook/assets/image (178).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+No protocolo é identificado:
+
+* O número do pedido
+* Os dados do cliente solicitante
+* Controle de Sinistro
+* A relação dos itens do pedido
+* Os dados dos responsáveis pelo recebimento (Solicitante)
+* Os dados dos responsáveis pela entrega (CEDOC)
+
+&#x20;Emitido o protocolo, retorne para a tela do atendimento e clique “Processar”, para atualização do pedido que vai para “Fechamento”.
+
+<figure><img src="../../.gitbook/assets/image (179).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Ao clicar novamente em “Processar”, o pedido é fechado no sistema e o documento é encaminhado ao cliente.
+
+<figure><img src="../../.gitbook/assets/image (180).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+{% hint style="info" %}
+<mark style="color:blue;">Sempre que o pedido é encerrado no ArqGED, o solicitante é notificado por e-mail quanto ao encerramento do seu pedido.</mark>
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/image (181).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
