@@ -472,3 +472,52 @@ Nesta aba, são listados todas as caixas ou subcaixas do pedido. É nesta tela q
 **Coluna Localizado:** Exibe se a caixa foi encontrado no seu local de guarda pelo auxiliar de arquivo. Essa informação deve ser preenchida pelo atendente no momento de fechamento do pedido no ArqGED.
 
 **Colunas Carregado / Entregue / Auxiliar:** São exibidas sem informação, pois não são utilizadas atualmente.
+
+Para o preenchimento destes dados, é necessário acessar o ícone de "Atendimento" para cada uma das caixas ou subcaixas solicitadas. Clique no ícone para prosseguir:
+
+<figure><img src="../../.gitbook/assets/image (201).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Uma nova tela será aberta para preenchimento dos dados de atendimento.
+
+Por padrão a tela é apresentada com uma mensagem de alerta quanto ao status do pedido. Se o pedido já estiver com o status correto, clique em editar para prosseguir, caso contrário retorne para a aba dados gerais e conclua o preenchimento necessário para alteração do status.
+
+<figure><img src="../../.gitbook/assets/image (202).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+**Localizado / Não Localizado:** Exibe a informação de sucesso na localização da caixa no arquivo. Selecione conforme realidade do seu pedido.
+
+**Descrição do Item:** Este campo possibilita a inclusão de informações relevantes ao pedido de caixa/Subcaixa, caso possua, informe no local indicado e clique em salvar.
+
+<figure><img src="../../.gitbook/assets/image (203).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Após o lançamento da informação de localização da caixa/subcaixa, é possível emitir o “Protocolo de Consulta de Caixas” ou “Protocolo de Consulta de Subcaixa” para envio ao solicitante, caso o pedido seja de envio do acervo para a área solicitante.
+
+<figure><img src="../../.gitbook/assets/image (204).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Tanto no protocolo de consulta de Caixa quanto no de consulta de subcaixa, são exibidas as informações:
+
+* O número do pedido
+* Os dados do cliente solicitante
+* Controle de Sinistro
+* A relação dos itens do pedido (caixas ou subcaixas)
+* Os dados dos responsáveis pelo recebimento (solicitante)
+* Os dados dos responsáveis pela entrega (CEDOC).
+
+Emitido o protocolo, retorne para a tela do atendimento e clique “Processar”, para atualização do pedido que vai para “Fechamento”.
+
+<figure><img src="../../.gitbook/assets/image (205).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Ao clicar novamente em “Processar”, o pedido é fechado no sistema e a caixa/subcaixa é encaminhada ao cliente.
+
+<figure><img src="../../.gitbook/assets/image (206).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Realizado o processamento do pedido, a lista de ações é atualizada.
+
+No Painel de Atendimento, as informações são atualizadas podendo ser visualizadas pelo solicitante.
+
+<figure><img src="../../.gitbook/assets/image (207).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+{% hint style="info" %}
+<mark style="color:blue;">Sempre que o pedido é encerrado no ArqGED, o solicitante é notificado por e-mail quanto ao encerramento do seu pedido.</mark>
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/image (208).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
