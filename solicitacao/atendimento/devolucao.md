@@ -1,3 +1,5 @@
 # 🔹 Devolução
 
-Nesta tela são exibidas as solicitações de devolução de arquivos feitas pelos clientes por meio do menu Solicitações > Devolução. É possível realizar a pesquisa de devoluções por meio dos filtros de código de caixa, subcaixa, documento ou devolução, pelo tipo de guarda ou por empresa. &#x20;
+Nesta tela são exibidas as solicitações de devolução feitas pelos clientes por meio do menu Solicitações > Devolução, aqui são consideradas todas as solicitações de devolução, seja ela de documento, caixa ou subcaixa.
+
+<figure><img src="../../.gitbook/assets/image (219).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
