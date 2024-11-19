@@ -64,7 +64,7 @@ O relatório de “Informações dos Atendimentos” é muito utilizado para val
 
 **Coluna Tipo:** Exibe o ícone que corresponde ao tipo de volume solicitado.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (184).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Coluna Pedido:** Exibe o número de pedido gerado no momento do envio da solicitação de consulta.
 
@@ -329,3 +329,14 @@ Ao clicar novamente em “Processar”, o pedido é fechado no sistema e o docum
 
 ## Atendimento de um Pedido de Caixa ou Subcaixa
 
+No Painel de Atendimento, selecione o pedido que será trabalhado e clique em editar.
+
+<figure><img src="../../.gitbook/assets/image (182).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+A tela de atendimento é dividida em duas abas:
+
+### Aba Dados Gerais
+
+A aba Dados Gerais exibe vários campos inativos para preenchimento, trata-se de informações que foram inseridas ao longo do processo de reserva e abertura do pedido no sistema.
+
+<figure><img src="../../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
