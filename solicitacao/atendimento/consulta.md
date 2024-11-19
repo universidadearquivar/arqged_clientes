@@ -389,4 +389,86 @@ Preenchidos todos os campos, clique salvar para prosseguir. Após salvar, os bot
 
 #### Guia de Busca de Caixas e Subcaixas
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+Em ambos os casos a guia possui a mesma estrutura, a diferença delas está no título e na informação do volume: caixa ou subcaixa.
+
+<figure><img src="../../.gitbook/assets/image (191).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+No cabeçalho é exibido:
+
+* Pedido: Exibe o número do pedido de caixa ou subcaixa criado no ArqGED.
+
+Dados do solicitante:
+
+* Nome do cliente
+* Data/Hora de abertura do pedido
+* Nome do solicitante no ArqGED
+* Telefone do solicitante
+
+<figure><img src="../../.gitbook/assets/image (192).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Logo abaixo é exibida:
+
+* Listagem das caixas e/ou subcaixas solicitadas no pedido
+* Endereço das caixas e/ou subcaixas
+* Local para o auxiliar de arquivo (responsável CEDOC) sinalizar se a caixa ou subcaixa foi localizada no arquivo
+
+<figure><img src="../../.gitbook/assets/image (193).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Por fim, são exibidos campos que identificam os atores atuantes no atendimento:
+
+* Atendente Responsável (responsável CEDOC)
+* Auxiliar de Arquivo responsável pela consulta (responsável CEDOC)
+* Auxiliar de Arquivo responsável pela Devolução (responsável CEDOC)
+* Data/Hora da Impressão da guia
+
+<figure><img src="../../.gitbook/assets/image (194).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Concluído o processo de busca no arquivo, o atendente precisa informar para o sistema que a etapa foi realizada para prosseguir com o atendimento.
+
+Para seguir com o atendimento, clique “Processar”.
+
+<figure><img src="../../.gitbook/assets/image (195).png" alt=""><figcaption><p>Clique para ampliar.</p></figcaption></figure>
+
+Ao processar o atendimento, um novo status é definido e uma nova ação é listada na tela.
+
+<figure><img src="../../.gitbook/assets/image (196).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+### Aba Detalhes
+
+Nesta aba, são listados todas as caixas ou subcaixas do pedido. É nesta tela que são adicionadas as informações específicas do atendimento.
+
+#### Detalhes de um Pedido de Caixa
+
+<figure><img src="../../.gitbook/assets/image (199).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+**Coluna Seleção:** Exibe um local para seleção do atendimento.
+
+**Coluna Atend:** Clicando no ícone é possível acessar as particularidades do atendimento, onde de fato são adicionadas as informações para seguir com o processo.
+
+**Coluna Caixa:** Exibe o código da caixa solicitada.
+
+**Coluna Endereço:** Exibe o local de alocação da caixa no arquivo.
+
+**Coluna Itens:** Exibe a quantidade de registros existentes no sistema para a caixa solicitada.
+
+**Coluna Localizado:** Exibe se a caixa foi encontrado no seu local de guarda pelo auxiliar de arquivo. Essa informação deve ser preenchida pelo atendente no momento de fechamento do pedido no ArqGED.
+
+**Colunas Carregado / Entregue / Auxiliar:** São exibidas sem informação, pois não são utilizadas atualmente.
+
+#### Detalhes de um pedido de Subcaixa
+
+<figure><img src="../../.gitbook/assets/image (200).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+**Coluna Seleção:** Exibe um local para seleção do atendimento.
+
+**Coluna Atend:** Clicando no ícone é possível acessar as particularidades do atendimento, onde de fato são adicionadas as informações para seguir com o processo.
+
+**Coluna Subcaixa:** Exibe o código da Subcaixa solicitada e a referência da sua caixa de origem.
+
+**Coluna Endereço:** Exibe o local de alocação da caixa de origem no arquivo.
+
+**Coluna Itens:** Exibe a quantidade de registros existentes no sistema para a caixa solicitada.
+
+**Coluna Localizado:** Exibe se a caixa foi encontrado no seu local de guarda pelo auxiliar de arquivo. Essa informação deve ser preenchida pelo atendente no momento de fechamento do pedido no ArqGED.
+
+**Colunas Carregado / Entregue / Auxiliar:** São exibidas sem informação, pois não são utilizadas atualmente.
