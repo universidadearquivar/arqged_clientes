@@ -256,9 +256,9 @@ Uma nova tela será exibida na tela para preenchimento:
 
 <figure><img src="../../.gitbook/assets/image (172).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-**Considerar / Desconsiderar:** Quando selecionado “Considerar”, o sistema permite o andamento do atendimento com a inclusão dos dados e fechamento do pedido. Quando selecionado “Desconsiderar”, o pedido fica “Pendente” aguardando até que o preenchimento dos dados do atendimento seja realizado, isso impedirá que outro atendente finalize o pedido de forma indevida.
+**Considerar / Desconsiderar:** Quando selecionado “Considerar”, o sistema permite o andamento do atendimento com a inclusão dos dados e fechamento do pedido, inclusive obrigando o preenchimento do campo "Descrição do Item". Quando selecionado “Desconsiderar”, o pedido fica “Pendente” aguardando até que o preenchimento dos dados do atendimento seja realizado, isso impedirá que outro atendente finalize o pedido de forma indevida.
 
-**Descrição do Item:** Este campo possibilita a inclusão de informações relevantes ao documento, por exemplo: Dossiê de Admissão funcionário X. Não se trata de um campo de preenchimento obrigatório, portanto pode ser mantido em branco.
+**Descrição do Item:** Este campo possibilita a inclusão de informações relevantes ao documento, por exemplo: Dossiê de Admissão funcionário X. Trata-se de um campo de preenchimento obrigatório para prosseguimento do atendimento.
 
 **Localizado / Não Localizado:** Exibe a informação de sucesso na localização do documento no arquivo. Selecione conforme realidade do seu pedido.
 
@@ -324,3 +324,8 @@ Ao clicar novamente em “Processar”, o pedido é fechado no sistema e o docum
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (181).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+***
+
+## Atendimento de um Pedido de Caixa ou Subcaixa
+
