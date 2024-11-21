@@ -46,7 +46,7 @@ Selecione na lista o nome do atendente responsável por realizar a devolução d
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-## Aba Detalhes
+### Aba Detalhes
 
 Nesta aba é encontrado o detalhamento dos documentos ou caixa ou subcaixas devolvidos pelo cliente (solicitante).
 
