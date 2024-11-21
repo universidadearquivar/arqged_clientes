@@ -2,7 +2,7 @@
 
 Nesta tela são exibidas as solicitações do cliente feitas pelo menu Solicitações > Consulta. Toda a reserva transformada em **Pedido**, fica disponível para atendimento neste local, seja para atendimento realizado pela Unidade Arquivar (Guarda Terceirizada) ou pelo CEDOC do cliente (Guarda Interna).
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:blue;">O painel de atendimento é único e exibe todos os tipos de pedidos realizados no ArqGED:</mark>
@@ -16,7 +16,7 @@ Nesta tela são exibidas as solicitações do cliente feitas pelo menu Solicita�
 
 Os campos exibidos no cabeçalho da página são campos disponíveis para “pesquisa” de pedidos.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Prioridade:** Exibe para seleção as opções de atendimento disponíveis, geralmente são utilizadas as opções de consulta "normal e urgente".
 
@@ -34,7 +34,7 @@ Os campos exibidos no cabeçalho da página são campos disponíveis para “pes
 
 **Pesquisar:** Ao clicar neste botão, é realizada a busca dos pedidos conforme dados informados para busca.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Editar:** Permite a edição do pedido, selecione o pedido e clique em editar.
 
@@ -44,13 +44,13 @@ Os campos exibidos no cabeçalho da página são campos disponíveis para “pes
 
 Ao pressionar este ícone a aplicação abre uma modal com os campos “Atendente Responsável” e “Destino”. &#x20;
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Desta forma o Gerente do atendimento pode realizar a definição do atendente responsável e do destino das solicitações selecionadas em lote.&#x20;
 
 Não é obrigatório informar os dois campos, ele pode informar somente um campo, desta forma, se for selecionado novamente um universo, e neste pelo menos 1 pedido já tiver a informação de “Atendente Responsável”, estará habilitado somente o campo “Destino” e vice e versa.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Exportar:** Permite gerar um arquivo .CSV considerando:
 
@@ -60,7 +60,7 @@ Não é obrigatório informar os dois campos, ele pode informar somente um campo
 
 O relatório de “Informações dos Atendimentos” é muito utilizado para validação do faturamento, pois, nele são consideradas as informações utilizadas durante o processo.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Coluna Tipo:** Exibe o ícone que corresponde ao tipo de volume solicitado.
 
@@ -96,15 +96,15 @@ Por padrão, os pedidos são ordenados com a seguinte regra:&#x20;
 
 &#x20;Além dos filtros disponíveis no cabeçalho da tela, existe a possibilidade de aplicação de filtro nas colunas.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 &#x20;Ao utilizar o filtro das colunas do Painel de Atendimento, fique atento aos comandos disponíveis para busca:
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 O ideal, quando o usuário não tiver certeza de como foi escrito o texto que busca, é informar que o filtro deverá considerar tudo que “**Contém**” o texto e informar no filtro parte da informação que deseja buscar.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="info" %}
 <mark style="color:blue;">O usuário</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**solicitante**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">poderá acessar o painel de atendimento para</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**visualizar**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">o andamento da sua solicitação, consultar seu pedido ou exportar dados do pedido em .CSV, porém, não é permitido ao solicitante nenhuma interação com o atendimento da demanda. Apenas o atendente da Unidade Arquivar ou do CEDOC do cliente, poderá prosseguir com o atendimento do pedido no sistema. Para o usuário solicitante não é habilitada a opção de "Editar" o pedido.</mark>
@@ -116,7 +116,7 @@ O ideal, quando o usuário não tiver certeza de como foi escrito o texto que bu
 
 No Painel de Atendimento, selecione o pedido que será trabalhado e clique em editar.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 A tela de atendimento é dividida em duas abas:
 
@@ -128,7 +128,7 @@ A aba Dados Gerais exibe vários campos inativos para preenchimento, trata-se de
 <mark style="color:blue;">Tanto para o pedido de documento quanto para o pedido de caixa/subcaixa, a aba “Dados Gerais” apresenta a mesma necessidade de preenchimento para sequência no atendimento do pedido no sistema.</mark>
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Quando no fluxo de atendimento do cliente tiver definida a etapa de “**Aprovação**”, o pedido só poderá entrar em atendimento após o responsável imediato no cliente efetuar a aprovação da solicitação, ou seja, quando ele aprovar o pedido.&#x20;
 
@@ -140,11 +140,11 @@ Essa medida é geralmente utilizada para evitar o **acesso indevido**, de pessoa
 
 Para “Aprovar” ou “Cancelar” o pedido, o responsável deverá acessar a tela Solicitação > Atendimento > Consulta, identificar e abrir o pedido, clicar em “Salvar” e depois em “Processar” para aprovar ou no caso de cancelamento, clicar em "Salvar" e depois em “Cancelar Pedido”.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Aprovado o pedido, o status é alterado e uma nova ação é registrada.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Feita a aprovação, o status do pedido é alterado para "Triagem" e o pedido fica disponível para andamento do atendimento,  além de gerar uma nova ação para o atendimento.&#x20;
 
@@ -154,7 +154,7 @@ Feita a aprovação, o status do pedido é alterado para "Triagem" e o pedido fi
 
 Retornando ao atendimento do pedido, agora aprovado, o atendente deverá iniciar com o preenchimento dos campos:
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Ordem:** Por padrão o campo é exibido preenchido com a informação "10", neste momento o atendente poderá reduzir esta numeração, o que altera a prioridade de atendimento deste pedido no painel de atendimento.
 
@@ -166,7 +166,7 @@ Retornando ao atendimento do pedido, agora aprovado, o atendente deverá iniciar
 
 Preenchidos todos os campos, clique salvar para prosseguir. Após salvar, os botões “Cancelar Pedido” e “Guia” são habilitados e para utilização.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Cancelar Pedido:** O identificar alguma inconsistência, o atendente pode realizar o cancelamento do pedido. Ao optar por desistir do pedido, será apresentada uma mensagem de confirmação da ação. Ao confirmar o pedido é cancelado e o documento volta a ficar disponível para nova reserva.
 

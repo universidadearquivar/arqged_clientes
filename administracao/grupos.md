@@ -6,7 +6,7 @@ description: >-
 
 # 🟩 Grupos
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Empresa:** Apresenta o nome do cliente logado.
 
@@ -16,15 +16,15 @@ description: >-
 * **Workflow: Usuários com permissão para ativar fluxos deste grupo** - Ao criar um fluxo é possível restringir sua criação apenas a quem for membro de um grupo deste tipo.
 * **Workflow: Usuários chefe imediato** – Membros de grupos de chefe imediato podem ser selecionados para receber notificações e realizar tarefas durante fluxos executados por seus subordinados.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Selecione o usuário que deseja incluir no grupo e clique no ícone "**+**" adicionar
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Repita o processo até que todos os usuários sejam incluídos e depois clique em "Salvar".
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Editar:** Selecione na lista um grupo existente e clique no ícone para alteração dos dados.
 
