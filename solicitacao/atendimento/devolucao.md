@@ -6,7 +6,7 @@ Nesta tela são exibidas as solicitações de devolução feitas pelos clientes 
 
 No cabeçalho são apresentadas as opções de filtros disponíveis:
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Caixa ou Subcaixa:** Permite a busca do pedido de devolução pelo número da caixa ou da subcaixa.
 
@@ -22,10 +22,19 @@ No cabeçalho são apresentadas as opções de filtros disponíveis:
 
 Ao selecionar um pedido são habilitados os ícones:
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Editar:** Permite a edição do pedido para atendimento da devolução, isso ocorre quando o cliente possui arquivo de guarda interna e o usuário logado tem a permissão ativa.
 
 **Visualizar:** Permite a visualização dos dados do pedido, sem interação.
 
 **Exportar:** Permite exportar os dados do pedido para o .CSV
+
+Selecione a solicitação que deseja atender e clique em "Editar".
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Será aberta a tela de atendimento do pedido que é dividida em duas abas:
+
+### Aba Dados Gerais
+
