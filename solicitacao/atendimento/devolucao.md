@@ -91,3 +91,7 @@ Para que o status do volume seja alterado novamente para “Armazenada (o)” e 
 Ao concluir o processo de devolução o Status do pedido é alterado para “Guardado” e a lista de ações do atendimento é atualizada. Logo as caixas, subcaixas e documentos já se encontram disponíveis para novos pedidos no sistema.
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+{% hint style="danger" %}
+<mark style="color:red;">Encerrado o processo de devolução no sistema, o CEDOC deve se organizar para retornar com os volumes para seus devidos locais de alocação no arquivo, evitando que o volume seja novamente solicitado e não seja encontrado em seu local de guarda.  Cuide para que o processo de devolução dos volumes seja devidamente concluído.</mark>
+{% endhint %}
