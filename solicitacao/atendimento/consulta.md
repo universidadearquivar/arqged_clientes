@@ -226,6 +226,10 @@ Nesta aba, são listados todos os documentos do pedido. É nesta tela que são a
 
 <figure><img src="../../.gitbook/assets/image (169).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
+**Grupo:** Quando a Unidade possui configuração definida para **Grupo de Endereços**, este campo é apresentado na tela e é considerado para organização do pedido. Isso é feito para que o auxiliar de arquivo responsável pela busca dos volumes  no arquivo tenha maior facilidade e produtividade na separação do acervo.
+
+<figure><img src="../../.gitbook/assets/image (220).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
 **Coluna Seleção:** Exibe um local para seleção do atendimento.
 
 **Coluna Doc:** Ao clicar no ícone o registro é apresentado na tela e é possível navegar entre as abas do registro existente no ArqGED.
@@ -440,6 +444,10 @@ Nesta aba, são listados todas as caixas ou subcaixas do pedido. É nesta tela q
 #### Detalhes de um Pedido de Caixa
 
 <figure><img src="../../.gitbook/assets/image (199).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+**Grupo:** Quando a Unidade possui configuração definida para **Grupo de Endereços**, este campo é apresentado na tela e é considerado para organização do pedido. Isso é feito para que o auxiliar de arquivo responsável pela busca dos volumes  no arquivo tenha maior facilidade e produtividade na separação do acervo.
+
+<figure><img src="../../.gitbook/assets/image (222).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Coluna Seleção:** Exibe um local para seleção do atendimento.
 

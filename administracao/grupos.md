@@ -33,5 +33,5 @@ Repita o processo até que todos os usuários sejam incluídos e depois clique e
 **Excluir:** Selecione na lista um grupo existente e clique no ícone para excluí-lo.&#x20;
 
 {% hint style="info" %}
-**A indicação do chefe imediato de um usuário deve ser feita na tela **<mark style="color:blue;">**Administração > Usuários > Aba Permissões II.**</mark>
+**A indicação do chefe imediato de um usuário deve ser feita na tela&#x20;**<mark style="color:blue;">**Administração > Usuários > Aba Permissões II.**</mark>
 {% endhint %}
