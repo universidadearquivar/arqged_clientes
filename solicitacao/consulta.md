@@ -52,6 +52,12 @@ Confirme a ação na mensagem apresentada para seguir com o cancelamento da rese
 
 Em caso da desistência de todas as reservas, clique no ícone carrinho do lado direito da tela para "Cancelar todas as reservas de documentos".
 
+{% hint style="info" %}
+<mark style="color:blue;">Uma reserva só pode ser cancelada pelo usuário que a realizou. Não existe um usuário Administrador com permissão para esta ação, pois, existe a possibilidade de cancelamentos indevidos . Em caso de desligamento de colaborador, o gestor deverá alterar a senha de acesso e cancelar todas as reservas do usuário antes de inativá-lo no sistema.</mark>
+{% endhint %}
+
+***
+
 ### Como criar um Pedido de Documento
 
 Em "Minhas Reservas de Documentos", para cada documento reservado é apresentada uma linha com as principais informações do registro.
@@ -182,6 +188,12 @@ Confirme a ação na mensagem apresentada para seguir com o cancelamento da rese
 <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Em caso da desistência de todas as reservas, clique no ícone carrinho do lado direito da tela para "**Cancelar todas as reservas de caixas ou subcaixas**".
+
+{% hint style="info" %}
+<mark style="color:blue;">Uma reserva só pode ser cancelada pelo usuário que a realizou. Não existe um usuário Administrador com permissão para esta ação, pois, existe a possibilidade de cancelamentos indevidos . Em caso de desligamento de colaborador, o gestor deverá alterar a senha de acesso e cancelar todas as reservas do usuário antes de inativá-lo no sistema.</mark>
+{% endhint %}
+
+***
 
 ### Como criar um Pedido de Caixa ou Subcaixa
 
