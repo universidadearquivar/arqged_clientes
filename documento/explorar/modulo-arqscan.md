@@ -29,15 +29,19 @@ Para o funcionamento correto do ArqClient são exigidos os requisitos mínimos a
 
 <figure><img src="../../.gitbook/assets/image (86).png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-3\. Salve o arquivo ZIP na máquina. Em seguida, abra a pasta e clique duas vezes sobre o arquivo de instalação.&#x20;
+3\. Salve o arquivo ZIP na máquina. Em seguida, clique com o botão direito do _mouse_ e extraia os arquivos utilizando o programa "WinRAR". Selecione a opção "Extrair para...".
 
-<figure><img src="../../.gitbook/assets/image (87).png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (223).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-4\. Clique em “Avançar” nas próximas telas até que o status de instalação seja concluído. &#x20;
+4\. Abra a pasta criada na extração dos arquivos e clique duas vezes sobre o arquivo de instalação.
+
+<figure><img src="../../.gitbook/assets/image (224).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+5. Clique em “Avançar” nas próximas telas até que o status de instalação seja concluído. &#x20;
 
 <figure><img src="../../.gitbook/assets/image (88).png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-5\. Clique em “Fechar” para concluir a instalação.&#x20;
+6\. Clique em “Fechar” para concluir a instalação.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (89).png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
