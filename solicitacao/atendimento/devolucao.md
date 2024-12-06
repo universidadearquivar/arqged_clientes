@@ -8,7 +8,7 @@ Nesta tela são exibidas as solicitações de devolução feitas pelos clientes 
 
 No cabeçalho são apresentadas as opções de filtros disponíveis:
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Caixa ou Subcaixa:** Permite a busca do pedido de devolução pelo número da caixa ou da subcaixa.
 
@@ -24,7 +24,7 @@ No cabeçalho são apresentadas as opções de filtros disponíveis:
 
 Ao selecionar um pedido são habilitados os ícones:
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Editar:** Permite a edição do pedido para atendimento da devolução, isso ocorre quando o cliente possui arquivo de guarda interna e o usuário logado tem a permissão ativa.
 
@@ -34,7 +34,7 @@ Ao selecionar um pedido são habilitados os ícones:
 
 Selecione a solicitação que deseja atender e clique em "Editar".
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Será aberta a tela de atendimento do pedido que é dividida em duas abas:
 
@@ -44,13 +44,13 @@ Nesta aba são exibidas algumas informações inativas para edição, trata-se d
 
 Selecione na lista o nome do atendente responsável por realizar a devolução do volume no sistema, clique salvar. &#x20;
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ### Aba Detalhes
 
 Nesta aba é encontrado o detalhamento dos documentos ou caixa ou subcaixas devolvidos pelo cliente (solicitante).
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Clique para "Receber". Neste momento os volumes ainda não foram conferidos fisicamente, trata-se de um recebimento da quantidade de volumes.
 
@@ -62,21 +62,21 @@ Já de posse dos volumes em meio físico, faça a conferência dos códigos list
 
 Marque na tela os códigos efetivamente recebidos e clique em "Conferir".
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="danger" %}
 Quando identificados volumes listados no pedido, porém, não recebidos fisicamente, estes devem ficar desmarcados na tela, pois deverão ser checados pelos responsáveis.
 
-<img src="../../.gitbook/assets/image (3).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="original">
 {% endhint %}
 
 Neste caso, somente os volumes selecionados serão validados:
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Clique em guardar para prosseguir com a devolução.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="danger" %}
 <mark style="color:red;">O responsável pela conferência dos volumes no CEDOC, ao identificar que os volumes não foram enviados em sua totalidade para devolução, deve entrar em contato com o solicitante informando da divergência para a regularização imediata da situação, é importante ainda fazer formalização do ocorrido por e-mail, bem como o registro da resolução da pendência.</mark>
@@ -84,13 +84,13 @@ Clique em guardar para prosseguir com a devolução.
 
 **Como exemplo:** Ao pesquisar a caixa que não foi identificada na devolução, é possível observar que ela continua com status “Emprestada”, ou seja, ela não teve sua devolução concluída no sistema. O mesmo ocorre com um documento ou uma subcaixa que não foi enviada.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Para que o status do volume seja alterado novamente para “Armazenada (o)” e para que ele possa estar novamente disponível para reserva e nova consulta, o processo de devolução deve ser iniciado novamente, pois não é mais possível confirmar o recebimento do volume no pedido de devolução anterior, já que ele foi concluído.
 
 Ao concluir o processo de devolução o Status do pedido é alterado para “Guardado” e a lista de ações do atendimento é atualizada. Logo as caixas, subcaixas e documentos já se encontram disponíveis para novos pedidos no sistema.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="danger" %}
 <mark style="color:red;">Encerrado o processo de devolução no sistema, o CEDOC deve se organizar para retornar com os volumes para seus devidos locais de alocação no arquivo, evitando que o volume seja novamente solicitado e não seja encontrado em seu local de guarda.  Cuide para que o processo de devolução dos volumes seja devidamente concluído.</mark>

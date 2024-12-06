@@ -23,7 +23,7 @@ Para o funcionamento correto do ArqClient são exigidos os requisitos mínimos a
 
 1\. Para realizar o download e instalação do aplicativo “ArqClient” na máquina onde será utilizada a assinatura digital, acesse o site [**https://downloads.arquivar.com/**](https://downloads.arquivar.com/).&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 2\. Em “Instaladores”, clique no link para o arquivo de instalação para utilização no ambiente de Produção.&#x20;
 
@@ -60,7 +60,7 @@ O acesso ao módulo ArqScan deve ser feito na tela [Documento > Explorar](./), c
 
 <mark style="color:red;">Veja abaixo um exemplo de erro deste tipo:</mark>
 
-<img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt="" data-size="original">
 
 <mark style="color:red;">Clique nos links abaixo para baixar os instaladores para estes pacotes. É importante utilizar sempre a versão mais atual para instalação.</mark>
 
@@ -110,19 +110,19 @@ Clicando no ícone “Visualização” é possível alterar a forma como o grid
 
 Para iniciar a indexação, selecione as páginas que deseja indexar. É possível selecionar mais de uma página por vez, mantendo a tecla Ctrl pressionada e selecionando as páginas que deseja indexar. &#x20;
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 Na área “Indexadores” será exibido o cliente selecionado anteriormente em [Documento > Explorar](./). Selecione o Universo de Trabalho, a Árvore Organizacional e o Tipo de Documento (Eletrônico, Guarda Interna ou Guarda Terceirizada). O campo “Unidade” será preenchido automaticamente com a unidade que atende o cliente selecionado.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 Depois de realizar a seleção serão exibidos os campos indexadores para preenchimento. Esses campos são aqueles definidos anteriormente para o tipo documental que estiver sendo indexado. O preenchimento desses campos funciona da mesma forma que no [cadastro de documentos](../cadastrar.md). &#x20;
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 Caso tenha sido escolhido o tipo de documento “Guarda Interna” será preciso informar se será feita a criação de uma nova caixa. Se não for criada será preciso informar o número da caixa e subcaixa (se houver) à qual o documento será associado. Se escolhido o tipo de documento de “Guarda Terceirizada” será obrigatório informar o número da caixa e subcaixa (se houver).&#x20;
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 Na área “Imagem” é possível nomear as imagens manualmente ou selecionar a opção “Gerar Nome Automaticamente”.&#x20;
 

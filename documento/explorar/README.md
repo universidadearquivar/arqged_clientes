@@ -44,23 +44,23 @@ Na visualização por arquivos são exibidos apenas registros que possuem arquiv
 
 <figure><img src="../../.gitbook/assets/image (74).png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-### Adicionar Registro&#x20;
+### Adicionar Registro ![](../../.gitbook/assets/image.png)
 
 Ao selecionar o tipo documento desejado será possível adicionar um novo documento a ele, clicando no ícone “Adicionar”. Será aberta a tela [Documento > Cadastrar](../cadastrar.md) para o cadastro do novo registro.&#x20;
 
-### Editar&#x20;
+### Editar ![](<../../.gitbook/assets/image (1).png>)
 
 Utilizado para editar informações do registro que estiver selecionado. Será aberta a mesma tela mostrada em [Documento > Cadastrar](../cadastrar.md).&#x20;
 
-### Visualizar&#x20;
+### Visualizar ![](<../../.gitbook/assets/image (2).png>)
 
 Utilizado para visualizar as informações do registro que estiver selecionado. Será aberta a mesma tela mostrada em [Documento > Cadastrar](../cadastrar.md).&#x20;
 
-### Excluir&#x20;
+### Excluir ![](<../../.gitbook/assets/image (3).png>)
 
 Utilizado para excluir o registro que estiver selecionado.&#x20;
 
-### Download do documento&#x20;
+### Download do documento ![](<../../.gitbook/assets/image (4).png>)
 
 Utilizado para realizar o download dos arquivos associados ao registro selecionado. Se não houver arquivos anexados ao registro, não é possível realizar o download.&#x20;
 
@@ -68,19 +68,19 @@ Se selecionado mais de um registro para download com arquivos anexados, será po
 
 <figure><img src="../../.gitbook/assets/image (75).png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-### Upload de documento&#x20;
+### Upload de documento ![](<../../.gitbook/assets/image (5).png>)
 
 Utilizado para fazer o upload de um arquivo para associá-lo ao registro selecionado, ou seja, anexar um arquivo àquele documento. Deverá ser informada a versão e o nome do arquivo que está sendo anexado. &#x20;
 
 <figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-### Assinatura&#x20;
+### Assinatura ![](<../../.gitbook/assets/image (6).png>)
 
 Se o cliente possuir o serviço de Assinatura Digital contratado, será exibido o ícone “Assinatura”. Será possível realizar a assinatura em lote dos arquivos selecionados no grid de todos os arquivos dos resultados da pesquisa realizada (sendo limitado a 300 arquivos por vez).&#x20;
 
 <figure><img src="../../.gitbook/assets/image (77).png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-### Configurar colunas da tela&#x20;
+### Configurar colunas da tela ![](<../../.gitbook/assets/image (7).png>)
 
 As colunas exibidas na tela podem ser escolhidas de acordo com o que se deseja que seja exibido. No campo “Colunas com os dados de identificação do documento”, é possível escolher as colunas que serão exibidas ao se realizar a busca de arquivos do tipo documental selecionado. No campo à esquerda são exibidas as colunas disponíveis e no campo à direita são mostradas as colunas selecionadas que serão exibidas. &#x20;
 
@@ -90,45 +90,45 @@ Para exibir uma coluna, selecione-a no campo à esquerda e clique no ícone “>
 
 <figure><img src="../../.gitbook/assets/image (79).png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-### Digitalizar documento&#x20;
+### Digitalizar documento ![](<../../.gitbook/assets/image (8).png>)
 
 Ao clicar neste ícone o usuário será direcionado para o [módulo ArqScan](modulo-arqscan.md) para que seja feita a indexação do registro selecionado. &#x20;
 
 <figure><img src="../../.gitbook/assets/image (80).png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-### Reservar documento&#x20;
+### Reservar documento ![](<../../.gitbook/assets/image (9).png>)
 
 Este ícone só será habilitado se houver documento físico associado ao registro selecionado, ou seja, documentos que tenham sido castrados como de “Guarda Interna” ou “Guarda Terceirizada” na tela [Documento > Cadastrar](../cadastrar.md). Neste caso será possível solicitar a consulta aos documentos físicos por meio deste ícone.&#x20;
 
-### Reservar caixa&#x20;
+### Reservar caixa ![](<../../.gitbook/assets/image (10).png>)
 
 Este ícone só será habilitado se houver caixa física de documentos associada ao registro selecionado. Neste caso será possível solicitar a consulta aos documentos das caixas por meio deste ícone.&#x20;
 
-### Reservar subcaixa&#x20;
+### Reservar subcaixa ![](<../../.gitbook/assets/image (11).png>)
 
 Este ícone só será habilitado se houver subcaixa física de documentos associada ao registro selecionado. Neste caso será possível solicitar a consulta aos documentos das subcaixas por meio deste ícone.&#x20;
 
-### Ativar novo fluxo&#x20;
+### Ativar novo fluxo ![](<../../.gitbook/assets/image (12).png>)
 
 Utilizado para ativar um novo fluxo com o registro selecionado já associado a ele. Esse ícone só será habilitado se o cliente possuir o serviço ArqFlow contratado. Será aberta a tela “[Ativar Novo Fluxo](./#ativar-novo-fluxo)”.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (81).png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-### Compartilhar&#x20;
+### Compartilhar ![](<../../.gitbook/assets/image (13).png>)
 
 Permite realizar o compartilhamento dos registros selecionados com pessoas externas ao ArqGED, por meio de uma URL gerada para acesso externo e envio por e-mail. É possível definir se essa URL terá acesso por tempo indeterminado ou se terá uma data determinada de validade.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (82).png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-### Descompartilhar&#x20;
+### Descompartilhar ![](<../../.gitbook/assets/image (14).png>)
 
 Utilizado para descompartilhar os links de acesso externo gerados por meio do botão “Compartilhar” e enviados por e-mail a usuários externos. Neste caso as pessoas que clicarem no link não conseguirão mais acessar os documentos compartilhados.  &#x20;
 
-### Carregar mais 1000 registros&#x20;
+### Carregar mais 1000 registros ![](<../../.gitbook/assets/image (15).png>)
 
 Por padrão, a tela Explorar exibe no máximo 1000 registros ao se realizar uma busca. Para exibir mais que essa quantidade de registros, deve-se clicar neste ícone. &#x20;
 
-### Capturar Certificado&#x20;
+### Capturar Certificado ![](<../../.gitbook/assets/image (16).png>)
 
 Utilizado para capturar os certificados digitais de arquivos assinados digitalmente. Se houver certificados digitais utilizados para assinatura do registro será possível visualizar as informações desses certificados. &#x20;
 
