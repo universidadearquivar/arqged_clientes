@@ -1,7 +1,6 @@
 # Table of contents
 
 * [🟢 Página Inicial](README.md)
-* [Cliente](cliente.md)
 * [📄 Árvore Documental](arvore-documental/README.md)
   * [🟩 Estrutura Organizacional](arvore-documental/estrutura-organizacional.md)
   * [🟩 Campo Customizado](arvore-documental/campo-customizado.md)
