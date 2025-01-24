@@ -26,7 +26,7 @@ Ao concluir a busca, serão exibidos os registros encontrados. O total de regist
 
 Selecionado um ou mais registros serão habilitados os ícones para as ações:&#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ### Editar&#x20;
 
