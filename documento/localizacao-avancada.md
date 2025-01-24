@@ -39,31 +39,33 @@ Ao concluir a busca, serão exibidos os registros encontrados. O total de regist
 
 Selecionado um ou mais registros serão habilitados os ícones para as ações:&#x20;
 
-### Editar&#x20;
+<figure><img src="../.gitbook/assets/image (237).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+### Editar ![](<../.gitbook/assets/image (238).png>)&#x20;
 
 Utilizado para editar informações do registro que estiver selecionado. Será aberta a mesma tela mostrada em [Documento > Cadastrar](cadastrar.md).&#x20;
 
-### Visualizar&#x20;
+### Visualizar ![](<../.gitbook/assets/image (239).png>)&#x20;
 
 Utilizado para visualizar as informações do registro que estiver selecionado. Será aberta a mesma tela mostrada em [Documento > Cadastrar](cadastrar.md).&#x20;
 
-### Excluir&#x20;
+### Excluir  ![](<../.gitbook/assets/image (240).png>)
 
 Utilizado para excluir o registro que estiver selecionado.&#x20;
 
-### Reservar documento&#x20;
+### Reservar documento  ![](<../.gitbook/assets/image (241).png>)
 
 Este ícone só será habilitado se houver documento físico associado ao registro selecionado, ou seja, documentos que tenham sido castrados como de “Guarda Interna” ou “Guarda Terceirizada” na tela [Documento > Cadastrar](cadastrar.md). Neste caso será possível solicitar a consulta aos documentos físicos por meio deste ícone.&#x20;
 
-### Reservar caixa&#x20;
+### Reservar caixa ![](<../.gitbook/assets/image (242).png>)
 
 Este ícone só será habilitado se houver caixa física de documentos associada ao registro selecionado. Neste caso será possível solicitar a consulta aos documentos das caixas por meio deste ícone.&#x20;
 
-### Reservar subcaixa&#x20;
+### Reservar subcaixa ![](<../.gitbook/assets/image (243).png>)
 
 Este ícone só será habilitado se houver subcaixa física de documentos associada ao registro selecionado. Neste caso será possível solicitar a consulta aos documentos das subcaixas por meio deste ícone.&#x20;
 
-### Exportar&#x20;
+### Exportar ![](<../.gitbook/assets/image (244).png>)&#x20;
 
 Esta opção permite exportar um relatório em formato Excel com os resultados da pesquisa. É possível exportar os resultados de todos os documentos encontrados, apenas os resultados de documentos que estejam emprestados ou apenas resultados de documentos já vencidos.  &#x20;
 
@@ -73,13 +75,13 @@ O relatório gerado sempre mostrará os resultados separados por nó da árvore 
 
 <figure><img src="../.gitbook/assets/image (106).png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-### Assinatura&#x20;
+### Assinatura ![](<../.gitbook/assets/image (245).png>)
 
 Se o cliente possuir o serviço de Assinatura Digital contratado, será exibido o ícone “Assinatura”. Será possível realizar a assinatura em lote dos arquivos selecionados no grid de todos os arquivos dos resultados da pesquisa realizada (sendo limitado a 300 arquivos por vez).&#x20;
 
 <figure><img src="../.gitbook/assets/image (107).png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-### Ativar novo fluxo&#x20;
+### Ativar novo fluxo ![](<../.gitbook/assets/image (246).png>)
 
 Utilizado para ativar um novo fluxo com o registro selecionado já associado a ele. Esse ícone só será habilitado se o cliente possuir o serviço ArqFlow contratado. Será aberta a tela “[Ativar Novo Fluxo](localizacao-avancada.md#ativar-novo-fluxo)”.&#x20;
 
