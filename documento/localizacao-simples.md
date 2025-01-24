@@ -100,6 +100,6 @@ Ao lado de cada registro outros ícones podem ser exibidos. São eles:&#x20;
 
 <figure><img src="../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-**Editar** ![](<../.gitbook/assets/image (235).png>)**:** Clicando neste botão será possível editar os campos indexadores do documento.&#x20;
+**Editar:** Clicando neste botão será possível editar os campos indexadores do documento.&#x20;
 
-**Download** ![](<../.gitbook/assets/image (236).png>)**:** Clicando neste ícone será possível realizar o download dos arquivos do documento selecionado.&#x20;
+**Download:** Clicando neste ícone será possível realizar o download dos arquivos do documento selecionado.&#x20;
