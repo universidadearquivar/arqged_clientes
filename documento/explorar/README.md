@@ -44,11 +44,11 @@ Na visualização por arquivos são exibidos apenas registros que possuem arquiv
 
 <figure><img src="../../.gitbook/assets/image (74).png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-### Adicionar Registro ![](../../.gitbook/assets/image.png)
+### Adicionar Registro ![](<../../.gitbook/assets/image (1).png>)
 
 Ao selecionar o tipo documento desejado será possível adicionar um novo documento a ele, clicando no ícone “Adicionar”. Será aberta a tela [Documento > Cadastrar](../cadastrar.md) para o cadastro do novo registro.&#x20;
 
-### Editar ![](<../../.gitbook/assets/image (1).png>)
+### Editar ![](<../../.gitbook/assets/image (1) (1).png>)
 
 Utilizado para editar informações do registro que estiver selecionado. Será aberta a mesma tela mostrada em [Documento > Cadastrar](../cadastrar.md).&#x20;
 

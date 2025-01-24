@@ -8,7 +8,7 @@ Nesta tela são exibidas as solicitações de devolução feitas pelos clientes 
 
 No cabeçalho são apresentadas as opções de filtros disponíveis:
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Caixa ou Subcaixa:** Permite a busca do pedido de devolução pelo número da caixa ou da subcaixa.
 
@@ -24,7 +24,7 @@ No cabeçalho são apresentadas as opções de filtros disponíveis:
 
 Ao selecionar um pedido são habilitados os ícones:
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Editar:** Permite a edição do pedido para atendimento da devolução, isso ocorre quando o cliente possui arquivo de guarda interna e o usuário logado tem a permissão ativa.
 
@@ -50,7 +50,7 @@ Selecione na lista o nome do atendente responsável por realizar a devolução d
 
 Nesta aba é encontrado o detalhamento dos documentos ou caixa ou subcaixas devolvidos pelo cliente (solicitante).
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Clique para "Receber". Neste momento os volumes ainda não foram conferidos fisicamente, trata-se de um recebimento da quantidade de volumes.
 
