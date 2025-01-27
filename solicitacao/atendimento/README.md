@@ -4,5 +4,5 @@ No menu Atendimento são exibidas todas as solicitações feitas pelo cliente no
 
 O menu Atendimento é composto pelos seguintes submenus:
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><mark style="color:green;"><strong>Consulta</strong></mark></td><td></td></tr><tr><td align="center"><mark style="color:green;"><strong>Devolução</strong></mark></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><a href="consulta.md"><mark style="color:green;"><strong>Consulta</strong></mark></a></td><td></td></tr><tr><td align="center"><a href="devolucao.md"><mark style="color:green;"><strong>Devolução</strong></mark></a></td><td></td></tr></tbody></table>
 
