@@ -17,3 +17,9 @@ A Ordem do Download em Massa é utilizada para que o sistema organize os documen
 {% hint style="info" %}
 <mark style="color:blue;">**EXEMPLO:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Se em um download em massa for definido que o campo “Data” é o número um do tipo crescente e o campo “Filial” é o número dois do tipo crescente, o sistema organizará os documentos por data, do mais antigo para o mais recente, e por nome de filial em ordem alfabética.</mark>&#x20;
 {% endhint %}
+
+Exemplo.
+
+
+
+{% @supademo/embed demoId="cm6f57h3a0fi1waboexxy6mfr" url="https://app.supademo.com/demo/cm6f57h3a0fi1waboexxy6mfr" %}
