@@ -9,7 +9,7 @@ Neste manual você encontrará diversos conteúdos que te ajudarão a utilizar n
 <table data-view="cards"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center"><a href="arvore-documental/"><mark style="color:green;"><strong>Árvore Documental</strong></mark></a></td></tr><tr><td align="center"><a href="documento/"><mark style="color:green;"><strong>Documento</strong></mark></a></td></tr><tr><td align="center"><a href="producao/"><mark style="color:green;"><strong>Produção</strong></mark></a></td></tr><tr><td align="center"><a href="caixa-ou-pasta/"><mark style="color:green;"><strong>Caixa ou Pasta</strong></mark></a></td></tr><tr><td align="center"><a href="endereco/"><mark style="color:green;"><strong>Endereço</strong></mark></a></td></tr><tr><td align="center"><a href="workflow/"><mark style="color:green;"><strong>Workflow</strong></mark></a></td></tr></tbody></table>
 
 {% hint style="success" %}
-Quer saber um pouco mais sobre BPM?&#x20;
+<mark style="background-color:green;">**Quer saber um pouco mais sobre BPM?**</mark>&#x20;
 
-Acesse nosso catálogo de cursos na [<mark style="background-color:green;">Arquivar Academy</mark>](https://hotmart.com/en/club/arquivar-academy) e adquira o curso de Gestão de Processos.
+No site da **Arquivar Academy** você encontra diversos conteúdos sobre Gestão Estratégica de Processos, Gestão Documental, LGPD e muito mais! [**Clique aqui e confira**](https://hotmart.com/en/club/arquivar-academy)!
 {% endhint %}
