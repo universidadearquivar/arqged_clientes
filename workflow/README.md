@@ -30,3 +30,9 @@ Para que o Workflow funcione corretamente são necessárias algumas observaçõe
 * O serviço do Workflow precisa estar liberado no ArqGED.
 * Os usuários envolvidos precisam estar cadastrados no ArqGED observando as permissões do Workflow.
 * Usuários externos poderão ser integrados ao fluxo, porém, com restrições de visualização e acesso ao fluxo como um todo.
+
+{% hint style="success" %}
+<mark style="background-color:green;">**Quer saber um pouco mais sobre BPM?**</mark>&#x20;
+
+No site da **Arquivar Academy** você encontra diversos conteúdos sobre Gestão Estratégica de Processos, Gestão Documental, LGPD e muito mais! [**Clique aqui e confira**](https://hotmart.com/en/club/arquivar-academy)!
+{% endhint %}
