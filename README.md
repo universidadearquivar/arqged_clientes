@@ -11,8 +11,5 @@ Neste manual você encontrará diversos conteúdos que te ajudarão a utilizar n
 {% hint style="success" %}
 Quer saber um pouco mais sobre BPM?&#x20;
 
-Acesse nosso catálogo de cursos na Arquivar Academy e adquira o curso de Gestão de Processos.
+Acesse nosso catálogo de cursos na [<mark style="background-color:green;">Arquivar Academy</mark>](https://hotmart.com/en/club/arquivar-academy) e adquira o curso de Gestão de Processos.
 {% endhint %}
-
-{% embed url="https://hotmart.com/en/club/arquivar-academy" fullWidth="false" %}
-
