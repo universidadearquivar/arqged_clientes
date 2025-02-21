@@ -56,7 +56,6 @@
   * [🟩 Usuários](administracao/usuarios.md)
 * [🧩 Integrações](integracoes/README.md)
   * [⚙️ API](integracoes/api/README.md)
-    * [🟩 URL da API ArqGED](integracoes/api/url-da-api-arqged.md)
     * [🟩 Limites de Requisições da API](integracoes/api/limites-de-requisicoes-da-api.md)
     * [🟩 Métodos disponíveis na API](integracoes/api/metodos-disponiveis-na-api/README.md)
       * [◼️ 1. Autenticação](integracoes/api/metodos-disponiveis-na-api/1.-autenticacao.md)
@@ -68,4 +67,5 @@
       * [◼️ 7. Nota Fiscal](integracoes/api/metodos-disponiveis-na-api/7.-nota-fiscal.md)
       * [◼️ 8. Relatórios](integracoes/api/metodos-disponiveis-na-api/8.-relatorios.md)
       * [◼️ 9. Usuário](integracoes/api/metodos-disponiveis-na-api/9.-usuario.md)
+    * [🟩 URL da API ArqGED](integracoes/api/url-da-api-arqged.md)
     * [🟩 Histórico de alterações da API](integracoes/api/historico-de-alteracoes-da-api.md)
