@@ -69,3 +69,4 @@
       * [◼️ 9. Usuário](integracoes/api/metodos-disponiveis-na-api/9.-usuario.md)
     * [🟩 URL da API ArqGED](integracoes/api/url-da-api-arqged.md)
     * [🟩 Histórico de alterações da API](integracoes/api/historico-de-alteracoes-da-api.md)
+  * [SSO](integracoes/sso.md)
