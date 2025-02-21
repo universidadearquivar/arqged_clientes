@@ -15,7 +15,7 @@ Quando o parâmetro **RemoverEspacos** for enviado como **true**, então a API i
 * Retirar todos os espaços no início e no final de cada campo customizado e de lista;&#x20;
 * Retirar espaços maiores que duplos entre os conteúdos dos campos customizados e de lista.&#x20;
 
-![](<../.gitbook/assets/image (139).png>)
+![](<../../.gitbook/assets/image (139).png>)
 
 Esta alteração foi criada para melhorar a integração com E-Social.
 
