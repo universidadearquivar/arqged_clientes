@@ -44,23 +44,23 @@ Na visualização por arquivos são exibidos apenas registros que possuem arquiv
 
 <figure><img src="../../.gitbook/assets/image (74).png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-### Adicionar Registro ![](<../../.gitbook/assets/image (1).png>)
+### Adicionar Registro ![](<../../.gitbook/assets/image (1) (1).png>)
 
 Ao selecionar o tipo documento desejado será possível adicionar um novo documento a ele, clicando no ícone “Adicionar”. Será aberta a tela [Documento > Cadastrar](../cadastrar.md) para o cadastro do novo registro.&#x20;
 
-### Editar ![](<../../.gitbook/assets/image (1) (1).png>)
+### Editar ![](<../../.gitbook/assets/image (1) (1) (1).png>)
 
 Utilizado para editar informações do registro que estiver selecionado. Será aberta a mesma tela mostrada em [Documento > Cadastrar](../cadastrar.md).&#x20;
 
-### Visualizar ![](<../../.gitbook/assets/image (2).png>)
+### Visualizar ![](<../../.gitbook/assets/image (2) (1).png>)
 
 Utilizado para visualizar as informações do registro que estiver selecionado. Será aberta a mesma tela mostrada em [Documento > Cadastrar](../cadastrar.md).&#x20;
 
-### Excluir ![](<../../.gitbook/assets/image (3).png>)
+### Excluir ![](<../../.gitbook/assets/image (3) (1).png>)
 
 Utilizado para excluir o registro que estiver selecionado.&#x20;
 
-### Download do documento ![](<../../.gitbook/assets/image (4).png>)
+### Download do documento ![](<../../.gitbook/assets/image (4) (1).png>)
 
 Utilizado para realizar o download dos arquivos associados ao registro selecionado. Se não houver arquivos anexados ao registro, não é possível realizar o download.&#x20;
 
@@ -79,19 +79,19 @@ Se ao tentar realizar o download do arquivo for exibida a mensagem **"Não foi p
 Essa configuração é padrão do navegador e pode interferir na visualização ou no download dos arquivos PDF, sendo necessário ajustá-la para corrigir o problema.
 {% endhint %}
 
-### Upload de documento ![](<../../.gitbook/assets/image (5).png>)
+### Upload de documento ![](<../../.gitbook/assets/image (5) (1).png>)
 
 Utilizado para fazer o upload de um arquivo para associá-lo ao registro selecionado, ou seja, anexar um arquivo àquele documento. Deverá ser informada a versão e o nome do arquivo que está sendo anexado. &#x20;
 
 <figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-### Assinatura ![](<../../.gitbook/assets/image (6).png>)
+### Assinatura ![](<../../.gitbook/assets/image (6) (1).png>)
 
 Se o cliente possuir o serviço de Assinatura Digital contratado, será exibido o ícone “Assinatura”. Será possível realizar a assinatura em lote dos arquivos selecionados no grid de todos os arquivos dos resultados da pesquisa realizada (sendo limitado a 300 arquivos por vez).&#x20;
 
 <figure><img src="../../.gitbook/assets/image (77).png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-### Configurar colunas da tela ![](<../../.gitbook/assets/image (7).png>)
+### Configurar colunas da tela ![](<../../.gitbook/assets/image (7) (1).png>)
 
 As colunas exibidas na tela podem ser escolhidas de acordo com o que se deseja que seja exibido. No campo “Colunas com os dados de identificação do documento”, é possível escolher as colunas que serão exibidas ao se realizar a busca de arquivos do tipo documental selecionado. No campo à esquerda são exibidas as colunas disponíveis e no campo à direita são mostradas as colunas selecionadas que serão exibidas. &#x20;
 
