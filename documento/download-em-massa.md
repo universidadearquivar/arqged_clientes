@@ -12,6 +12,16 @@ O Download em Massa permite que, ao localizar um documento que possua arquivos a
 
 Dependendo do tamanho do arquivo de download solicitado ele não será feito instantaneamente, podendo demorar até 24 horas para ser gerado. No menu Download em Massa será possível visualizar todos os downloads em massa do cliente selecionado no campo “Cliente”. &#x20;
 
+{% hint style="danger" %}
+<mark style="color:red;">O download em massa pode contemplar também vários registros e seus anexos, nestes casos, existe um limite de tamanho do arquivo total que precisa ser respeitado. A aplicação permite o download de até 500MB por download em massa, passando esse limite, a aplicação apresenta uma mensagem de erro:</mark>
+
+<img src="https://manual.arquivar.com/~gitbook/image?url=https%3A%2F%2F2752216790-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fa8U8D6rT1WQEBeHaKsxV%252Fuploads%252F5aGQLdkWPmTqMvjvzq2O%252Fimage.png%3Falt%3Dmedia%26token%3Dbcf54aa6-eaf7-4b71-9278-be5207834c54&#x26;width=830&#x26;dpr=4&#x26;quality=100&#x26;sign=a47974dd&#x26;sv=2" alt="" data-size="line">
+
+<mark style="color:red;">Neste cenário, o mais indicado é que a consulta seja novamente realizada com a utilização de outros filtros que possam fracionar a consulta de modo que os arquivos não atinjam o limite total de 500MB.</mark>
+
+<mark style="color:red;">Caso a consulta fracionada não atenda a demanda, é possível solicitar um backup ao setor de Suporte - via chamado ArqAtende, que deverá realizar a análise da demanda e retornar o custo de execução para aprovação.</mark>
+{% endhint %}
+
 É nesta tela que o usuário conseguirá efetivamente realizar o download dos arquivos solicitados, além de verificar caso alguma solicitação tenha tido falha de execução.&#x20;
 
 <figure><img src="../.gitbook/assets/image (114).png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
