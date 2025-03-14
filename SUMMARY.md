@@ -71,3 +71,4 @@
     * [🟩 Histórico de alterações da API](integracoes/api/historico-de-alteracoes-da-api.md)
   * [🔌 SSO](integracoes/sso/README.md)
     * [🛠️ Implantação SSO](integracoes/sso/implantacao-sso.md)
+* [🔍 Auditoria](auditoria.md)
