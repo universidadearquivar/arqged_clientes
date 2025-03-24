@@ -53,6 +53,7 @@
     * [🔹 Aba Dados Gerais](workflow/desenho-do-fluxo/aba-dados-gerais.md)
     * [🔹 Aba Fluxograma](workflow/desenho-do-fluxo/aba-fluxograma.md)
   * [🟩 Substituição de Pessoas](workflow/substituicao-de-pessoas.md)
+* [Relatórios](relatorios.md)
 * [⚙️ Administração](administracao/README.md)
   * [🟩 Grupos](administracao/grupos.md)
   * [🟩 API](administracao/api.md)
