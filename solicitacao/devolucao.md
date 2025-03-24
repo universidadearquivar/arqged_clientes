@@ -1,5 +1,7 @@
 # 🟩 Devolução
 
+{% @supademo/embed demoId="cm8ekr5m22oh12ugqub7m3358" url="https://app.supademo.com/demo/cm8ekr5m22oh12ugqub7m3358" %}
+
 Depois de receber e concluir a consulta aos documentos físicos, caixas e ou subcaixas, o cliente deverá devolvê-los para a guarda, sendo a guarda realizada na unidade Arquivar ou no CEDOC do cliente, o processo no sistema precisa ser realizado para registro da movimentação.
 
 Para realizar a devolução, o cliente (solicitante) precisa abrir uma solicitação no menu Solicitação > Devolução.

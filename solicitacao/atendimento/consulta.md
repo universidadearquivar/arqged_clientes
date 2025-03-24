@@ -114,6 +114,8 @@ O ideal, quando o usuário não tiver certeza de como foi escrito o texto que bu
 
 ## Atendimento de um Pedido de Documento
 
+{% @supademo/embed demoId="cm8hgis7l05c77q3vpw7jf1s0" url="https://app.supademo.com/demo/cm8hgis7l05c77q3vpw7jf1s0" %}
+
 No Painel de Atendimento, selecione o pedido que será trabalhado e clique em editar.
 
 <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
@@ -332,6 +334,8 @@ Ao clicar novamente em “Processar”, o pedido é fechado no sistema e o docum
 ***
 
 ## Atendimento de um Pedido de Caixa ou Subcaixa
+
+{% @supademo/embed demoId="cm8hob2iy01c22pzhn3opn9c2" url="https://app.supademo.com/demo/cm8hob2iy01c22pzhn3opn9c2" %}
 
 No Painel de Atendimento, selecione o pedido que será trabalhado e clique em editar.
 
