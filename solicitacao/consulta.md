@@ -36,6 +36,8 @@ A área de trabalho é alterada conforme seleção das opções disponíveis de 
 
 ### Como cancelar uma reserva de documento&#x20;
 
+{% @supademo/embed demoId="cm8d6qr3a1jc32ugqnqf31qfe" url="https://app.supademo.com/demo/cm8d6qr3a1jc32ugqnqf31qfe" %}
+
 Após reservar todos os documentos desejados para verificação física, acesse o Menu Solicitação > Consulta.
 
 Abra o bloco "Minhas reservas de documentos" para visualizar os documentos reservados pelo usuário logado. Nesta tela são apresentados todos os documentos reservados, tanto os documentos em guarda na Unidade Arquivar, quanto os documentos em guarda Interna nas dependências do cliente.
@@ -59,6 +61,8 @@ Em caso da desistência de todas as reservas, clique no ícone carrinho do lado 
 ***
 
 ### Como criar um Pedido de Documento
+
+{% @supademo/embed demoId="cm8daep731os72ugq5flpnh7b" url="https://app.supademo.com/demo/cm8daep731os72ugq5flpnh7b" %}
 
 Em "Minhas Reservas de Documentos", para cada documento reservado é apresentada uma linha com as principais informações do registro.
 
@@ -162,6 +166,8 @@ Ao clicar em "Enviar", os pedidos são realizados e enviados para atendimento, s
 
 ### Como cancelar uma reserva de caixa ou subcaixa
 
+{% @supademo/embed demoId="cm8denhp61t5z2ugqiugtq8ku" url="https://app.supademo.com/demo/cm8denhp61t5z2ugqiugtq8ku" %}
+
 Após reservar todas as caixas e subcaixas desejadas utilizando:
 
 * Menu > Documentos (pesquisa Simples, Avançada ou Explorar) ou
@@ -196,6 +202,8 @@ Em caso da desistência de todas as reservas, clique no ícone carrinho do lado 
 ***
 
 ### Como criar um Pedido de Caixa ou Subcaixa
+
+{% @supademo/embed demoId="cm8dgsk1z1ukt2ugqxoowdcgq" url="https://app.supademo.com/demo/cm8dgsk1z1ukt2ugqxoowdcgq" %}
 
 Em "Minhas Reservas de subcaixas” e “Minhas Reservas de Caixas”, para cada item reservado são apresentadas as informações:
 
