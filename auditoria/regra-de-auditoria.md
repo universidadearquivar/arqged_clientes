@@ -62,6 +62,8 @@ Ao clicar em adicionar, o sistema apresenta na tela a aba “Dados Gerais” par
 
 ### Aba Dados Gerais
 
+{% @supademo/embed demoId="cm8n353yl00hhks2myc07025j" url="https://app.supademo.com/demo/cm8n353yl00hhks2myc07025j" %}
+
 <figure><img src="../.gitbook/assets/image (249).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Nome da Regra:** Procure adicionar um nome que indique o que se deseja com a  regra, ou seja, que seja simples de identificar na lista de regras existentes.&#x20;
@@ -206,6 +208,8 @@ Após salvar as configurações, são habilitadas duas nova abas na tela “Regr
 ***
 
 ### Aba Regra
+
+{% @supademo/embed demoId="cm8ncm4fe01ihqohdikc2p7li" url="https://app.supademo.com/demo/cm8ncm4fe01ihqohdikc2p7li" %}
 
 Na Aba Regra é feita de fato a definição da regra de auditoria.
 
