@@ -104,6 +104,28 @@ Clicando no ícone “Visualização” é possível alterar a forma como o grid
 
 <figure><img src="../../.gitbook/assets/image (98).png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
+{% hint style="danger" %}
+<mark style="color:red;">Pode acontecer em alguns casos, ao abrir o ArqScan para continuidade de um processo aparecer a seguinte mensagem de erro:</mark>&#x20;
+
+<img src="../../.gitbook/assets/image (291).png" alt="" data-size="line">
+
+<mark style="color:red;">Esse erro pode ser ocasionado por vários fatores, dentre eles podemos destacar:</mark>&#x20;
+
+<mark style="color:red;">• Falha na conexão com a internet o que pode corromper a transmissão dos dados para o sistema;</mark>
+
+<mark style="color:red;">• Falha no HD da maquina física que pode corromper a gravação dos dados;</mark>
+
+<mark style="color:red;">• Estouro na memoria RAM que pode não suportar a transmissão dos dados.</mark>
+
+<mark style="color:red;">Para sanar o problema, é necessário acessar as pastas onde ficam os arquivos temporários e apagar as imagens, desta forma o ArqScan voltará a funcionar corretamente.</mark>
+
+<mark style="color:red;">Pastas que devem ser verificadas:</mark>
+
+<mark style="color:red;">**C:\temp\ScannerPath**</mark>
+
+<mark style="color:red;">**C:\temp\ScannerPath\Thumbnails**</mark>
+{% endhint %}
+
 ***
 
 ## Realizando a indexação de documentos&#x20;
