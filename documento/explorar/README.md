@@ -135,6 +135,10 @@ Permite realizar o compartilhamento dos registros selecionados com pessoas exter
 
 Utilizado para descompartilhar os links de acesso externo gerados por meio do botão “Compartilhar” e enviados por e-mail a usuários externos. Neste caso as pessoas que clicarem no link não conseguirão mais acessar os documentos compartilhados.  &#x20;
 
+{% hint style="danger" %}
+<mark style="color:red;">Quando houver a necessidade de compartilhar novamente um documento já compartilhado com outros usuários externos, ao clicar no ícone "Descompartilhar" o link é novamente habilitado para que seja possível encaminhar ao novo destinatário sem que seja necessário realizar o encerramento do compartilhamento já realizado, para isso, basta copiar o mesmo link ou enviar por e-mail aos novos usuários. Caso o "Descompartilhamento" seja concluído, os usuários externos que utilizavam o link, pederão o acesso ao documento.</mark>
+{% endhint %}
+
 ### Carregar mais 1000 registros ![](<../../.gitbook/assets/image (15).png>)
 
 Por padrão, a tela Explorar exibe no máximo 1000 registros ao se realizar uma busca. Para exibir mais que essa quantidade de registros, deve-se clicar neste ícone. &#x20;
