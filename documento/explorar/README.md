@@ -143,13 +143,13 @@ Para que os compartilhamentos anteriores não sejam perdidos, o ideal é ao clic
 
 <figure><img src="../../.gitbook/assets/image (292).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-O link <mark style="color:red;">é novamente habilitado  na tela, juntamente com o campo de envio por e-mail:</mark>
+O link é novamente habilitado  na tela, juntamente com o campo de envio por e-mail:
 
 <figure><img src="../../.gitbook/assets/image (293).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-<mark style="color:red;">Neste momento basta copiar o mesmo link ou enviar por e-mail aos novos usuários, sem efetivar o "Descopartilhamento" ou seja, o cancelamento do compartilhamento anterior, sendo mantido os acessos dos usuários anteriores.</mark>&#x20;
+Neste momento basta copiar o mesmo link ou enviar por e-mail aos novos usuários, sem efetivar o "Descopartilhamento" ou seja, o cancelamento do compartilhamento anterior, sendo mantido os acessos dos usuários anteriores.&#x20;
 
-<mark style="color:red;">Caso opte pelo "Descompartilhamento"  clicando no botão disponível, os usuários externos que até então, utilizavam o link, perderão o acesso ao documento.</mark>
+Caso opte pelo "Descompartilhamento"  clicando no botão disponível, os usuários externos que até então, utilizavam o link, perderão o acesso ao documento.
 
 ### Carregar mais 1000 registros ![](<../../.gitbook/assets/image (15).png>)
 
