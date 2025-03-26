@@ -2,13 +2,13 @@
 
 É possível pesquisar informações sobre as caixas alocadas. &#x20;
 
-Para realizar uma Pesquisa Simplificada, informe o “Cliente”, a “Unidade” e o código da caixa ou pasta e clique em “Pesquisar”.&#x20;
+Para realizar uma Pesquisa Simplificada, informe o “Cliente” e o código da caixa ou pasta e clique em “Pesquisar”.&#x20;
 
 <figure><img src="../.gitbook/assets/caixa4.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
 Pode ser feita também a pesquisa por código provisório.
 
-Para realizar uma Pesquisa Avançada, informe o “Cliente”, a “Unidade” e utilize os demais filtros para refinar os resultados da busca.&#x20;
+Para realizar uma Pesquisa Avançada, informe o “Cliente” e utilize os demais filtros para refinar os resultados da busca.&#x20;
 
 <figure><img src="../.gitbook/assets/caixa5.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
@@ -34,4 +34,6 @@ Ao selecionar um dos registros são habilitadas as seguintes funcionalidades:&#x
 
 **Exportar:** Exporta os resultados da pesquisa realizada. É possível exportas apenas as informações de caixas, apenas o resultado de subcaixas ou os resultados de ambas.&#x20;
 
-<figure><img src="../.gitbook/assets/caixa16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/caixa16.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+## Como enviar uma SubCaixa para Container
