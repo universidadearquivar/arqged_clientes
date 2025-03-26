@@ -36,7 +36,7 @@ Ao selecionar um dos registros são habilitadas as seguintes funcionalidades:&#x
 
 <figure><img src="../.gitbook/assets/caixa16.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-## Como enviar uma SubCaixa para Container
+## Como enviar uma Subcaixa para Container
 
 Localize a subcaixa na pesquisa do menu Caixa ou Pasta:
 
