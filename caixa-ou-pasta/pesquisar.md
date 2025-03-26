@@ -33,3 +33,5 @@ Ao selecionar um dos registros são habilitadas as seguintes funcionalidades:&#x
 **Reservar caixa:** Utilizado para reservar a caixa selecionada.&#x20;
 
 **Exportar:** Exporta os resultados da pesquisa realizada. É possível exportas apenas as informações de caixas, apenas o resultado de subcaixas ou os resultados de ambas.&#x20;
+
+<figure><img src="../.gitbook/assets/image (299).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
