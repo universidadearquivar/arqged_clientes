@@ -35,3 +35,24 @@ Ao selecionar um dos registros são habilitadas as seguintes funcionalidades:&#x
 **Exportar:** Exporta os resultados da pesquisa realizada. É possível exportas apenas as informações de caixas, apenas o resultado de subcaixas ou os resultados de ambas.&#x20;
 
 <figure><img src="../.gitbook/assets/image (299).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+## Como enviar uma Subcaixa para Container
+
+Localize a subcaixa na pesquisa do menu Caixa ou Pasta:
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Selecione a caixa e clique para editar:
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+Clique no botão "Enviar Caixa para":
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique para ampliar.</p></figcaption></figure>
+
+Selecione se a caixa deve ser enviada para Guarda Terceirizada, ou seja, para guarda em uma Unidade da Arquivar ou se ela deve ser enviada para Guarda Interna, na sede do cliente.
+
+Depois informe o número da caixa pai, container e clique em "Enviar" para concluir.
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+

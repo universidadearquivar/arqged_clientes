@@ -44,23 +44,23 @@ Na visualização por arquivos são exibidos apenas registros que possuem arquiv
 
 <figure><img src="../../.gitbook/assets/image (74).png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
-### Adicionar Registro ![](<../../.gitbook/assets/image (1) (1).png>)
+### Adicionar Registro ![](<../../.gitbook/assets/image (1) (1) (1).png>)
 
 Ao selecionar o tipo documento desejado será possível adicionar um novo documento a ele, clicando no ícone “Adicionar”. Será aberta a tela [Documento > Cadastrar](../cadastrar.md) para o cadastro do novo registro.&#x20;
 
-### Editar ![](<../../.gitbook/assets/image (1) (1) (1).png>)
+### Editar ![](<../../.gitbook/assets/image (1) (1) (1) (1).png>)
 
 Utilizado para editar informações do registro que estiver selecionado. Será aberta a mesma tela mostrada em [Documento > Cadastrar](../cadastrar.md).&#x20;
 
-### Visualizar ![](<../../.gitbook/assets/image (2) (1).png>)
+### Visualizar ![](<../../.gitbook/assets/image (2) (1) (1).png>)
 
 Utilizado para visualizar as informações do registro que estiver selecionado. Será aberta a mesma tela mostrada em [Documento > Cadastrar](../cadastrar.md).&#x20;
 
-### Excluir ![](<../../.gitbook/assets/image (3) (1).png>)
+### Excluir ![](<../../.gitbook/assets/image (3) (1) (1).png>)
 
 Utilizado para excluir o registro que estiver selecionado.&#x20;
 
-### Download do documento ![](<../../.gitbook/assets/image (4) (1).png>)
+### Download do documento ![](<../../.gitbook/assets/image (4) (1) (1).png>)
 
 Utilizado para realizar o download dos arquivos associados ao registro selecionado. Se não houver arquivos anexados ao registro, não é possível realizar o download.&#x20;
 

@@ -92,7 +92,7 @@ Em "Minhas Reservas de Documentos", para cada documento reservado é apresentada
 
 **Anotações:** Ícone apresentado para cada um dos registros reservados no canto direito da tela.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Utilize o campo para adicionar informações relevantes para a correta busca do documento no arquivo.
 
@@ -187,11 +187,11 @@ Abra o bloco "Minhas reservas de **subcaixas**" para visualizar as subcaixas res
 
 Neste momento, caso identifique alguma reserva desnecessária ou desista de solicitar alguma das caixas ou subcaixas listadas, clique no ícone do carrinho para cancelar a reserva.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Confirme a ação na mensagem apresentada para seguir com o cancelamento da reserva e a retirada do registro da lista de documentos disponíveis para abrir pedido.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Em caso da desistência de todas as reservas, clique no ícone carrinho do lado direito da tela para "**Cancelar todas as reservas de caixas ou subcaixas**".
 
@@ -207,7 +207,7 @@ Em caso da desistência de todas as reservas, clique no ícone carrinho do lado 
 
 Em "Minhas Reservas de subcaixas” e “Minhas Reservas de Caixas”, para cada item reservado são apresentadas as informações:
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Caixa:** Informa o número da caixa física seja ela caixa de guarda terceirizada ou guarda de arquivo interno.
 
@@ -217,7 +217,7 @@ Em "Minhas Reservas de subcaixas” e “Minhas Reservas de Caixas”, para cada
 
 **Marcado por:** Informa o usuário responsável por realizar o pedido após a reserva.
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Após validar todas as reservas, mantenha a seleção dos volumes que deseja solicitar e clique "**Avançar**" para seguir com a criação do Pedido de Caixa e Subcaixa.
 
