@@ -56,3 +56,6 @@ Depois informe o número da caixa pai, container e clique em "Enviar" para concl
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
+{% hint style="danger" %}
+<mark style="color:red;">Caso selecione para "Enviar Caixa para Guarda Terceirizada" e o código informado seja de Guarda interna será apresentada uma mensagem de erro. Verifique a seleção e envie novamente.</mark>
+{% endhint %}
