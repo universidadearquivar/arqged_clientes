@@ -1,6 +1,6 @@
 # 🛒 Solicitação
 
-{% embed url="https://app.heygen.com/share/0a1cf4937a7e4417a2cd447e5b19a067" %}
+
 
 No menu Solicitação é realizada a gestão das reservas de documentos, caixas e/ou subcaixas.&#x20;
 

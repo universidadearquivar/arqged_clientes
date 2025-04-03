@@ -1,5 +1,7 @@
 # 🟩 Atendimento
 
+{% embed url="https://app.heygen.com/share/ee8847546f3447d38504149ed6475d19" %}
+
 No menu Atendimento são exibidas todas as solicitações feitas pelo cliente no menu Solicitação, aqui é realizado o gerenciamento do Painel de Atendimento das solicitações de **consultas** e **devoluções** de documentos, caixas e subcaixas.
 
 O menu Atendimento é composto pelos seguintes submenus:
