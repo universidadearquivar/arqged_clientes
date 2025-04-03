@@ -1,5 +1,7 @@
 # 🛒 Solicitação
 
+{% embed url="https://app.heygen.com/share/0a1cf4937a7e4417a2cd447e5b19a067" %}
+
 No menu Solicitação é realizada a gestão das reservas de documentos, caixas e/ou subcaixas.&#x20;
 
 Nele são exibidas todas as solicitações de consulta e devolução referentes a serviços de guarda de documentos, podendo ser de Guarda Terceirizada, quando o documento é alocado em uma Unidade Arquivar ou de Guarda Interna (CEDOC), quando o próprio cliente possui um local destinado à guarda e gestão de seus documentos.
