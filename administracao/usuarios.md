@@ -136,7 +136,7 @@ Será apresentada na tela uma mensagem de previsão de conclusão da cópia das 
 <mark style="color:blue;">A função de</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**"Copiar as Permissões para outro usuário do cliente"**</mark><mark style="color:blue;">, funciona apenas para clientes que</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Não**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">são do tipo Master.</mark>
 {% endhint %}
 
-Para remover uma permissão concedida, clique com o botão direito do mouse sobre a permissão e selecione a opção **"Remover"**.
+Para **remover uma permissão concedida**, clique com o botão direito do mouse sobre a permissão e selecione a opção **"Remover"**.
 
 <figure><img src="../.gitbook/assets/image (355).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
