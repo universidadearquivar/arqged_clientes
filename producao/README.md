@@ -13,7 +13,14 @@ A indexação é o processo de cadastrar os metadados de identificação de um d
 
 <mark style="color:blue;">**3º -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Por meio do menu Produção um colaborador da Unidade terá acesso aos documentos criados e suas respectivas imagens para indexação.</mark>
 
-<mark style="color:blue;">**4º -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">No processo de indexação é feito o cadastro dos dados de cada um dos documentos a partir das informações da imagem, ou seja, o operador abre um documento, visualiza sua imagem e preenche os metadados conforme os campos configurados para a árvore documental, como por exemplo nome, matrícula, CPF ou CNPJ, entre outros.</mark>&#x20;
+<mark style="color:blue;">**4º -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">No processo de indexação é feito o cadastro dos dados de cada um dos documentos a partir das informações da imagem, ou seja, o operador abre um documento, visualiza sua imagem e preenche os metadados conforme os campos configurados para a árvore documental, como por exemplo nome, matrícula, CPF ou CNPJ, entre outros.</mark> [ue aqui e comece agora!](https://go.hotmart.com/D97914887Y)
+{% endhint %}
+
+{% hint style="success" %}
+<mark style="color:blue;">J</mark><mark style="color:green;">á tem a solução implantada? Então vá além.</mark>\
+<mark style="color:green;">Seja referência em</mark> <mark style="color:green;"></mark><mark style="color:green;">**Gestão Documental**</mark> <mark style="color:green;"></mark><mark style="color:green;">com o curso da Arquivar Academy e mostre que você entende o que está por trás da eficiência.</mark>
+
+[Clique aqui e comece agora!](https://go.hotmart.com/D97914887Y)[https://go.hotmart.com/D97914887Y](https://go.hotmart.com/D97914887Y)[Clique aqui e comece agora!](https://go.hotmart.com/D97914887Y)[Clique aqui e comece agora!](https://go.hotmart.com/D97914887Y)
 {% endhint %}
 
 ***
