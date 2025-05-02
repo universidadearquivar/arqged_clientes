@@ -18,9 +18,7 @@ A indexação é o processo de cadastrar os metadados de identificação de um d
 
 {% hint style="success" %}
 <mark style="color:blue;">J</mark><mark style="color:green;">á tem a solução implantada? Então vá além.</mark>\
-<mark style="color:green;">Seja referência em</mark> <mark style="color:green;"></mark><mark style="color:green;">**Gestão Documental**</mark> <mark style="color:green;"></mark><mark style="color:green;">com o curso da Arquivar Academy e mostre que você entende o que está por trás da eficiência.</mark>
-
-[Clique aqui e comece agora!](https://go.hotmart.com/D97914887Y)[https://go.hotmart.com/D97914887Y](https://go.hotmart.com/D97914887Y)[Clique aqui e comece agora!](https://go.hotmart.com/D97914887Y)[Clique aqui e comece agora!](https://go.hotmart.com/D97914887Y)
+<mark style="color:green;">Seja referência em</mark> <mark style="color:green;"></mark><mark style="color:green;">**Gestão Documental**</mark> <mark style="color:green;"></mark><mark style="color:green;">com o curso da Arquivar Academy e mostre que você entende o que está por trás da eficiência.</mark>[<mark style="color:green;">**Clique aqui e comece agora!**</mark>](https://go.hotmart.com/D97914887Y)
 {% endhint %}
 
 ***
