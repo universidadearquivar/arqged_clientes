@@ -30,3 +30,8 @@ Ao clicar em um grupo de relatórios, são exibidos todos os relatórios constru
 {% hint style="success" %}
 <mark style="color:green;">Em alguns relatórios é possível informar filtros para refinar o resultado que será exibido na consolidação dos dados.</mark>
 {% endhint %}
+
+{% hint style="success" %}
+<mark style="color:green;">Ter o serviço é essencial. Mas entender os processos e saber otimizá-los é o que te posiciona como líder.</mark>\ <mark style="color:green;">Seja especialista em</mark> <mark style="color:green;"></mark><mark style="color:green;">**Gestão de Processos**</mark> <mark style="color:green;"></mark><mark style="color:green;">com o curso da Arquivar Academy.</mark>\
+[Clique aqui, matricule-se e assuma o controle!](https://hotmart.com/pt-br/marketplace/produtos/hagsxd-gestao-de-processos-w0u4h/E96048277Q?sck=HOTMART_MEM_CA\&off=yjg8nb9g)
+{% endhint %}
