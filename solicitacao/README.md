@@ -12,5 +12,7 @@ O menu Solicitação é composto pelos seguintes submenus: &#x20;
 
 {% hint style="success" %}
 <mark style="color:green;">Já tem a solução implantada? Então vá além.</mark>\
-<mark style="color:green;">Seja referência em</mark> <mark style="color:green;"></mark><mark style="color:green;">**Gestão Documental**</mark> <mark style="color:green;"></mark><mark style="color:green;">com o curso da Arquivar Academy e mostre que você entende o que está por trás da eficiência.</mark>[Clique aqui e comece ag](https://go.hotmart.com/D97914887Y)
+<mark style="color:green;">Seja referência em</mark> <mark style="color:green;"></mark><mark style="color:green;">**Gestão Documental**</mark> <mark style="color:green;"></mark><mark style="color:green;">com o curso da Arquivar Academy e mostre que você entende o que está por trás da eficiência.</mark>
+
+[**Clique aqui e comece agora**](https://go.hotmart.com/D97914887Y)**!**
 {% endhint %}
