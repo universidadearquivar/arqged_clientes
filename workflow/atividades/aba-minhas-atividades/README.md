@@ -154,39 +154,9 @@ Ao clicar neste ícone é aberta a tela para realizar o upload do documento/imag
 
 1. **Aba Anexos:** São os documentos/imagens tramitados durante a execução do fluxo no sistema e existentes no registro. Além de exibir as informações sobre os anexos associados ao fluxo, é possível verificar se o documento foi ou não compartilhado com usuários externos (se não tiver sido o ícone de cadeado será exibido). Na tela estão disponíveis os ícones:
 
--> _Editar:_ Utilizado para editar o nome do anexo e numerar a versão do anexo. &#x20;
+<table><thead><tr><th width="153">Ícone</th><th width="269">Ação</th><th width="109">Tipo</th><th>Detalhes</th></tr></thead><tbody><tr><td>Editar</td><td>Utilizado para editar o nome do anexo e numerar a sua versão.</td><td>Unitária</td><td>Disponível apenas quando um único arquivo estiver selecionado.</td></tr><tr><td>Excluir</td><td>Exclui um ou mais arquivos.</td><td>Em lote</td><td>Pode ser usada com um ou vários arquivos.</td></tr><tr><td>Assinar</td><td>Utilizado para assinar os documentos do fluxo.</td><td>Em lote</td><td>Pode ser usada com um ou vários arquivos.</td></tr><tr><td>Compartilhar</td><td>Compartilha o arquivo do tipo “Documento”.</td><td>Em lote</td><td>Ação disponível somente a arquivos de Documento não compartilhados.</td></tr><tr><td>Descompartilhar</td><td>Cancela o compartilhamento de um arquivo “Documento".</td><td>Em lote</td><td>Ação disponível somente a arquivos de Documento já compartilhados.</td></tr><tr><td>Upload</td><td>Faz upload de arquivos diretamente para o fluxo.</td><td>N/A</td><td>Todos os arquivos enviados por aqui serão identificados como “Anexo”.</td></tr><tr><td>Download</td><td>Permite baixar arquivos selecionados.</td><td>Em lote</td><td><p>Quando selecionado somente um arquivo = a aplicação o abre em uma nova aba do navegador.</p><p>Quando selecionado vários arquivos = a aplicação agenda um download em massa, para que seja gerado um ZIP com todos os arquivos.</p></td></tr><tr><td>Capturar Certificado</td><td>Quando se faz o upload de um documento que esteja assinado digitalmente, será possível extrair e visualizar as informações sobre o certificado digital utilizado para a assinatura. Quando o documento for assinado no próprio GED o certificado de assinaturas ficará disponível automaticamente.</td><td>Em lote</td><td><p></p><p>Apenas para arquivos do tipo Anexo e Documento.</p></td></tr></tbody></table>
 
--> _Excluir:_ Utilizado para excluir o anexo.&#x20;
-
--> _Upload de arquivos:_ Utilizado para inserir um novo anexo ao fluxo. &#x20;
-
--> _Download:_ Utilizado para baixar o documento selecionado.&#x20;
-
--> _Assinar:_ Utilizado para assinar os documentos do fluxo. O usuário pode escolher entre assinar todos os documentos apresentados ou assinar apenas os que estiverem selecionados em verde no grid.
-
--> _Capturar Certificado:_ Quando se faz o upload de um documento que esteja assinado digitalmente, clicando neste ícone será possível extrair e visualizar as informações sobre o certificado digital utilizado para a assinatura. Quando o documento for assinado no próprio GED o certificado de assinaturas ficará disponível automaticamente.
-
-<figure><img src="../../../.gitbook/assets/minhas_ativ13.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
-2. **Aba Anexos dos Documentos:** São os documentos/imagens existentes no registro. São os mesmos documentos exibidos na tela “Documentos”. Além de exibir as informações sobre os documentos associados ao fluxo, é possível verificar se o documento foi ou não compartilhado com usuários externos (se não tiver sido o ícone de cadeado será exibido). Na tela estão disponíveis os ícones:
-
--> _Editar:_ Utilizado para editar o nome do documento e numerar a sua versão. &#x20;
-
--> _Excluir:_ Utilizado para excluir o documento que estiver selecionado.&#x20;
-
--> _Assinatura em lote:_ Utilizado para assinar os documentos . O usuário pode escolher entre assinar todos os documentos apresentados ou assinar apenas os que estiverem selecionados em verde no grid.
-
--> _Compartilhar:_ Utilizado para permitir que o documento seja compartilhado com usuários externos (não autenticados no sistema).   &#x20;
-
--> _Descompartilhar:_ Utilizado para interromper o compartilhamento de um documento. &#x20;
-
--> _Download:_ Utilizado para baixar o documento selecionado.&#x20;
-
--> _Capturar Certificado:_ Quando se faz o upload de um documento que esteja assinado digitalmente, clicando neste ícone será possível extrair e visualizar as informações sobre o certificado digital utilizado para a assinatura. Quando o documento for assinado no próprio GED o certificado de assinaturas ficará disponível automaticamente.&#x20;
-
-<figure><img src="../../../.gitbook/assets/minhas_ativ19.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
-3. **Aba Download em Massa do fluxo:** Opção para baixar todos os documentos do fluxo em uma única ação. são exibidos todos os downloads em massa solicitados durante o fluxo. É mostrada a data de solicitação, o nome do solicitante, o agrupamento realizado, o status e os detalhes. Se o arquivo estiver disponível para download, será exibida uma seta no ícone da coluna Download. Se houver tido algum erro no processamento do arquivo, a seta será exibida no ícone da coluna Log.
+2. **Aba Download em Massa do fluxo:** Opção para baixar todos os documentos do fluxo em uma única ação. são exibidos todos os downloads em massa solicitados durante o fluxo. É mostrada a data de solicitação, o nome do solicitante, o agrupamento realizado, o status e os detalhes. Se o arquivo estiver disponível para download, será exibida uma seta no ícone da coluna Download. Se houver tido algum erro no processamento do arquivo, a seta será exibida no ícone da coluna Log.
 
 <figure><img src="../../../.gitbook/assets/minhas_ativ20.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -202,13 +172,72 @@ Este ícone apresenta o modelo de documento PDF editável cadastrado no fluxo no
 
 <figure><img src="../../../.gitbook/assets/minhas_ativ22.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-### 8. Obrigatoriedades da tarefa
+### 8. Processo ArqSign
 
-Este ícone funciona como um lembrete ao usuário e vai variar conforme a tarefa em execução. Sua função é informar quais são as ações necessárias para conclusão da etapa. Para isso, basta posicionar o cursor do mouse sobre o ícone e a lista de obrigatoriedades é apresentada. O ícone "Obrigatoriedade da Tarefa" sempre lista quais outros ícones serão usados na execução da tarefa.
+Este ícone exibe o **status do Processo ArqSign** associado à tarefa.
 
-Para entender como executar cada uma das obrigatoriedades possíveis, [veja como executar um fluxo.   ](executando-um-fluxo.md)
+Sua função é apresentar o andamento do fluxo de assinaturas e permitir que o usuário execute ações relacionadas ao processo, como visualizar documentos, reenviar ou cancelar a solicitação de assinatura.
 
-<figure><img src="../../../.gitbook/assets/minhas_ativ23.png" alt=""><figcaption></figcaption></figure>
+Ao clicar no ícone, será exibida uma nova janela com os seguintes elementos:
+
+#### **Identificação do processo**
+
+* Exibe o **grupo de informações sobre o fluxo de trabalho e sobre a tarefa**, repetindo os dados já apresentados na tela **Minhas Atividades**;
+
+<figure><img src="../../../.gitbook/assets/image (358).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+#### **Detalhamento do Processo de Assinaturas**
+
+Na parte inferior da tela será exibido o detalhamento do(s) fluxo(s) de assinatura vinculados ao processo. Cada fluxo será apresentado com seu respectivo nome, status atual e informações associadas. Caso existam múltiplos fluxos dentro do mesmo processo, todos serão listados nesta área, organizados individualmente.
+
+O status do processo pode se apresentar em três formatos distintos:
+
+#### **1. Assinado**
+
+* O status será exibido em **verde**.
+* Um **link de visualização** será disponibilizado; ao clicar, o usuário poderá visualizar os documentos do processo. Selecionando o documento desejado, será redirecionado à plataforma **ArqSign**, onde poderá visualizá-lo em detalhe.
+* Serão exibidas as **datas de envio** e de **conclusão** do processo.
+* Abaixo, constará uma **lista de signatários**, com os seguintes dados:
+  * Papel de cada signatário no processo;
+  * Nome completo;
+  * Endereço de e-mail.
+
+<figure><img src="../../../.gitbook/assets/image (359).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+#### **2. Aguardando**
+
+* O status será exibido em **laranja**.
+* Será exibida a **data de envio** do processo.
+* A lista de signatários será apresentada com as seguintes marcações:
+  * Em **verde**, os usuários que já realizaram a assinatura;
+  * Em **laranja**, os que ainda **não assinaram**.
+* Serão exibidos dois botões de ação:
+  1. **Editar e Reenviar Processo ArqSign** Permite editar os dados de cada signatário (nome, contato e configurações de recebimento de código de segurança, se aplicável) e reenviar o processo.
+  2. **Cancelar Processo ArqSign** Ao clicar neste botão, uma **janela de confirmação** será exibida antes da efetivação do cancelamento.
+
+<figure><img src="../../../.gitbook/assets/image (360).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+#### **3. Cancelado**
+
+* O status será exibido em **vermelho**.
+* Serão apresentadas a **data de envio** e a **data de cancelamento** do processo.
+* A lista de signatários será apresentada com os seguintes destaques:
+  * Em **verde**, os que assinaram;
+  * Em **laranja**, os que não assinaram;
+  * Em **vermelho**, os que **recusaram a assinatura**.
+* Para os signatários que se recusaram a assinar, será exibido um ícone informativo (ícone vermelho com a letra “i”) contendo o **motivo da recusa**.
+* Importante: **caso qualquer signatário se recuse a assinar**, todo o processo será automaticamente **cancelado**, independentemente do número de participantes.
+
+<figure><img src="../../../.gitbook/assets/image (361).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 
 
+### 9. Obrigatoriedades da tarefa
+
+Este ícone funciona como um lembrete ao usuário e vai variar conforme a tarefa em execução. Sua função é informar quais são as ações necessárias para conclusão da etapa. Para isso, basta posicionar o cursor do mouse sobre o ícone e a lista de obrigatoriedades é apresentada. O ícone "Obrigatoriedade da Tarefa" sempre lista quais outros ícones serão usados na execução da tarefa e a lista irá variar de acordo com cada tarefa.
+
+Com objetivo de facilitar a visualização das obrigatoriedades, as já cumpridas serão precedidas por um ícone verde de check (✅)e as que ainda estão por cumprir, por ícone vermelho com um x (❌).
+
+Para entender como executar cada uma das obrigatoriedades possíveis, [veja como executar um fluxo.](https://manual.arquivar.com/manual-arqged-or-interno/workflow/atividades/aba-minhas-atividades/executando-um-fluxo)
+
+<div><figure><img src="../../../.gitbook/assets/image (356).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (357).png" alt=""><figcaption></figcaption></figure></div>
