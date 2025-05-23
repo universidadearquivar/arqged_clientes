@@ -40,21 +40,21 @@ Ao selecionar um dos registros são habilitadas as seguintes funcionalidades:&#x
 
 Localize a subcaixa na pesquisa do menu Caixa ou Pasta:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Selecione a caixa e clique para editar:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Clique no botão "Enviar Caixa para":
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Clique para ampliar.</p></figcaption></figure>
 
 Selecione se a caixa deve ser enviada para Guarda Terceirizada, ou seja, para guarda em uma Unidade da Arquivar ou se ela deve ser enviada para Guarda Interna, na sede do cliente.
 
 Depois informe o número da caixa pai, container e clique em "Enviar" para concluir.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 {% hint style="danger" %}
 <mark style="color:red;">Caso selecione para "Enviar Caixa para Guarda Terceirizada" e o código informado seja de Guarda interna será apresentada uma mensagem de erro. Verifique a seleção e envie novamente.</mark>

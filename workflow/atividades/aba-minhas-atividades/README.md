@@ -8,21 +8,23 @@ A aba Minhas Atividades agrupa todas as atividades pendentes para o usuário log
 
 ## Minhas Atividades – Visão Geral
 
-**1. Botão Ativos/Agendados:** A alternância desse botão permite exibir as tarefas ativas (que já iniciaram) ou agendadas (com data futura para início) que são de responsabilidade de execução do usuário.&#x20;
+**1. Botão Ativos/Agendados:** A alternância desse botão permite exibir as tarefas ativas (que já iniciaram) ou agendadas (com data futura para início) que são de responsabilidade de execução do usuário.
 
-**2. Barra de Filtro:** É possível realizar a busca de tarefas utilizando a barra de filtro, que faz a busca de tarefas do usuário utilizando palavras-chave.   &#x20;
+**2. Barra de Filtro:** É possível realizar a busca de tarefas utilizando a barra de filtro, que faz a busca de tarefas do usuário utilizando palavras-chave.
 
-**3. Botão Ativar Novo Fluxo:** Botão para a ativação de novos fluxos.&#x20;
+**3. Botão Ativar Novo Fluxo:** Botão para a ativação de novos fluxos.
 
-**4. Grupo de informações sobre o fluxo de trabalho e sobre a tarefa:** Aqui são exibidas as seguintes informações: se a tarefa é em grupo ou individual; nome e número do fluxo; data da ativação e nome de quem ativou o fluxo; nome, status e descrição da tarefa; responsável pela tarefa e prazo para a sua execução e status da etapa. É mostrado também quem foi o executor da tarefa anterior e qual foi a ação que ele executou.&#x20;
+**4. Legendas:** Aqui são exibidas as legendas de cores que indicam de forma visual e clara o estado da Ação. Ela marca ações com uma linha vermelha em caso de <mark style="color:red;">"Ação obrigatória Pendente"</mark>, verde em caso de <mark style="color:green;">"Ação concluída"</mark> e azul em caso de <mark style="color:blue;">"Ação opcional"</mark>.
 
-**5. Observação:** Mostra a informação adicionada no momento da ativação do fluxo no campo “Observação”.&#x20;
+**5. Grupo de informações sobre o fluxo de trabalho e sobre a tarefa:** Aqui são exibidas as seguintes informações: se a tarefa é em grupo ou individual; nome e número do fluxo; data da ativação e nome de quem ativou o fluxo; nome, status e descrição da tarefa; responsável pela tarefa e prazo para a sua execução e status da etapa. É mostrado também quem foi o executor da tarefa anterior e qual foi a ação que ele executou.
 
-**6. Formulário:** Mostra os dados do formulário associado ao fluxo. Os campos exibidos aqui devem ter sido previamente indicados na configuração da tarefa, no menu no menu Workflow > Desenho do Fluxo > Fluxograma. &#x20;
+**6. Observação:** Mostra a informação adicionada no momento da ativação do fluxo no campo “Observação”.
 
-**7. Último Comentário:** Mostra o último comentário feito na tarefa.&#x20;
+**7. Formulário:** Mostra os dados do formulário associado ao fluxo. Os campos exibidos aqui devem ter sido previamente indicados na configuração da tarefa, no menu no menu Workflow > Desenho do Fluxo > Fluxograma.
 
-**8. Próximo Passo:** Nesta área estão concentrados os botões que definem o próximo passo da tarefa. Para cada tarefa de decisão, serão apresentados botões com opções para diferentes caminhos, como por exemplo: Com Validação / Sem Validação, Com Aprovação Técnica / Sem Aprovação Técnica, Validar / Recusar etc. Esses botões servem para direcionar qual caminho deve ser percorrido para atingir o objetivo do fluxo de trabalho. O texto exibido nos botões é inserido nas configurações do conector das tarefas, no menu [Workflow > Desenho do Fluxo > Fluxograma](../../desenho-do-fluxo/aba-fluxograma.md). &#x20;
+**8. Último Comentário:** Mostra o último comentário feito na tarefa.
+
+**9. Próximo Passo:** Nesta área estão concentrados os botões que definem o próximo passo da tarefa. Para cada tarefa de decisão, serão apresentados botões com opções para diferentes caminhos, como por exemplo: Com Validação / Sem Validação, Com Aprovação Técnica / Sem Aprovação Técnica, Validar / Recusar etc. Esses botões servem para direcionar qual caminho deve ser percorrido para atingir o objetivo do fluxo de trabalho. O texto exibido nos botões é inserido nas configurações do conector das tarefas, no menu [Workflow > Desenho do Fluxo > Fluxograma](https://manual.arquivar.com/manual-arqged-or-interno/workflow/desenho-do-fluxo/aba-fluxograma).
 
 Os botões “Cancelar” e “Voltar Etapa” só serão exibidos se o usuário tiver permissão para executar essas ações no fluxo. Essa permissão é definida no cadastro de usuário, no menu Administração > Usuários.
 
@@ -30,16 +32,20 @@ Os botões “Cancelar” e “Voltar Etapa” só serão exibidos se o usuário
 <mark style="color:red;">**Ao clicar em “Cancelar” todo o fluxo é cancelado e o processo é interrompido.**</mark>
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/minhas_ativ01.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 
 ## Ícones de Ação das Tarefas
 
-<figure><img src="../../../.gitbook/assets/minhas_ativ04.png" alt=""><figcaption></figcaption></figure>
+<div data-full-width="false"><figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Nem todos os ícones apresentados nessa tela serão utilizados em todos os processos. Em algumas situações, algumas das funcionalidades dessa tela não serão necessárias.**</mark>  
+{% endhint %}
+
+{% hint style="info" %}
+As marcações coloridas abaixo dos ícones referem-se à caracterização da ação como: <mark style="color:red;">"Ação obrigatória Pendente"</mark>; <mark style="color:green;">"Ação concluída"</mark>; e <mark style="color:blue;">"Ação opcional".</mark>
 {% endhint %}
 
 ### **1. Delegar Tarefa**
@@ -84,11 +90,11 @@ Ao clicar neste ícone é aberta uma janela onde é possível cadastrar, associa
 1. **Informações sobre a tarefa:** Tipo, nome e status da tarefa, número do processo e responsável pela execução. &#x20;
 2. **Ícones de ação:** Para habilitar todos os ícones é necessário selecionar um dos registros exibidos no campo “Documentos do fluxo”.  &#x20;
 
-\-> _Adicionar:_ Clicando neste ícone será possível cadastrar ou associar um documento ao fluxo.
+-> _Adicionar:_ Clicando neste ícone será possível cadastrar ou associar um documento ao fluxo.
 
-\-> _Editar:_ Utilizado para editar o registro selecionado.&#x20;
+-> _Editar:_ Utilizado para editar o registro selecionado.&#x20;
 
-\-> _Visualizar:_ Utilizado para visualizar o registro selecionado. &#x20;
+-> _Visualizar:_ Utilizado para visualizar o registro selecionado. &#x20;
 
 * Aba Dados Cadastrais: Aqui são exibidas as informações e metadados do registro&#x20;
 
@@ -106,13 +112,13 @@ Ao clicar neste ícone é aberta uma janela onde é possível cadastrar, associa
 
 <figure><img src="../../../.gitbook/assets/minhas_ativ11.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
-\-> _Desassociar:_ Utilizado para desvincular o registro selecionado do fluxo. O documento continua existindo no sistema mas não terá mais relação com o fluxo.&#x20;
+-> _Desassociar:_ Utilizado para desvincular o registro selecionado do fluxo. O documento continua existindo no sistema mas não terá mais relação com o fluxo.&#x20;
 
-\-> _Excluir:_ Clicando neste ícone o registro selecionado será excluído do sistema.&#x20;
+-> _Excluir:_ Clicando neste ícone o registro selecionado será excluído do sistema.&#x20;
 
-\-> _Upload de arquivos:_ Utilizado para fazer o upload de novo arquivo para o registro selecionado. Um registro pode ser composto por mais de um documento.  &#x20;
+-> _Upload de arquivos:_ Utilizado para fazer o upload de novo arquivo para o registro selecionado. Um registro pode ser composto por mais de um documento.  &#x20;
 
-\-> _Assinar:_ Utilizado para assinar os documentos do fluxo. O usuário pode escolher entre assinar todos os documentos apresentados ou assinar apenas os que estiverem selecionados em verde no grid.
+-> _Assinar:_ Utilizado para assinar os documentos do fluxo. O usuário pode escolher entre assinar todos os documentos apresentados ou assinar apenas os que estiverem selecionados em verde no grid.
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Para inserir uma nova versão de um documento já cadastrado, selecione o documento e clique no ícone de upload. O sistema preencherá o nome e a versão do arquivo automaticamente, por entender que se trata de um upload de uma nova versão do arquivo selecionado, mas o usuário poderá editar o nome e número da versão se desejar.**</mark>
@@ -124,9 +130,9 @@ Ao clicar neste ícone é aberta uma janela onde é possível cadastrar, associa
 
 3. **Documentos do fluxo:** Neste campo são exibidos todos os documentos associados ao fluxo cadastrados no sistema. São mostradas as informações e metadados dos documentos.
 
-\-> _Download:_ Clicando no ícone “Download” será possível ver e baixar cada um dos documentos que compõem o registro separadamente.&#x20;
+-> _Download:_ Clicando no ícone “Download” será possível ver e baixar cada um dos documentos que compõem o registro separadamente.&#x20;
 
-\-> _Editar:_ Clicando no ícone “Editar” será possível editar as informações de indexação do documento com ao mesmo tempo em que se visualiza a imagem.&#x20;
+-> _Editar:_ Clicando no ícone “Editar” será possível editar as informações de indexação do documento com ao mesmo tempo em que se visualiza a imagem.&#x20;
 
 <figure><img src="../../../.gitbook/assets/minhas_ativ15.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -144,37 +150,39 @@ Ao clicar neste ícone é aberta a tela para realizar o upload do documento/imag
 
 #### Tela de Anexos
 
-1. **Aba Anexos do Fluxo:** São os documentos/imagens tramitados durante a execução do fluxo no sistema. Estão disponíveis os ícones:
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
-\-> _Editar:_ Utilizado para editar o nome do anexo e numerar a versão do anexo. &#x20;
+1. **Aba Anexos:** São os documentos/imagens tramitados durante a execução do fluxo no sistema e existentes no registro. Além de exibir as informações sobre os anexos associados ao fluxo, é possível verificar se o documento foi ou não compartilhado com usuários externos (se não tiver sido o ícone de cadeado será exibido). Na tela estão disponíveis os ícones:
 
-\-> _Excluir:_ Utilizado para excluir o anexo.&#x20;
+-> _Editar:_ Utilizado para editar o nome do anexo e numerar a versão do anexo. &#x20;
 
-\-> _Upload de arquivos:_ Utilizado para inserir um novo anexo ao fluxo. &#x20;
+-> _Excluir:_ Utilizado para excluir o anexo.&#x20;
 
-\-> _Download:_ Utilizado para baixar o documento selecionado.&#x20;
+-> _Upload de arquivos:_ Utilizado para inserir um novo anexo ao fluxo. &#x20;
 
-\-> _Assinar:_ Utilizado para assinar os documentos do fluxo. O usuário pode escolher entre assinar todos os documentos apresentados ou assinar apenas os que estiverem selecionados em verde no grid.
+-> _Download:_ Utilizado para baixar o documento selecionado.&#x20;
 
-\-> _Capturar Certificado:_ Quando se faz o upload de um documento que esteja assinado digitalmente, clicando neste ícone será possível extrair e visualizar as informações sobre o certificado digital utilizado para a assinatura. Quando o documento for assinado no próprio GED o certificado de assinaturas ficará disponível automaticamente.
+-> _Assinar:_ Utilizado para assinar os documentos do fluxo. O usuário pode escolher entre assinar todos os documentos apresentados ou assinar apenas os que estiverem selecionados em verde no grid.
+
+-> _Capturar Certificado:_ Quando se faz o upload de um documento que esteja assinado digitalmente, clicando neste ícone será possível extrair e visualizar as informações sobre o certificado digital utilizado para a assinatura. Quando o documento for assinado no próprio GED o certificado de assinaturas ficará disponível automaticamente.
 
 <figure><img src="../../../.gitbook/assets/minhas_ativ13.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 2. **Aba Anexos dos Documentos:** São os documentos/imagens existentes no registro. São os mesmos documentos exibidos na tela “Documentos”. Além de exibir as informações sobre os documentos associados ao fluxo, é possível verificar se o documento foi ou não compartilhado com usuários externos (se não tiver sido o ícone de cadeado será exibido). Na tela estão disponíveis os ícones:
 
-\-> _Editar:_ Utilizado para editar o nome do documento e numerar a sua versão. &#x20;
+-> _Editar:_ Utilizado para editar o nome do documento e numerar a sua versão. &#x20;
 
-\-> _Excluir:_ Utilizado para excluir o documento que estiver selecionado.&#x20;
+-> _Excluir:_ Utilizado para excluir o documento que estiver selecionado.&#x20;
 
-\-> _Assinatura em lote:_ Utilizado para assinar os documentos . O usuário pode escolher entre assinar todos os documentos apresentados ou assinar apenas os que estiverem selecionados em verde no grid.
+-> _Assinatura em lote:_ Utilizado para assinar os documentos . O usuário pode escolher entre assinar todos os documentos apresentados ou assinar apenas os que estiverem selecionados em verde no grid.
 
-\-> _Compartilhar:_ Utilizado para permitir que o documento seja compartilhado com usuários externos (não autenticados no sistema).   &#x20;
+-> _Compartilhar:_ Utilizado para permitir que o documento seja compartilhado com usuários externos (não autenticados no sistema).   &#x20;
 
-\-> _Descompartilhar:_ Utilizado para interromper o compartilhamento de um documento. &#x20;
+-> _Descompartilhar:_ Utilizado para interromper o compartilhamento de um documento. &#x20;
 
-\-> _Download:_ Utilizado para baixar o documento selecionado.&#x20;
+-> _Download:_ Utilizado para baixar o documento selecionado.&#x20;
 
-\-> _Capturar Certificado:_ Quando se faz o upload de um documento que esteja assinado digitalmente, clicando neste ícone será possível extrair e visualizar as informações sobre o certificado digital utilizado para a assinatura. Quando o documento for assinado no próprio GED o certificado de assinaturas ficará disponível automaticamente.&#x20;
+-> _Capturar Certificado:_ Quando se faz o upload de um documento que esteja assinado digitalmente, clicando neste ícone será possível extrair e visualizar as informações sobre o certificado digital utilizado para a assinatura. Quando o documento for assinado no próprio GED o certificado de assinaturas ficará disponível automaticamente.&#x20;
 
 <figure><img src="../../../.gitbook/assets/minhas_ativ19.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 

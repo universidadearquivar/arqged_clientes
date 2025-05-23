@@ -22,11 +22,11 @@ Ao acessar a URL da documentação, é exibida a lista de API's disponíveis, ao
 
 No canto esquerdo da tela é exibida a lista dos métodos disponíveis para a API selecionada.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Clicando no método, é exibido do lado direito da tela o seu detalhamento.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 **Search operations:** Utilize para buscar um método da API selecionada na tela.
 
@@ -38,8 +38,8 @@ Clicando na opção "Try it", é aberto no canto direito da tela os campos de pa
 
 Para usar os métodos, primeiramente será necessário gerar um token de autenticação em [https://api-rest.arquivar.com/v1/api/Autenticacao/Login](https://api-rest.arquivar.com/v1/api/Autenticacao/Login). No método autenticação são informados a “[SubscriptionKey](../../administracao/api.md#subscriptionkey-chave-de-acesso-ou-chave-de-api)” no “Headers” e os dados do Usuário no “Body”, conforme imagem abaixo:
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Com o token retornado pelo método anterior, será possível usar os outros métodos. Então neste caso, na área do “Headers” precisam ser enviados a “[SubscriptionKey](../../administracao/api.md#subscriptionkey-chave-de-acesso-ou-chave-de-api)” e token de autenticação no formato “Baerer Token” no campo “Authorization”:
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
