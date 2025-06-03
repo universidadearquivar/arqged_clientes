@@ -10,8 +10,6 @@ Conecta as etapas do fluxo. Deve ser inserido ligando uma tarefa à outra no des
 
 <figure><img src="../../.gitbook/assets/desenho4 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/desenho19 (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
-
 ### Configurações do Conector
 
 * **Ação de Avanço:** Informe o nome do botão que vai aparecer na tela da tarefa quando o usuário for dar prosseguimento ao fluxo.  Caso seja um conector de uma tarefa que será executada por um usuário externo, informe as obrigatoriedades que ele deverá executar para dar prosseguimento ao fluxo. &#x20;
@@ -261,15 +259,7 @@ Indica quo fluxo atual se encerra naquela etapa e um novo fluxo será ativado na
 
 Indica quando um grupo de tarefas independentes devem ser concluídas para que o fluxo continue.
 
-<div>
-
-<figure><img src="../../.gitbook/assets/desenho26.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/desenho27.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/desenho26.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/desenho27.png" alt=""><figcaption></figcaption></figure></div>
 
 ### Configurações de Grupo
 
@@ -362,3 +352,245 @@ O conector de avanço de uma decisão do tipo Gateway Exclusivo, irá exibir o c
 * **Ao delegar a responsabilidade:** Marque essa opção para que seja enviada uma notificação sempre que o responsável pela tarefa a delegue a outra pessoa. Essa opção só estará disponível caso o campo “Inibe opção de delegar” esteja desabilitado na aba Configurações. Se a tarefa for de execução externa, essa opção não será exibida.&#x20;
 
 <figure><img src="../../.gitbook/assets/desenho11.png" alt=""><figcaption></figcaption></figure>
+
+## ArqSign <a href="#arqsign" id="arqsign"></a>
+
+Para integrar o **ArqFlow** com o **ArqSign**, é necessário que o desenho do fluxo inclua uma etapa configurada com o componente específico de decisão **ArqSign**, conforme a necessidade do cliente.
+
+Esse componente estará disponível apenas se o desenho do fluxo possuir um **serviço do tipo ArqSign Plataforma** previamente configurado na aba **Dados Gerais**.
+
+Ao selecionar o componente ArqSign no fluxograma, o sistema exibirá automaticamente as abas **Configurações** (selecionada por padrão), **Notificações**, **Assinatura** e **Formulário**, onde serão realizadas as definições necessárias para a execução da etapa de assinatura digital no fluxo.
+
+### Configuração <a href="#configuracao" id="configuracao"></a>
+
+* **Título** _(somente leitura):_ Exibe o nome atribuído ao componente ArqSign no fluxograma.
+* **Configuração** _(obrigatório):_ Campo para selecionar a **configuração ArqSign** que será utilizada nesta etapa. _O sistema listará todas as configurações previamente cadastradas na aba **ArqSign** do desenho do fluxo._
+* **Status** _(obrigatório):_ Define o **status do fluxo** quando estiver nesta etapa do processo.
+
+<figure><img src="https://manual.arquivar.com/~gitbook/image?url=https%3A%2F%2F2752216790-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fa8U8D6rT1WQEBeHaKsxV%252Fuploads%252FlkfRvb6PCMQOHxecp6Q2%252Fimage.png%3Falt%3Dmedia%26token%3D68b8a613-2d4f-442f-8add-4d216a68f658&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=6748e02&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+
+*   **Tipo de Responsável** _(obrigatório):_ Campo para definir **quem acompanhará a execução da etapa ArqSign**. Opções disponíveis:
+
+    * Chefe imediato (Quem ativou) – _visível apenas em fluxos com ativação manual_
+    * Grupo – _habilita o campo adicional de seleção de grupo_
+    * Quem ativou – _visível apenas em fluxos com ativação manual_
+    * Quem executou uma tarefa interna
+    * Selecionado
+    * Usuário – _habilita o campo adicional de seleção de usuário_
+
+
+
+    <figure><img src="https://manual.arquivar.com/~gitbook/image?url=https%3A%2F%2F2752216790-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fa8U8D6rT1WQEBeHaKsxV%252Fuploads%252F8FJ5MBDSkHRZSGZtsw6H%252Fimage.png%3Falt%3Dmedia%26token%3D4873781d-bdff-41d3-b4e7-5a4263a4059b&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=81e9bb9&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+**Importante:** Ao selecionar a opção **Grupo**, a etapa será tratada automaticamente como uma **atividade conjunta**, sem exibição das opções “Atividade Conjunta” ou “Atividade Individual”. O percentual de consenso não será considerado.&#x20;
+
+Neste caso, o fluxo gerará uma execução separada para cada membro do grupo.
+{% endhint %}
+
+#### **Ações Avançadas**
+
+Os campos abaixo definem permissões especiais que podem ser concedidas ao responsável por acompanhar a etapa:
+
+1. **Permitir cancelar o processo ArqSign** _(opcional)_
+   * Autoriza o cancelamento manual do processo de assinaturas via ArqSign.
+   * Ao marcar, o campo **Obrigar comentário antes desta ação** será habilitado.
+2. **Permitir atualizar o token ArqSign expirado** _(opcional)_
+   * Autoriza a atualização manual de tokens expirados no processo de assinaturas.
+   * Ao marcar, o campo **Obrigar comentário antes desta ação** será habilitado.
+3. **Permitir editar signatários que não assinaram** _(opcional)_
+   * Autoriza a edição manual de signatários ainda pendentes de assinatura.
+   * Ao marcar, o campo **Obrigar comentário antes desta ação** será habilitado.
+
+{% hint style="success" %}
+Quando qualquer uma dessas ações avançadas estiver marcada, e a opção **Obrigar comentário antes desta ação** também for ativada, o sistema exigirá que o usuário insira uma justificativa antes de realizar a operação correspondente.
+{% endhint %}
+
+**Descrição da Etapa**
+
+* **Descrição da Etapa** _(opcional)_ Campo para registrar uma descrição textual sobre a etapa ArqSign, podendo servir como **orientação adicional** aos usuários definidos como responsáveis por acompanhá-la.
+
+<figure><img src="https://manual.arquivar.com/~gitbook/image?url=https%3A%2F%2F2752216790-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fa8U8D6rT1WQEBeHaKsxV%252Fuploads%252FcPeTaryMIIoQTytg2lp9%252Fimage.png%3Falt%3Dmedia%26token%3D8c617647-1828-4d31-a5e4-e521b0910146&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=b00fe1c7&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+
+### Notificações <a href="#notificacoes" id="notificacoes"></a>
+
+A aba **Notificações** permite configurar os gatilhos e destinatários das mensagens enviadas automaticamente durante o andamento da etapa ArqSign no fluxo de trabalho. Essas notificações são disparadas em momentos estratégicos e podem conter mensagens personalizadas, além de dados relevantes sobre o processo de assinatura.
+
+Estão disponíveis os seguintes gatilhos para envio de notificações:
+
+* **Ao iniciar a tarefa:** Envio realizado assim que o ArqGED dispara o processo de assinatura no ArqSign e inicia a execução da etapa.
+* **Ao avançar a tarefa:** Notificação enviada no momento em que o fluxo é movimentado para a etapa seguinte após a conclusão da etapa ArqSign.
+* **Ao atrasar um percentual do tempo de assinatura de cada signatário:** Envio automático ao ultrapassar o percentual de atraso definido, considerando o prazo individual de cada signatário.
+* **Antes de atrasar um percentual do tempo de assinatura de cada signatário:** Envio antecipado quando o prazo de assinatura está próximo de ultrapassar o percentual configurado.
+* **Quando for executada mais de uma vez:** Notificação enviada ao atingir a quantidade de execuções definida para a etapa.
+* **Quando o link do ArqSign expirar:** Exibido apenas para componentes do tipo ArqSign. A notificação é enviada assim que o link de assinatura expira.
+
+#### **Campos disponíveis em cada notificação**
+
+Para todos os gatilhos configurados, o sistema permite a definição dos seguintes elementos:
+
+* **Notificar:** Define quem receberá a notificação. Opções:
+  * Responsável por acompanhar o processo
+  * Signatário
+  * Quem ativou
+  * Chefe imediato (Quem ativou)
+  * Chefe imediato (Responsável)
+  * Grupo
+  * Usuários
+
+{% hint style="info" %}
+As opções **Chefe imediato (Quem ativou)** e **Quem ativou** estão disponíveis apenas em fluxos com ativação manual.
+{% endhint %}
+
+* **E-mails externos:** Campo para inserção manual de e-mails adicionais a serem notificados.
+* **Mensagem personalizada:** Campo de texto para redigir o conteúdo da mensagem que será enviada aos destinatários definidos.
+
+#### **Incluir na notificação**
+
+<figure><img src="https://manual.arquivar.com/~gitbook/image?url=https%3A%2F%2F2752216790-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fa8U8D6rT1WQEBeHaKsxV%252Fuploads%252FNm3MP6bKMbloaTtnmfEm%252Fimage.png%3Falt%3Dmedia%26token%3Ddd8f84bd-80b9-43f3-a7e2-1e713c076200&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=e15c4b0c&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+
+Além da mensagem personalizada, é possível incluir informações adicionais na notificação, selecionando:
+
+* **Comentários:**
+  * Todos
+  * Último
+* **Observações**
+* **Campos do Formulário**
+*   **Situação do Processo de Assinatura ArqSign**
+
+    Ao incluir a situação do processo de assinatura, a aplicação enviará os dados dos processos vinculados, conforme o tipo de etapa:
+
+    * Para etapas do tipo **ArqSign**:
+      * Processo em andamento
+      * Todos (Atual + Concluídos + Cancelados)
+    * Para etapas **diferentes de ArqSign**:
+      * Processos concluídos
+      * Todos (Concluídos + Cancelados)
+
+Esta opção estará disponível para todas as **configurações de notificações de um fluxo com integração com a Plataforma ArqSign**. Quando esta opção estiver marcada, a aplicação enviará os seguintes dados:
+
+> **\[Nome do Processo 1] - Status: \[Status do Processo]**
+>
+> Ordem de Assinatura: Nome do Signatário 1 - Assinou como ou Assinará como: Papel do Signatário
+>
+> Ordem de Assinatura: Nome do Signatário 2 - Assinou como ou Assinará como: Papel do Signatário
+>
+> Ordem de Assinatura: Nome do Signatário 3 - Assinou como ou Assinará como: Papel do Signatário
+>
+> Ordem de Assinatura: Nome do Signatário n - Assinou como ou Assinará como: Papel do Signatário
+>
+> **\[IdProcessoArqSIGN] \[Nome do Processo n] - Status: \[Status do Processo]**
+>
+> Ordem de Assinatura: Nome do Signatário 1 - Assinou como ou Assinará como: Papel do Signatário
+>
+> Ordem de Assinatura: Nome do Signatário 2 - Assinou como ou Assinará como: Papel do Signatário
+>
+> Ordem de Assinatura: Nome do Signatário 3 - Assinou como ou Assinará como: Papel do Signatário
+>
+> Ordem de Assinatura: Nome do Signatário n - Assinou como ou Assinará como: Papel do Signatário
+
+* Quando houver **papel definido**, será exibido:
+  * **Assinou como:** (para quem já assinou)
+  * **Assinará como:** (para quem ainda não assinou)
+* Quando **não houver papel definido**, será exibido:
+  * **Assinado** ou **Não Assinado**
+* Se houver **recusa de assinatura**, o sistema exibirá:
+  * Ordem de Assinatura: Nome do Signatário 1 – Recusou Assinar - Motivo Recusa.
+
+### Assinatura <a href="#assinatura" id="assinatura"></a>
+
+A aba **Assinatura** permite ao usuário indicar quais documentos do fluxo serão enviados para assinatura por meio da plataforma ArqSign na etapa configurada.
+
+É **obrigatório marcar ao menos uma das opções** disponíveis para que o componente funcione corretamente.
+
+<figure><img src="https://manual.arquivar.com/~gitbook/image?url=https%3A%2F%2F2752216790-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fa8U8D6rT1WQEBeHaKsxV%252Fuploads%252FeHdgJmWO2HyBqa8E1GKt%252Fimage.png%3Falt%3Dmedia%26token%3D6445f4b0-5018-49a5-87ec-99af3a39a1a1&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=27d7a079&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+
+O sistema exibe os seguintes campos:
+
+* **Modelo do fluxo** Exibido somente quando o fluxo possui um modelo configurado. Ao marcar essa opção, o modelo será incluído no processo de assinatura via ArqSign nesta etapa.
+* **Anexo(s) do fluxo marcados para assinar** Indica que os anexos adicionados ao fluxo, e previamente marcados para assinatura, serão assinados na plataforma ArqSign.
+* **Anexo(s) do registro marcados para assinar** Indica que os anexos do registro/documento principal, também marcados para assinatura, serão enviados ao ArqSign na etapa em questão.
+
+### Formulário <a href="#formulario" id="formulario"></a>
+
+A aba **Formulário** estará sempre visível para etapas configuradas com o serviço **ArqSign**, pois o uso de formulário é obrigatório nesse tipo de fluxo.
+
+Nesta aba, o usuário poderá **definir quais campos do formulário serão exibidos** na tarefa de acompanhamento da etapa de assinatura digital.
+
+#### **Funcionamento da configuração**
+
+* Na etapa ArqSign, será possível visualizar apenas o formulário que foi preenchido em etapas anteriores do fluxo. Portanto, certifique-se de que os campos desejados estejam preenchidos antes do envio para assinatura.
+* A lista exibida corresponde aos **campos disponíveis no formulário associado ao fluxo**.
+* Para cada campo, é possível selecionar:
+  * **V (Visualizar):** o campo será exibido para leitura na tarefa.
+  * **T (Exibir tarefa):** o campo será destacado no painel da tarefa.
+
+{% hint style="danger" %}
+Em etapas do tipo **ArqSign**, a coluna **T** permite a seleção de no máximo **4 campos**.
+{% endhint %}
+
+<figure><img src="https://manual.arquivar.com/~gitbook/image?url=https%3A%2F%2F2752216790-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fa8U8D6rT1WQEBeHaKsxV%252Fuploads%252FwWlfhbKN4WULKJxHxyZg%252Fimage.png%3Falt%3Dmedia%26token%3D05fdc733-2af6-4b64-afc1-d5b44ebb95e9&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=fcd493fa&#x26;sv=2" alt="" width="188"><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+### Conector <a href="#conector-1" id="conector-1"></a>
+
+Para que o componente do tipo **ArqSign** funcione corretamente no fluxograma, é necessário configurar **conectores de saída** que definem os possíveis caminhos do fluxo a partir dessa etapa, com base no status do processo de assinatura.
+
+O componente ArqSign deve conter **no mínimo 1 e no máximo 5 conectores de saída**. Cada conector deve conter **pelo menos uma das opções de avanço** listadas abaixo — e nenhuma opção pode ser repetida no mesmo conector nem entre conectores diferentes.
+
+**Opções de avanço disponíveis**
+
+* **Concluído** Avança o fluxo quando o processo de assinatura for concluído com sucesso — ou seja, todos os signatários assinaram. A informação é recebida via WebHook e o fluxo segue automaticamente.
+* **Quando alguém recusar assinar** Avança o fluxo quando um dos signatários recusa a assinatura, causando o cancelamento do processo. A recusa é recebida via WebHook e tratada pela aplicação.
+* **Cancelado** Esta opção contempla três situações:
+  1. Cancelamento realizado diretamente na plataforma ArqSign pelo remetente.
+  2. Cancelamento realizado no ArqGED por um responsável com permissão na etapa ArqSign.
+  3. Cancelamento do próprio fluxo por um usuário com permissão, enquanto a etapa ArqSign está em andamento.
+* **Link de assinatura expirado** _(opcional)_ Disponível apenas se **não estiver marcada** a opção **"Permitir atualizar token ArqSign expirado"** nas configurações da etapa. Avança o fluxo automaticamente quando o link de assinatura expira sem que todos os signatários tenham concluído a assinatura.
+
+{% hint style="info" %}
+Se o documento precisar ser **gerado novamente**, esta opção deve ser utilizada.&#x20;
+
+Caso contrário, basta manter o fluxo na etapa e permitir que os responsáveis reenviem o token manualmente.
+{% endhint %}
+
+* **Não possuir todos os dados para envio** Avança o fluxo se, ao tentar enviar os documentos para assinatura, o ArqGED identificar que faltam dados obrigatórios para realizar a operação.
+
+#### **Regras importantes**
+
+* O **componente ArqSign deve obrigatoriamente conter pelo menos 4 das 5 opções listadas** acima.
+* A opção **"Link de assinatura expirado"** é **obrigatória** **caso a etapa não permita a atualização manual do token expirado**.
+* A presença dessa opção no fluxograma indica que, ao expirar, o documento deverá ser **recriado e reenviado** para assinatura.
+
+#### **Campos exibidos**
+
+* **Origem:** Campo somente leitura, exibe o nome do componente de origem no fluxograma.
+* **Destino:** Campo somente leitura, exibe o nome do componente de destino.
+* **Avançar etapa, se processo for:** Aqui o usuário define, para cada conector, qual condição levará ao avanço do fluxo, conforme as opções descritas acima.
+
+### Validação do fluxo <a href="#validacao-do-fluxo" id="validacao-do-fluxo"></a>
+
+Ao ativar um fluxo, a aplicação realiza a validação dos **serviços vinculados ao desenho do fluxo**, verificando se estão **ativos e vigentes** — tanto o **Serviço de Workflow** quanto o **Serviço de ArqSign**.
+
+{% hint style="warning" %}
+Um fluxo **somente poderá ser ativado** se **todos os serviços vinculados estiverem ativos** no contrato do cliente e na unidade correspondente.
+{% endhint %}
+
+#### **Integração automática com webhooks**
+
+Caso o fluxo contenha ao menos uma etapa do tipo **ArqSign** e seja validado com sucesso, a aplicação criará automaticamente **dois webhooks** por integração:
+
+* **Webhook de acompanhamento:** permite o monitoramento do andamento do processo de assinatura.
+* **Webhook de conclusão:** recebe a confirmação de que todos os signatários finalizaram a assinatura.
+
+#### **Validações específicas – Etapas ArqSign**
+
+Durante a validação, a aplicação também verifica regras específicas relacionadas à configuração de assinaturas. São elas:
+
+1. **Obrigatoriedade de marcação de documentos para assinatura:** Toda etapa do tipo ArqSign deve ter **pelo menos uma das opções abaixo marcadas**:
+   * **Modelo do fluxo** (visível apenas se houver modelo configurado)
+   * **Anexo(s) do fluxo marcados para assinar**
+   * **Anexo(s) do registro marcados para assinar**
+2. **Exclusividade do envio do modelo:** Apenas **uma etapa do tipo ArqSign** em todo o fluxograma pode ter a opção **“Enviar ao ArqSign para assinar: Modelo do fluxo”** marcada.
+3. **Consistência com etapas anteriores:** Se a etapa do tipo ArqSign estiver configurada para enviar anexos (fluxo e/ou registro), é necessário que, em etapas anteriores:
+   * Os **anexos do fluxo** estejam marcados para assinatura.
+   * Os **anexos do registro** estejam igualmente marcados para assinatura.
