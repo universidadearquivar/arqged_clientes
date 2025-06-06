@@ -36,17 +36,17 @@ As obrigatoriedades das tarefas são ações que devem ser realizadas para a con
 <mark style="color:orange;">**A maior parte das tarefas não apresentará todas as obrigatoriedades. Para verificar quais são as obrigatoriedades da tarefa exigidas, clique sobre o ícone “Obrigatoriedades da tarefa” durante a execução do fluxo.**</mark>
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/obrig1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (362).png" alt="" width="309"><figcaption></figcaption></figure>
 
 ### 1. Anexo no Fluxo
 
 1\. Clique no ícone "Anexos" para adicionar um anexo.&#x20;
 
-<figure><img src="../../../.gitbook/assets/obrig2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (363).png" alt=""><figcaption></figcaption></figure>
 
-2\. Na aba "Anexos do Fluxo", clique no ícone de upload.&#x20;
+2\. Na aba "Anexos", clique no ícone de upload.&#x20;
 
-<figure><img src="../../../.gitbook/assets/obrig3.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (367).png" alt=""><figcaption></figcaption></figure>
 
 3\. No campo “Arquivos dos registros” selecione o arquivo que deseja anexar.&#x20;
 
@@ -62,9 +62,9 @@ As obrigatoriedades das tarefas são ações que devem ser realizadas para a con
 
 1\. Clique no ícone "Anexos".&#x20;
 
-<figure><img src="../../../.gitbook/assets/obrig2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (364).png" alt=""><figcaption></figcaption></figure>
 
-2\. Na aba "Anexos do Fluxo", clique no ícone “Assinar”. É possível realizar a assinatura em lote clicando no ícone de "Assinar". Depois, selecione entre "Assinar os arquivos selecionados no GRID" ou "Assinar todos os arquivos do GRID (Limitado a 300)".&#x20;
+2\. Na aba "Anexos", clique no ícone “Assinar”. É possível realizar a assinatura em lote clicando no ícone de "Assinar". Depois, selecione entre "Assinar os arquivos selecionados no GRID" ou "Assinar todos os arquivos do GRID (Limitado a 300)".&#x20;
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Só é possível assinar em lote arquivos que estejam no mesmo fluxo.**</mark> &#x20;
@@ -92,9 +92,9 @@ As obrigatoriedades das tarefas são ações que devem ser realizadas para a con
 
 1\. Clique no ícone "Anexos".&#x20;
 
-<figure><img src="../../../.gitbook/assets/obrig2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (365).png" alt=""><figcaption></figcaption></figure>
 
-2\. Na aba "Anexos do Fluxo", clique no ícone “Assinar”. É possível realizar a assinatura em lote clicando no ícone de "Assinar". Depois, selecione entre "Assinar os arquivos selecionados no GRID" ou "Assinar todos os arquivos do GRID (Limitado a 300)".&#x20;
+2\. Na aba "Anexos", clique no ícone “Assinar”. É possível realizar a assinatura em lote clicando no ícone de "Assinar". Depois, selecione entre "Assinar os arquivos selecionados no GRID" ou "Assinar todos os arquivos do GRID (Limitado a 300)".&#x20;
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Só é possível assinar em lote arquivos que estejam no mesmo fluxo.**</mark> &#x20;
@@ -120,11 +120,11 @@ As obrigatoriedades das tarefas são ações que devem ser realizadas para a con
 
 1\. Clique no ícone “Anexos”.&#x20;
 
-<figure><img src="../../../.gitbook/assets/obrig2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (366).png" alt=""><figcaption></figcaption></figure>
 
-2\. Na aba “Anexos do Fluxo” selecione o anexo do fluxo que deseja disponibilizar para assinatura externa marcando o checkbox no campo "Assinar".&#x20;
+2\. Na aba “Anexos” selecione o anexo do fluxo que deseja disponibilizar para assinatura externa arrastando o documento para a área "Selecionados para assinar/visualizar".
 
-<figure><img src="../../../.gitbook/assets/obrig8.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ScreenRecorderProject86 (1).gif" alt=""><figcaption></figcaption></figure>
 
 3\. Feche a janela e retorne para a tela da tarefa.&#x20;
 
@@ -226,9 +226,9 @@ As obrigatoriedades das tarefas são ações que devem ser realizadas para a con
 
 1\. Clique no ícone “Anexos”.&#x20;
 
-<figure><img src="../../../.gitbook/assets/obrig2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (368).png" alt=""><figcaption></figcaption></figure>
 
-2\. Na aba "Anexos do Fluxo", clique no ícone “Assinar”. É possível realizar a assinatura em lote clicando no ícone de "Assinar". Depois, selecione entre "Assinar os arquivos selecionados no GRID" ou "Assinar todos os arquivos do GRID (Limitado a 300)".&#x20;
+2\. Na aba "Anexos", clique no ícone “Assinar”. É possível realizar a assinatura em lote clicando no ícone de "Assinar". Depois, selecione entre "Assinar os arquivos selecionados no GRID" ou "Assinar todos os arquivos do GRID (Limitado a 300)".&#x20;
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Só é possível assinar em lote arquivos que estejam no mesmo fluxo.**</mark> &#x20;
@@ -252,9 +252,9 @@ As obrigatoriedades das tarefas são ações que devem ser realizadas para a con
 
 1\. Para compartilhar um documento com usuários externos ao sistema, ou seja, que não serão autenticados no GED, clique no ícone “Anexos”. &#x20;
 
-<figure><img src="../../../.gitbook/assets/obrig2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (369).png" alt=""><figcaption></figcaption></figure>
 
-2\. Na aba “Anexos do Documento” selecione o documento que será compartilhado e clique no ícone “Compartilhar”.&#x20;
+2\. Na aba “Anexos” selecione o documento que será compartilhado e clique no ícone “Compartilhar”.&#x20;
 
 <figure><img src="../../../.gitbook/assets/obrig18.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
@@ -278,9 +278,9 @@ As obrigatoriedades das tarefas são ações que devem ser realizadas para a con
 
 <figure><img src="../../../.gitbook/assets/obrig2.png" alt=""><figcaption></figcaption></figure>
 
-2\. Na aba "Anexos do Documento" selecione na coluna “Assinar” do documento que deve ser assinado.&#x20;
+2\. Na aba “Anexos” selecione o anexo do fluxo que deseja disponibilizar para assinatura externa arrastando o documento para a área "Selecionados para assinar/visualizar".&#x20;
 
-<figure><img src="../../../.gitbook/assets/obrig21.png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ScreenRecorderProject86 (2).gif" alt=""><figcaption></figcaption></figure>
 
 3\. Feche a janela e retorne para a tela da tarefa.&#x20;
 
@@ -450,4 +450,36 @@ Caso o idioma escolhido seja Inglês, a tela será apresentada nesse idioma e se
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Quando uma tarefa externa cobra mais de uma obrigatoriedade de assinatura (Assinar Anexo do Fluxo, Assinar Avanço, Assinar Anexo do Registro, Assinar Anexos enviados e Assinar modelo), ao assinar na tarefa o usuário estará cumprindo todas as obrigatoriedades de uma só vez, não sendo necessário que ele execute a ação mais de uma vez.**</mark>
+{% endhint %}
+
+## Tarefas Obrigatórias - Serviço Assinatura ArqSign <a href="#tarefas-obrigatorias-servico-assinatura-arqsign" id="tarefas-obrigatorias-servico-assinatura-arqsign"></a>
+
+Algumas etapas de fluxos que utilizam a integração com a **Plataforma ArqSign** poderão apresentar **tarefas obrigatórias**, dependendo das configurações aplicadas na etapa do tipo ArqSign. As tarefas abaixo podem ser exigidas durante a execução do fluxo:
+
+### **1. Inserir Comentário**
+
+A tarefa de **inserir comentário** será exibida nos seguintes casos, desde que a etapa esteja configurada com a obrigatoriedade de comentário:
+
+* Ao cancelar o processo enviado para assinatura na ArqSign.
+* Ao atualizar o token expirado do processo.
+* Ao editar os signatários que ainda não assinaram.
+
+{% hint style="warning" %}
+**Importante:** A exigência de comentário **não é obrigatória por padrão**, sendo uma configuração opcional que pode ser habilitada por etapa.
+{% endhint %}
+
+Sempre que a obrigatoriedade estiver ativa, o sistema exibirá um campo para que o usuário justifique a ação antes de prosseguir.
+
+<figure><img src="https://manual.arquivar.com/~gitbook/image?url=https%3A%2F%2F2752216790-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fa8U8D6rT1WQEBeHaKsxV%252Fuploads%252F1w7ocQKuIKMKXAVXiWJb%252Fimage.png%3Falt%3Dmedia%26token%3Dd27b1bec-011a-4972-8349-0cf82282b71d&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=4da053b0&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+
+### **2. Enviar Processo ArqSign**
+
+Quando o fluxo alcançar uma etapa do tipo ArqSign, o sistema poderá exigir o envio manual do processo à ArqSign, dependendo da lógica de configuração da etapa.
+
+O(s) botão(ões) <mark style="color:green;">**\[Enviar/Reenviar/Editar Processo ArqSign]**</mark> será exibido na tarefa, e o usuário deverá acionar essa opção para que o processo de assinatura seja iniciado.
+
+<figure><img src="https://manual.arquivar.com/~gitbook/image?url=https%3A%2F%2F2752216790-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fa8U8D6rT1WQEBeHaKsxV%252Fuploads%252FLz1u9bwxP8r9nS4Tp3aX%252Fimage.png%3Falt%3Dmedia%26token%3Da6926dc1-29ac-46a7-a794-ae9e5e9855c5&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=389cef96&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+Uma vez enviado, o processo passará a ser acompanhado automaticamente pelo ArqGED, e a tarefa de acompanhamento ficará disponível aos responsáveis configurados na etapa.
 {% endhint %}
