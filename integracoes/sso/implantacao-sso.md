@@ -4,15 +4,15 @@
 
 Acesse a URL do ArqGED e clique na opção "Entrar com SSO".
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Será apresentada uma nova tela para inclusão do código do AD (Active Directory) que é o código que identifica o Cliente ArqGED nas configurações de acesso do AD do cliente.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Se neste momento for informado um código incorreto, a aplicação exibirá uma mensagem de alerta ao usuário <mark style="color:red;">**"Erro ao autenticar: \[código] inválido."**</mark>
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Sendo informado o código correto, a aplicação identificará o Cliente e sua respectiva configuração para chamar seu IdP.&#x20;
 
@@ -20,7 +20,7 @@ O ArqGED irá chamar o IdP do Cliente com um ID que identifica a aplicação Arq
 
 Abaixo está um exemplo de integração com o Azure AD. Neste caso, após informar o código que identifica o cliente e clicar “Entrar”, é exibido no browser do Cliente a página de autenticação da Microsoft.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ## Usuário autenticado no Idp do Cliente
 
@@ -32,7 +32,7 @@ O ArqGED irá criar o usuário vinculado ao cliente, porém com o status “**Bl
 
 Na mensagem existem os dados: **Email, Nome e Telefone.** Estas informações poderão ser personalizadas por Cliente, de forma que o usuário que acabou de ser criado no ArqGED via IdP, saiba a quem procurar para solicitar a atribuição de permissões de árvore documental e perfis de acesso.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 Após o desbloqueio do usuário e atribuição de árvore documental juntamente com o perfil de acesso, na próxima tentativa de login, o usuário será autenticado no ArqGED.
 
