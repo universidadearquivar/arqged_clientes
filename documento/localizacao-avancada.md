@@ -29,6 +29,90 @@ Além da possibilidade de filtrar os resultados por meio dos indexadores, é pos
 
 <figure><img src="../.gitbook/assets/image (103).png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
+## Regra de pesquisa em campos indexadores
+
+### Texto
+
+**Busca por conteúdo (Padrão)**
+
+Por padrão, o sistema localiza qualquer registro que contenha o texto digitado, mesmo que ele faça parte de uma palavra ou frase maior.
+
+* **Exemplo:** Pesquisar por Relatório encontrará resultados como “Relatório Anual” e “Novo relatório de vendas”.
+
+**Busca Exata**
+
+Para localizar uma expressão exatamente como foi digitada, utilize aspas duplas (“) ao redor do termo.
+
+* **Exemplo:** Pesquisar por “Relatório Anual” trará apenas os registros que correspondem exatamente a “Relatório Anual”.
+
+**Busca com Curinga (%),**
+
+Ao incluir o caractere % na sua pesquisa, ele atuará como um curinga, representando qualquer sequência de caracteres.
+
+* **Exemplo:** Pesquisar por Nota%Fiscal retornará registros como “Nota Fiscal” e “Nota de Serviço Fiscal”.
+
+### CPF&#xD; \- CNPJ&#xD; \- CNPJ/CPF
+
+**Ignora Formatação**
+
+Você pode digitar os números com ou sem pontuação, como pontos, traços ou barras. O sistema considera apenas os números, independentemente do formato.
+
+* **Exemplo:** Pesquisar por 123.456.789-00 ou por 12345678900 retornará os mesmos resultados.
+
+### Numérico
+
+**Busca Numérica Exata**
+
+O sistema interpreta os valores como números, e não como texto. Por isso, a busca deve ser feita com o número exato que deseja encontrar.
+
+* **Exemplo:** Pesquisar por 2024 localizará o campo que contém exatamente o número “2024”.
+
+### Data
+
+**Busca por Data Exata**
+
+A pesquisa deve ser feita utilizando o formato completo da data no padrão dd/mm/aaaa.
+
+* **Exemplo:** Para encontrar registros do dia 15 de julho de 2025, pesquise por 15/07/2025.
+
+### Hora
+
+**Busca por Hora Exata**
+
+Utilize o formato de hora hh:mm:ss para localizar registros em um horário específico.
+
+* **Exemplo:** Para encontrar registros das 14h30, pesquise por 14:30:00.
+
+### Data e Hora
+
+**Busca por Data e Hora Exata**
+
+A pesquisa deve combinar o formato de data e hora no padrão dd/mm/aaaa hh:mm:ss.
+
+* **Exemplo:** Para encontrar registros do dia 15/07/2025 às 14h30, pesquise por 15/07/2025 14:30:00.
+
+### Monetário
+
+**Busca Exata**
+
+A pesquisa deve ser feita com o valor exato, incluindo vírgulas ou pontos decimais conforme registrados no sistema.
+
+* **Exemplo:** Se o valor cadastrado for 150,50, você deve pesquisar exatamente por 150,50.
+
+### CheckBox
+
+**Busca Exata**
+
+A busca considera apenas os campos em que a opção estiver exatamente marcada. O filtro só é aplicado se o CheckBox estiver selecionado.
+
+### Outros Tipos
+
+**Busca Exata**
+
+Para todos os demais tipos de campos não especificados acima, aplica-se a busca por correspondência exata. O conteúdo digitado deve ser idêntico ao que está no campo.
+
+* **Exemplo:** Se o campo de e-mail contiver nome@exemplo.com, você deve pesquisar exatamente por nome@exemplo.com.
+
 ***
 
 ## Ícones da tela Localização Avançada&#x20;
