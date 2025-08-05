@@ -152,7 +152,7 @@ Ao clicar em **“Editar”**, você poderá **alterar os dados de um registro**
     * **Adicionar lista de valores para o campo:** clique no ícone "+" para adicionar o nome da lista desejada e, caso queira retirar alguma lista, selecione a lista desejada e clique no ícone de lixeira para eliminá-la da lista.
 
     <div align="left"><figure><img src="../.gitbook/assets/image (7).png" alt="" width="375"><figcaption></figcaption></figure></div>
-* _**Monetário:**_ Campo em que o usuário deverá informar um valor monetário, com vírgula. É possível alterar a Definição de Campo, Nome do registro, Expressão, Tamnho Mínimo, Tamanho Máximo, Operador e Campo Pai.
+* _**Monetário:**_ Campo em que o usuário deverá informar um valor monetário, com vírgula. É possível alterar a Definição de Campo, Nome do registro, Expressão, Tamanho Mínimo, Tamanho Máximo, Operador e Campo Pai.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (8).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -160,6 +160,6 @@ Ao clicar em **“Editar”**, você poderá **alterar os dados de um registro**
 
 <div align="left"><figure><img src="../.gitbook/assets/image (9).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-* _**Texto:**_ Campo em que o usuário poderá informar qualquer valor, seja de texto ou numérico. Este tipo de campo aceita qualquer caractere como resposta. É possível alterar o Nome do registro, Expressão, Tamnho Mínimo, Tamanho Máximo, Operador e Campo Pai.
+* _**Texto:**_ Campo em que o usuário poderá informar qualquer valor, seja de texto ou numérico. Este tipo de campo aceita qualquer caractere como resposta. É possível alterar o Nome do registro, Expressão, Tamanho Mínimo, Tamanho Máximo, Operador e Campo Pai.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (10).png" alt="" width="375"><figcaption></figcaption></figure></div>
