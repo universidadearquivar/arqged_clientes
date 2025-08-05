@@ -32,13 +32,13 @@ Os botões “Cancelar” e “Voltar Etapa” só serão exibidos se o usuário
 <mark style="color:red;">**Ao clicar em “Cancelar” todo o fluxo é cancelado e o processo é interrompido.**</mark>
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ***
 
 ## Ícones de Ação das Tarefas
 
-<div data-full-width="false"><figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div data-full-width="false"><figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Nem todos os ícones apresentados nessa tela serão utilizados em todos os processos. Em algumas situações, algumas das funcionalidades dessa tela não serão necessárias.**</mark>  
@@ -150,7 +150,7 @@ Ao clicar neste ícone é aberta a tela para realizar o upload do documento/imag
 
 #### Tela de Anexos
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar</p></figcaption></figure>
 
 1. **Aba Anexos:** São os documentos/imagens tramitados durante a execução do fluxo no sistema e existentes no registro. Além de exibir as informações sobre os anexos associados ao fluxo, é possível verificar se o documento foi ou não compartilhado com usuários externos (se não tiver sido o ícone de cadeado será exibido). Na tela estão disponíveis os ícones:
 

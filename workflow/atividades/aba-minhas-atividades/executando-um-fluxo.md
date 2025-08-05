@@ -70,7 +70,7 @@ As obrigatoriedades das tarefas são ações que devem ser realizadas para a con
 <mark style="color:orange;">**Só é possível assinar em lote arquivos que estejam no mesmo fluxo.**</mark> &#x20;
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 3\. Selecione o certificado digital que será utilizado para a assinatura e clique em “Assinar”.&#x20;
 
@@ -100,7 +100,7 @@ As obrigatoriedades das tarefas são ações que devem ser realizadas para a con
 <mark style="color:orange;">**Só é possível assinar em lote arquivos que estejam no mesmo fluxo.**</mark> &#x20;
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 3\. Selecione o certificado digital que será utilizado para a assinatura.&#x20;
 
@@ -232,7 +232,7 @@ As obrigatoriedades das tarefas são ações que devem ser realizadas para a con
 <mark style="color:orange;">**Só é possível assinar em lote arquivos que estejam no mesmo fluxo.**</mark> &#x20;
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 3\. Selecione o certificado digital que será utilizado para a assinatura.&#x20;
 
@@ -254,7 +254,7 @@ As obrigatoriedades das tarefas são ações que devem ser realizadas para a con
 
 2\. Na aba “Anexos” selecione o documento que será compartilhado e clique no ícone “Compartilhar”.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 3\. Defina se o compartilhamento será por prazo indeterminado ou determinado. Se for determinado, informe a data final de validade (até quando o link de compartilhamento ficará disponível) e clique em Compartilhar.&#x20;
 

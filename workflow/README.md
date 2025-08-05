@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 🔄 Workflow
 
 O Workflow é um módulo integrado do ArqGED que possibilita a criação de fluxos de trabalho, onde é possível controlar tarefas por usuário responsável, por tipo de atendimento, por prazo e por tipo de fluxo.
