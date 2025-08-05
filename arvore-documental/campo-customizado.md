@@ -114,6 +114,8 @@ Essa funcionalidade permite criar fluxos de preenchimento mais inteligentes, nos
 
 <figure><img src="../.gitbook/assets/arvoredoc11.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
+***
+
 ## Edição de Campo Customizado
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
@@ -121,7 +123,7 @@ Essa funcionalidade permite criar fluxos de preenchimento mais inteligentes, nos
 Ao clicar em **“Editar”**, você poderá **alterar os dados de um registro**.
 
 {% hint style="warning" %}
-<mark style="color:orange;">**I**</mark><mark style="color:orange;">**mportante:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">As opções de edição</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**vão depender da Definição de Campo**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">escolhida no momento da criação do registro.</mark>
+<mark style="color:orange;">**Importante:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">As opções de edição</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**vão depender da Definição de Campo**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">escolhida no momento da criação do registro.</mark>
 {% endhint %}
 
 * _**Checkbox:**_ Campo em que o usuário deverá marcar uma caixa de seleção de acordo com a pergunta apresentada. É possível alterar a Definição de Campo, Nome do registro, Expressão, Tamnho Mínimo, Tamanho Máximo, Operador e Campo Pai.
