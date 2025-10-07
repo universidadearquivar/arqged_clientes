@@ -55,6 +55,12 @@ O menu Árvore Documental é composto pelos seguintes submenus:
 {% hint style="success" %}
 <mark style="color:green;">Já tem a solução implantada? Então vá além.</mark>\ <mark style="color:green;">Seja referência em</mark> <mark style="color:green;"></mark><mark style="color:green;">**Gestão Documental**</mark> <mark style="color:green;"></mark><mark style="color:green;">com o curso da Arquivar Academy e mostre que você entende o que está por trás da eficiência.</mark>\
 [<mark style="color:green;">**Clique aqui e comece agora!**</mark>](https://go.hotmart.com/D97914887Y)
+{% endhint %}
 
+<mark style="color:$success;">O menu Árvore Documental ajuda você a organizar e localizar arquivos de forma simples e estruturada. E para aprofundar ainda mais seus conhecimentos em gestão documental, a Arquivar Academy oferece cursos completos que mostram como planejar, organizar e administrar documentos de maneira estratégica. Clique aqui e conheça!</mark>
+
+<figure><img src="../.gitbook/assets/Teste banner 1 1 (1).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
 <img src="../.gitbook/assets/Teste banner 1 1 (1).png" alt="" data-size="original">
 {% endhint %}
