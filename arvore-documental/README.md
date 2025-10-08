@@ -57,12 +57,14 @@ O menu Árvore Documental é composto pelos seguintes submenus:
 [<mark style="color:green;">**Clique aqui e comece agora!**</mark>](https://go.hotmart.com/D97914887Y)
 {% endhint %}
 
-<mark style="color:$success;">O menu Árvore Documental ajuda você a organizar e localizar arquivos de forma simples e estruturada. E para aprofundar ainda mais seus conhecimentos em gestão documental, a Arquivar Academy oferece cursos completos que mostram como planejar, organizar e administrar documentos de maneira estratégica. Clique aqui e conheça!</mark>
+<mark style="color:$success;">O menu Árvore Documental ajuda você a organizar e localizar arquivos de forma simples e estruturada. E para aprofundar ainda mais seus conhecimentos em gestão documental, a Arquivar Academy oferece cursos completos que mostram como planejar, organizar e administrar documentos de maneira estratégica.</mark> [<mark style="color:$success;">**Clique aqui**</mark>](https://hotmart.com/pt-br/club/arquivar-academy) <mark style="color:$success;">e conheça!</mark>&#x20;
 
 <figure><img src="../.gitbook/assets/Teste banner 1 1 (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Teste banner 1 1 (1).png" alt=""><figcaption><p><mark style="color:$success;">O menu Árvore Documental ajuda você a organizar e localizar arquivos de forma simples e estruturada. E para aprofundar ainda mais seus conhecimentos em gestão documental, a Arquivar Academy oferece cursos completos que mostram como planejar, organizar e administrar documentos de maneira estratégica.</mark> <a href="https://hotmart.com/pt-br/club/arquivar-academy"><mark style="color:$success;"><strong>Clique aqui</strong></mark></a> <mark style="color:$success;">e conheça!</mark> </p></figcaption></figure>
 
 {% hint style="success" %}
 <img src="../.gitbook/assets/Teste banner 1 1 (1).png" alt="" data-size="original"> &#x20;
 
-<mark style="color:$success;">O menu Árvore Documental ajuda você a organizar e localizar arquivos de forma simples e estruturada. E para aprofundar ainda mais seus conhecimentos em gestão documental, a Arquivar Academy oferece cursos completos que mostram como planejar, organizar e administrar documentos de maneira estratégica. Clique aqui e conheça!</mark>
+<mark style="color:$success;">O menu Árvore Documental ajuda você a organizar e localizar arquivos de forma simples e estruturada. E para aprofundar ainda mais seus conhecimentos em gestão documental, a Arquivar Academy oferece cursos completos que mostram como planejar, organizar e administrar documentos de maneira estratégica.</mark> [<mark style="color:$success;">**Clique aqui**</mark>](https://hotmart.com/pt-br/club/arquivar-academy) <mark style="color:$success;">e conheça!</mark>
 {% endhint %}
