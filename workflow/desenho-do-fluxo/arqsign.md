@@ -480,14 +480,13 @@ Essa aba permite configurar o envio de um **código de segurança adicional**, q
 
 Campo do formulário de onde será extraído o código de segurança a ser enviado ao signatário. Este campo precisa ser numérico com a configuração de tamanho mínimo e máximo com valor igual a **"4".**
 
-<figure><img src="../../.gitbook/assets/image (371).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (372).png" alt=""><figcaption></figcaption></figure>
 
-* **Enviar código de segurança por** _(obrigatório se houver código)_&#x20;
-* Campo para selecionar o **meio de envio** do código de segurança. Opções disponíveis:
-  * SMS
-  * WhatsApp
-  * E-mail
-  * Não enviar
+* **Enviar código de segurança por** _(obrigatório se houver código)_ Campo para selecionar o **meio de envio** do código de segurança. Opções disponíveis:
+* SMS
+* WhatsApp
+* E-mail
+* Não enviar
 
 {% hint style="warning" %}
 As opções **SMS** e **WhatsApp** só estarão disponíveis se o serviço **Plataforma ArqSign** selecionado no fluxo possuir os respectivos **subserviços habilitados**.
@@ -504,7 +503,11 @@ A escolha do meio de envio **determina o tipo de campo a ser selecionado** no it
 <figure><img src="https://manual.arquivar.com/~gitbook/image?url=https%3A%2F%2F2752216790-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fa8U8D6rT1WQEBeHaKsxV%252Fuploads%252FYR5N2lVXXgedfu2V5hhf%252Fimage.png%3Falt%3Dmedia%26token%3D33dc1df7-28b5-461c-a948-2f1d08e4b674&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=82abfe98&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
 * **Campo onde extrair o e-mail ou telefone** _(obrigatório se houver envio)_&#x20;
-* Campo do formulário de onde será extraído o **contato** (e-mail ou telefone) para envio do código de segurança.
-  * O tipo de dado aceito depende da opção selecionada no campo anterior.
+
+Campo do formulário de onde será extraído o **contato** (e-mail ou telefone) para envio do código de segurança.
+
+O tipo de dado aceito depende da opção selecionada no campo anterior.
+
 * **Reenviar código de segurança** _(exibido apenas para SMS ou WhatsApp)_&#x20;
-* Se o envio for realizado via **SMS** ou **WhatsApp**, o sistema apresentará a opção de **reenviar o código de segurança** caso necessário.
+
+Se o envio for realizado via **SMS** ou **WhatsApp**, o sistema apresentará a opção de **reenviar o código de segurança** caso necessário.
