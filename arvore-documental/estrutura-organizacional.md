@@ -1,5 +1,7 @@
 # 🟩 Estrutura Organizacional
 
+{% @supademo/embed %}
+
 Estrutura organizacional é a nomeação da dada à estrutura física da empresa do cliente. Neste menu são nomeados os setores, unidades, documentos e outros elementos que compõem a estrutura da empresa.&#x20;
 
 {% hint style="warning" %}
@@ -59,3 +61,4 @@ Se no momento da criação da **Estrutura do Cliente,** pela Arquivar, tiver sid
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/arvoredoc06.png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
+

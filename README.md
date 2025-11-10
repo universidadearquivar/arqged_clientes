@@ -1,5 +1,7 @@
 # 🟢 Página Inicial
 
+{% embed url="https://app.heygen.com/videos/da6ffe6e098849e29676a1a12e419098" %}
+
 Bem-vindo(a) ao manual do sistema ArqGED da Arquivar!
 
 O software ArqGED é um BPM (Business Process Management), desenvolvido pela Arquivar que **possibilita a gestão de processos, a digitalização, o gerenciamento e o armazenamento de documentos** importantes em um ambiente virtual seguro, acessível apenas por usuários autorizados.
