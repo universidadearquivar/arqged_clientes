@@ -1,5 +1,7 @@
 # 📪 Endereço
 
+{% embed url="https://app.heygen.com/videos/a9ca87d77526467db9733bada6032fda" %}
+
 A tela Endereço não se refere ao endereço postal do cliente, mas sim aos endereços de armazenamento, que são criados e gerenciados neste menu. O menu Endereço é composto pelo submenu [Endereço do Cliente](endereco-do-cliente.md).
 
 {% hint style="success" %}

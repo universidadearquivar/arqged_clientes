@@ -1,6 +1,6 @@
 # 🔍 Auditoria
 
-{% embed url="https://app.heygen.com/share/67ca5f7c511048d88c5a5e8df5a0c939" %}
+{% embed url="https://app.heygen.com/videos/14a12ad16c1345fa8d2f1e0de299dd7f" %}
 
 No menu **Auditoría**, são apresentadas as regras criadas para indicar documentos faltantes dos clientes.
 
