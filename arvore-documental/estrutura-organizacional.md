@@ -1,6 +1,6 @@
 # 🟩 Estrutura Organizacional
 
-
+{% @supademo/embed demoId="cmal0r36435ym10snj6b74p5h" url="https://app.supademo.com/demo/cmal0r36435ym10snj6b74p5h" %}
 
 Estrutura organizacional é a nomeação da dada à estrutura física da empresa do cliente. Neste menu são nomeados os setores, unidades, documentos e outros elementos que compõem a estrutura da empresa.&#x20;
 
