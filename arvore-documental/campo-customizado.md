@@ -1,7 +1,5 @@
 # 🟩 Campo Customizado
 
-{% @supademo/embed %}
-
 Os campos customizados são indexadores criados para identificar o conteúdo do documento que permite localizar um arquivo com maior rapidez e precisão a partir do cruzamento de informações.&#x20;
 
 Ao se decidir criar um tipo documental é preciso ​definir quais campos vão compor aquele documento e servirão como indexadores. Esses campos devem ser criados neste menu. Um mesmo campo customizado pode ser usado em mais de um tipo documental. Para exibir os campos customizados criados para um cliente, selecione-o no campo “Cliente”.&#x20;
