@@ -6,6 +6,8 @@ description: Ícones do Fluxograma
 
 ## Conector
 
+{% @supademo/embed demoId="cmbzdmqzjho2ssn1rxffnz12q" url="https://app.supademo.com/demo/cmbzdmqzjho2ssn1rxffnz12q" %}
+
 Conecta as etapas do fluxo. Deve ser inserido ligando uma tarefa à outra no desenho. Para cada conector será exibido para o usuário um botão de prosseguimento no fluxo.
 
 <figure><img src="../../.gitbook/assets/desenho4 (1).png" alt=""><figcaption></figcaption></figure>
@@ -55,6 +57,8 @@ Conecta as etapas do fluxo. Deve ser inserido ligando uma tarefa à outra no des
 
 ## Tarefa
 
+{% @supademo/embed demoId="cmbzgb0ezhozgsn1rfqzpva0s" url="https://app.supademo.com/demo/cmbzgb0ezhozgsn1rfqzpva0s" %}
+
 Representa as tarefas do fluxo. Ao inserir uma tarefa, insira o seu nome ou uma breve descrição do que deve ser feito naquela tarefa. 
 
 <figure><img src="../../.gitbook/assets/desenho5.png" alt=""><figcaption></figcaption></figure>
@@ -95,6 +99,8 @@ Todas as tarefas criadas no desenho do fluxo devem ser configuradas individualme
 
 #### Aba E-mail
 
+{% @supademo/embed demoId="cmc0gzblril1msn1rjabxklyz" url="https://app.supademo.com/demo/cmc0gzblril1msn1rjabxklyz" %}
+
 * **Notificar quando:** Informe quando será enviada a notificação sobre a tarefa.
 
 <figure><img src="../../.gitbook/assets/desenho9.png" alt=""><figcaption></figcaption></figure>
@@ -114,6 +120,8 @@ Todas as tarefas criadas no desenho do fluxo devem ser configuradas individualme
 
 #### Aba Anexos
 
+{% @supademo/embed demoId="cmc0muoh5itqysn1rruxngim6" url="https://app.supademo.com/demo/cmc0muoh5itqysn1rruxngim6" %}
+
 * **Anexo do fluxo, obrigar:** Marque a opção “O upload de pelo menos um arquivo” caso deseje obrigar o usuário a anexar pelo menos um documento ao fluxo. &#x20;
 * **Registro de Documento, obrigar:** Selecione as opções desejadas sobre as obrigatoriedades de cadastrar um novo documento ou associar um documento já cadastrado anteriormente ao fluxo. &#x20;
 
@@ -131,6 +139,8 @@ _<mark style="color:blue;">Registro de Documento:</mark>_ <mark style="color:blu
 <figure><img src="../../.gitbook/assets/desenho7.png" alt=""><figcaption></figcaption></figure>
 
 #### Aba Assinaturas
+
+{% @supademo/embed demoId="cmc0r1g9piz6xsn1r4wqlyi30" url="https://app.supademo.com/demo/cmc0r1g9piz6xsn1r4wqlyi30" %}
 
 * **Assinar:** Selecione as opções sobre o que deverá ser assinado pelo responsável da tarefa. &#x20;
 * **Tarefas de Acesso Externo do Fluxo:** Marque as opções se um usuário externo precisar assinar um anexo ou um registro de documento do fluxo.&#x20;
@@ -272,6 +282,8 @@ Indica quando um grupo de tarefas independentes devem ser concluídas para que o
 ***
 
 ## Tarefa do tipo Gateway Exclusivo
+
+{% @supademo/embed %}
 
 Em um desenho de fluxo que possuir formulário, a tarefa do tipo Gateway Exclusivo irá exibir todos os campos existentes neste formulário para que o usuário possa configurar qual campo será o responsável pelo avanço. Este é um tipo de tarefa que será utilizado somente para avanço automático via preenchimento de campo de formulário.
 
@@ -594,3 +606,4 @@ Durante a validação, a aplicação também verifica regras específicas relaci
 3. **Consistência com etapas anteriores:** Se a etapa do tipo ArqSign estiver configurada para enviar anexos (fluxo e/ou registro), é necessário que, em etapas anteriores:
    * Os **anexos do fluxo** estejam marcados para assinatura.
    * Os **anexos do registro** estejam igualmente marcados para assinatura.
+

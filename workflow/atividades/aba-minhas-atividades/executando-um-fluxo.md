@@ -1,5 +1,7 @@
 # ➡️ Executando um fluxo
 
+{% @supademo/embed demoId="cma6vr2hl56dt13m0ysuzv91f" url="https://app.supademo.com/demo/cma6vr2hl56dt13m0ysuzv91f" %}
+
 ## Ativar Novo Fluxo
 
 1\. Para ativar um novo fluxo, no menu [Workflow > Atividades > Aba Minhas Atividades](./) clique no botão “Ativar Novo Fluxo”.&#x20;
@@ -481,3 +483,4 @@ O(s) botão(ões) <mark style="color:green;">**\[Enviar/Reenviar/Editar Processo
 {% hint style="success" %}
 Uma vez enviado, o processo passará a ser acompanhado automaticamente pelo ArqGED, e a tarefa de acompanhamento ficará disponível aos responsáveis configurados na etapa.
 {% endhint %}
+

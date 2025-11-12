@@ -1,5 +1,7 @@
 # 🔹 Aba Dados Gerais
 
+{% @supademo/embed demoId="cmafck62c07ov10snjk9h26ok" url="https://app.supademo.com/demo/cmafck62c07ov10snjk9h26ok" %}
+
 ## Configurações da Aba Dados Gerais
 
 **Campo Versão:** Apresenta o número da versão do fluxo que está sendo criada.&#x20;

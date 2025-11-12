@@ -1,5 +1,9 @@
 # 🔹 ArqSign
 
+
+
+{% @supademo/embed demoId="cmbus472jfardsn1r128xpsat" url="https://app.supademo.com/demo/cmbus472jfardsn1r128xpsat" %}
+
 A aba **ArqSign** é exibida automaticamente entre as abas **Dados Gerais** e **Fluxograma** após o salvamento dos dados gerais de um desenho de fluxo que possui um serviço do tipo **Assinador ArqSign**.
 
 Essa aba permite configurar as integrações com a plataforma ArqSign para envio de documentos para assinatura digital durante a execução do fluxo.
@@ -44,6 +48,8 @@ A configuração é composta por três seções principais:
 * **Destinatários ArqSign**
 
 ## Configurações Gerais ArqSign <a href="#configuracoes-gerais-arqsign" id="configuracoes-gerais-arqsign"></a>
+
+{% @supademo/embed demoId="cmbux43rbffi4sn1rkjs98sym" url="https://app.supademo.com/demo/cmbux43rbffi4sn1rkjs98sym" %}
 
 A seção **Configurações Gerais** define os parâmetros operacionais do processo de assinatura. Veja abaixo o detalhamento de cada campo:
 
@@ -98,6 +104,8 @@ A seção **Configurações Gerais** define os parâmetros operacionais do proce
 <figure><img src="https://manual.arquivar.com/~gitbook/image?url=https%3A%2F%2F2752216790-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fa8U8D6rT1WQEBeHaKsxV%252Fuploads%252Fqo2xvtAddWHZWAAXp3FD%252Fimage.png%3Falt%3Dmedia%26token%3Def554eff-bb68-4e55-bb34-472992767f80&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=d832bae&#x26;sv=2" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
 
 ## Mensagem Padrão ArqSign <a href="#mensagem-padrao-arqsign" id="mensagem-padrao-arqsign"></a>
+
+{% @supademo/embed demoId="cmbv15lxvfkfmsn1rj22gn6wh" url="https://app.supademo.com/demo/cmbv15lxvfkfmsn1rj22gn6wh" %}
 
 Nesta seção, o usuário pode definir a **mensagem padrão** que será enviada aos destinatários do processo de assinatura que **não possuem mensagens personalizadas configuradas individualmente**.
 
@@ -317,6 +325,8 @@ Se o processo estiver utilizando **ordem de assinatura**, o campo **Ordem** do n
 {% endhint %}
 
 ## Configurações Adicionais <a href="#configuracoes-adicionais" id="configuracoes-adicionais"></a>
+
+{% @supademo/embed demoId="cmbv5fpxtfnxosn1r3gd6zvag" url="https://app.supademo.com/demo/cmbv5fpxtfnxosn1r3gd6zvag" %}
 
 ### Aba Dados Cadastrais <a href="#aba-dados-cadastrais" id="aba-dados-cadastrais"></a>
 

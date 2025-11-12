@@ -1,5 +1,7 @@
 # 🔹 Fluxo de Trabalho
 
+{% @supademo/embed demoId="cmb6gbwcc3puzppkpp921x1o8" url="https://app.supademo.com/demo/cmb6gbwcc3puzppkpp921x1o8" %}
+
 Nesta tela são parametrizadas as etapas para indexação dos documentos para a aplicação ArqIndex.
 
 **Campo Empresa:** Utilizado para selecionar o cliente. O fluxo de trabalho sempre será associado ao cliente, nunca à unidade.

@@ -6,6 +6,8 @@ Depois de criar um tipo de caixa ou pasta e de vinculá-lo a um cliente, é prec
 
 ## Caixa do Cliente &#x20;
 
+{% @supademo/embed demoId="cmb9fbv700ypzsn1rjr51rqj0" url="https://app.supademo.com/demo/cmb9fbv700ypzsn1rjr51rqj0" %}
+
 No menu Caixa do Cliente são criadas caixas controladas pelo próprio cliente. Para criar uma caixa do cliente, selecione-o no campo “Cliente” e clique no ícone “Adicionar”. &#x20;
 
 <figure><img src="../.gitbook/assets/caixa28.png" alt=""><figcaption></figcaption></figure>
