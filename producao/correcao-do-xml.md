@@ -1,5 +1,7 @@
 # 🟩 Correção do XML
 
+{% @supademo/embed demoId="cmb81f5ln5enzppkpyun42zy5" url="https://app.supademo.com/demo/cmb81f5ln5enzppkpyun42zy5" %}
+
 Esta tela foi criada para a correção de possíveis erros na validação dos documentos gerados pela digitalização.
 
 Durante o processo de leitura do XML são realizadas validações no arquivo XML. A aplicação ArqIndex valida códigos de caixas, árvore documental, campos customizados e os Id's do cliente e da Unidade.

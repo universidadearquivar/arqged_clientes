@@ -1,6 +1,8 @@
 # 🟩 Localização Simples
 
-lização Simples funciona como uma busca geral, ou seja, é necessário apenas informar um termo ou código que se esteja buscando e selecionar o cliente ao qual o documento que se busca está relacionado. &#x20;
+{% @supademo/embed demoId="cmazfqpr799dpho3ruv0m8rio" url="https://app.supademo.com/demo/cmazfqpr799dpho3ruv0m8rio" %}
+
+Localização Simples funciona como uma busca geral, ou seja, é necessário apenas informar um termo ou código que se esteja buscando e selecionar o cliente ao qual o documento que se busca está relacionado. &#x20;
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique para ampliar a imagem.</p></figcaption></figure>
 
