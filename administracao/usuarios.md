@@ -1,10 +1,8 @@
----
-description: >-
-  No menu Usuários são criados todos os usuários que utilizam o sistema ArqGED e
-  atribuídas as permissões de acesso às funcionalidades do sistema.
----
-
 # 🟩 Usuários
+
+{% @supademo/embed demoId="cmaqucp0y2x9rho3rji94pgln" url="https://app.supademo.com/demo/cmaqucp0y2x9rho3rji94pgln" %}
+
+No menu Usuários são criados todos os usuários que utilizam o sistema ArqGED e atribuídas as permissões de acesso às funcionalidades do sistema.
 
 ## Criar novo usuário
 

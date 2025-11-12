@@ -1,12 +1,12 @@
----
-description: >-
-  No menu Grupos são criados grupos de usuários com permissão de acesso a
-  algumas funcionalidades do sistema.
----
-
 # 🟩 Grupos
 
+{% @supademo/embed demoId="cmaqpwp8g2qb7ho3rt86kqmlz" url="https://app.supademo.com/demo/cmaqpwp8g2qb7ho3rt86kqmlz" %}
+
+No menu Grupos são criados grupos de usuários com permissão de acesso a algumas funcionalidades do sistema.
+
 <figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Clique na imagem para ampliar.</p></figcaption></figure>
+
+
 
 **Empresa:** Apresenta o nome do cliente logado.
 

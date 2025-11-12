@@ -283,7 +283,7 @@ Indica quando um grupo de tarefas independentes devem ser concluídas para que o
 
 ## Tarefa do tipo Gateway Exclusivo
 
-{% @supademo/embed %}
+{% @supademo/embed demoId="cmc25u1alk8yqsn1r7ozzsutd" url="https://app.supademo.com/demo/cmc25u1alk8yqsn1r7ozzsutd" %}
 
 Em um desenho de fluxo que possuir formulário, a tarefa do tipo Gateway Exclusivo irá exibir todos os campos existentes neste formulário para que o usuário possa configurar qual campo será o responsável pelo avanço. Este é um tipo de tarefa que será utilizado somente para avanço automático via preenchimento de campo de formulário.
 
