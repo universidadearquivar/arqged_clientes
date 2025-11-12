@@ -2,7 +2,7 @@
 
 {% @supademo/embed demoId="cmal0r36435ym10snj6b74p5h" url="https://app.supademo.com/demo/cmal0r36435ym10snj6b74p5h" %}
 
-Estrutura organizacional é a nomeação da dada à estrutura física da empresa do cliente. Neste menu são nomeados os setores, unidades, documentos e outros elementos que compõem a estrutura da empresa.&#x20;
+Estrutura organizacional é a nomeação dada à estrutura física da empresa do cliente. Neste menu são nomeados os setores, unidades, documentos e outros elementos que compõem a estrutura da empresa.&#x20;
 
 {% hint style="warning" %}
 <mark style="color:orange;">**É importante que no momento de criar a estrutura organizacional do cliente o seu projeto de implantação já esteja pronto, para direcionar como essa estrutura deverá ser organizada de acordo com a estrutura física existente na empresa cliente.**</mark>
